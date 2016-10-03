@@ -3,7 +3,9 @@ layout: cv
 title: 김관호
 ---
 
-# 김관호
+### [![증명사진](https://pikachu987.github.io/cv/profile.JPG)](https://pikachu987.github.io/cv/favicon.ico "사진")
+
+<a href="https://pikachu987.github.io/cv/career.doc" class="nameTitle">__김관호__</a>
 
 IOS(swift) Developer  spring Backend Developer
 
