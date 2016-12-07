@@ -23,9 +23,21 @@ IOS(swift) Developer  spring Backend Developer
 |
 </div>
 
+## FreeLancer
+
+`2016-11 ~ 2016-12`
+<br/>
+__[KMS ExpertT IOS]()__
+
+`2015-12 ~ `
+<br/>
+__[Davich 가상장착 IOS]()__
+
 ## Employment
 
-`2015-04 ~ `
+`2015-04 ~ 2016-11`
+<br/>
+
 __시전소프트__, Software Engineer
 
 __[전단지존 IOS](https://itunes.apple.com/kr/app/id1121488884)__
@@ -51,11 +63,12 @@ spring Backend, REST API server
 
 
 
-
-
 ## Projects
 
-`2016-07 ~` __Clubful: 운동매칭 앱__
+`2016-07 ~`
+<br/>
+
+__Clubful: 운동매칭 앱__
 
 주변에 운동장을 찾거나, 지금 운동을 하고 싶은데 같이 할 친구가 없을 경우 운동을 같이할 수 있게 매칭해주는 앱
 
