@@ -25,13 +25,65 @@ IOS(swift) Developer  spring Backend Developer
 
 ## FreeLancer
 
-`2016-11 ~ 2016-12`
-<br/>
-__[KMS ExpertT IOS]()__
+
+
+
+
 
 `2015-12 ~ `
 <br/>
+
+`링크`
+
+__[Davich](http://www.expertt.cn/)__
+
 __[Davich 가상장착 IOS]()__
+
+`역활`
+
+* IOS App
+
+`사용기술`
+
+* Realm
+
+
+<br><br>
+
+
+
+
+`2016-11 ~ 2016-12`
+<br/>
+
+`링크`
+
+__[KMS ExpertT](http://www.expertt.cn/)__
+
+__[KMS ExpertT IOS](https://itunes.apple.com/kr/app/id1180869787)__
+
+`역활`
+
+* IOS App
+
+`사용기술`
+
+* Realm
+* Quickblox-WebRTC
+* SQLite
+* VOIP
+* apns
+
+
+
+
+
+
+
+
+
+<br><br>
+
 
 ## Employment
 
@@ -39,6 +91,15 @@ __[Davich 가상장착 IOS]()__
 <br/>
 
 __시전소프트__, Software Engineer
+
+`언어`
+
+* swift
+* spring
+* jsp
+* html/javaScript/css
+
+`링크`
 
 __[전단지존 IOS](https://itunes.apple.com/kr/app/id1121488884)__
 
@@ -54,14 +115,18 @@ __Android App Server__
 
 <br/>
 
-spring Backend, REST API server
+`역활`
 
-* swift 2.3
-* spring
-* jsp
-* html/javaScript/css
+IOS App, Admin server, REST API server, mobile Server
 
 
+
+
+
+
+
+
+<br><br>
 
 ## Projects
 
@@ -72,20 +137,45 @@ __Clubful: 운동매칭 앱__
 
 주변에 운동장을 찾거나, 지금 운동을 하고 싶은데 같이 할 친구가 없을 경우 운동을 같이할 수 있게 매칭해주는 앱
 
-IOS 앱 [[github]](https://github.com/decube/ClubfulIOS)
+`언어`
+
+* swift
+* node.js
+
+`링크`
+
+ClubfulIOS App [[github]](https://github.com/decube/ClubfulIOS)
 <br>
-node Image Server [[github]](https://github.com/decube/DecubeImageServer)
+Clubful Node Server [[github]](https://github.com/decube/ClubfulApiServer)
+<br>
+Clubful Node Image Server [[github]](https://github.com/decube/DecubeImageServer)
 <br>
 
-* swift 2.3
-* swift 3.0
-* node.js
+`역활`
+
+IOS App
+
+`사용기술`
+
+* Realm
+* Firebase
+* FBSDK
+* AdobeCreativeSDK
+* KakaoOpenSDK
+
+
+
+
+
+
+
+<br><br>
+
 
 
 ## Technical skills
 
-* swift 2.3
-* swift 3.0
+* swift
 * spring
 * jsp
 * html/javaScript/css
@@ -94,15 +184,31 @@ node Image Server [[github]](https://github.com/decube/DecubeImageServer)
 
 
 
+
+
+
+
+<br><br>
+
+
 ## Certifications
 
 `2016` 네트워크관리사 (한국정보통신자격협회)
 
+
+
+
+
+
+
+
+
+<br><br>
 
 ## Links
 
 * <i class="fa fa-envelope"></i> <a href="mailto:pikachu77769@gmail.com">pikachu77769@gmail.com</a><br />
 *  <i class="fa fa-facebook"></i> <a href="http://facebook.com/gaunho.kim">gaunho.kim</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/pikachu987">pikachu987</a><br />
-*  <i class="fa fa-instagram"></i> <a href="https://www.instagram.com/gaunhokim/">@gaunhokim</a><br />
+*  <i class="fa fa-instagram"></i> <a href="https://www.instagram.com/guanho9/">@guanho9</a><br />
 *  <i class="fa fa-twitter"></i> <a href="http://twitter.com/pikachu77769">@pikachu77769</a><br />
