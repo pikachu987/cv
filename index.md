@@ -30,12 +30,10 @@ IOS(swift) Developer  spring Backend Developer
 
 
 
-`2015-12 ~ `
+`2016-12 ~ 2017-01`
 <br/>
 
 `링크`
-
-__[Davich](http://www.expertt.cn/)__
 
 __[Davich 가상장착 IOS]()__
 
@@ -129,6 +127,58 @@ IOS App, Admin server, REST API server, mobile Server
 <br><br>
 
 ## Projects
+
+`2017-01 ~ 2017-01`
+<br/>
+
+__Memo: 메모장 앱__
+
+터치로 메모를 하고 이미지를 선택해서 메모장위에 올려놓을수 있는 앱
+
+`언어`
+
+* swift
+
+`링크`
+
+Editor App [[Appstore]](https://itunes.apple.com/us/app/editeo/id1194457669?l=ko&ls=1&mt=8)
+
+`역활`
+
+IOS App
+
+`사용기술`
+
+* Realm
+
+<br><br>
+
+`2017-01 ~ 2017-01`
+<br/>
+
+__Editor: 이미지 합성 앱__
+
+여러가지 이미지를 가져와서 합성을 할수 있는 앱
+
+`언어`
+
+* swift
+
+`링크`
+
+Editor App [[Appstore]](https://itunes.apple.com/us/app/editeo/id1192981741?l=ko&ls=1&mt=8)
+
+`역활`
+
+IOS App
+
+`사용기술`
+
+* Realm
+* Firebase
+
+<br><br>
+
 
 `2016-07 ~`
 <br/>
