@@ -7,13 +7,13 @@ title: 김관호
 
 <a href="https://pikachu987.github.io/cv/career.doc" class="nameTitle">__김관호__</a>
 
-IOS(swift) Developer  spring Backend Developer
+IOS Developer
 
-### __[Github](https://github.com/pikachu987/)__
+### __[Github(https://github.com/pikachu987)](https://github.com/pikachu987/)__
 
-### __[Blog](https://pikachu987.github.io/)__
+### __[Blog(https://pikachu987.github.io)](https://pikachu987.github.io/)__
 
-### __[Technology](https://pikachu987.github.io/tec/)__
+### __[Technology(https://pikachu987.github.io/tec)](https://pikachu987.github.io/tec/)__
 
 <br/><br/>
 
@@ -24,10 +24,6 @@ IOS(swift) Developer  spring Backend Developer
 </div>
 
 ## FreeLancer
-
-
-
-
 
 
 `2016-12 ~ 2017-01`
@@ -56,9 +52,9 @@ __[Davich 가상장착 IOS]()__
 
 `링크`
 
-__[KMS ExpertT](http://www.expertt.cn/)__
+__[KMS ExpertT(http://www.expertt.cn)](http://www.expertt.cn/)__
 
-__[KMS ExpertT IOS](https://itunes.apple.com/kr/app/id1180869787)__
+__[KMS ExpertT IOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes.apple.com/kr/app/id1180869787)__
 
 `역활`
 
@@ -99,7 +95,7 @@ __시전소프트__, Software Engineer
 
 `링크`
 
-__[전단지존 IOS](https://itunes.apple.com/kr/app/id1121488884)__
+__[전단지존 IOS(https://itunes.apple.com/kr/app/id1121488884)](https://itunes.apple.com/kr/app/id1121488884)__
 
 __[시전소프트 (corp.flyerszone.co.kr)](http://corp.flyerszone.co.kr/)__
 
@@ -133,7 +129,17 @@ IOS App, Admin server, REST API server, mobile Server
 
 __Memo: 메모장 앱__
 
-터치로 메모를 하고 이미지를 선택해서 메모장위에 올려놓을수 있는 앱
+● 메모장에 펜으로 그림을 그릴수 있다.<br>
+● 펜의 색, 크기를 바꿀수 있다.<br>
+● 지우개로 펜으로 그린 것을 지울수 있고 지우개 크기를 바꿀수 있다.<br>
+● 배경색을 바꿀수 있다.<br>
+● 카메라(필터적용), 갤러리, 아이콘을 가져와서 크기를 조절해서 메모장에 올려놓을수 있다.<br>
+● 텍스트를 만들어서 메모장에 올려놓을수 있다.<br>
+● 저장, 삭제, 공유가 가능하며 메모마다 잠금(지문인식)을 걸어놓을 수 있다.<br>
+
+`이미지`
+
+[![](https://pikachu987.github.io/cv/app/memo/1.jpeg)](https://pikachu987.github.io/cv/app/memo/1.jpeg "1")
 
 `언어`
 
@@ -141,7 +147,7 @@ __Memo: 메모장 앱__
 
 `링크`
 
-Editor App [[Appstore]](https://itunes.apple.com/us/app/editeo/id1194457669?l=ko&ls=1&mt=8)
+Editor App [(https://itunes.apple.com/us/app/editeo/id1194457669)](https://itunes.apple.com/us/app/editeo/id1194457669?l=ko&ls=1&mt=8)
 
 `역활`
 
@@ -158,7 +164,14 @@ IOS App
 
 __Editor: 이미지 합성 앱__
 
-여러가지 이미지를 가져와서 합성을 할수 있는 앱
+● 메모장에 펜으로 그림을 그릴수 있다.<br>
+● 펜의 색, 크기를 바꿀수 있다.<br>
+● 지우개로 펜으로 그린 것을 지울수 있고 지우개 크기를 바꿀수 있다.<br>
+● 배경색을 바꿀수 있다.<br>
+● 카메라(필터적용), 갤러리, 아이콘을 가져와서 크기를 조절해서 메모장에 올려놓을수 있다.<br>
+● 텍스트를 만들어서 메모장에 올려놓을수 있다.<br>
+● 저장, 삭제, 공유가 가능하며 메모마다 잠금(지문인식)을 걸어놓을 수 있다.<br>
+
 
 `언어`
 
@@ -166,7 +179,7 @@ __Editor: 이미지 합성 앱__
 
 `링크`
 
-Editor App [[Appstore]](https://itunes.apple.com/us/app/editeo/id1192981741?l=ko&ls=1&mt=8)
+Editor App [(https://itunes.apple.com/us/app/editeo/id1192981741)](https://itunes.apple.com/us/app/editeo/id1192981741?l=ko&ls=1&mt=8)
 
 `역활`
 
@@ -194,7 +207,7 @@ __Clubful: 운동매칭 앱__
 
 `링크`
 
-ClubfulIOS App [[github]](https://github.com/decube/ClubfulIOS)
+ClubfulIOS App [[github]](https://github.com/decube/ClubfulIOS)(https://github.com/decube/ClubfulIOS)
 <br>
 Clubful Node Server [[github]](https://github.com/decube/ClubfulApiServer)
 <br>
