@@ -23,11 +23,14 @@ IOS Developer
 |
 </div>
 
-## FreeLancer
 
+
+## Employment
 
 `2016-12 ~ 2017-01`
 <br/>
+
+__앱스토어__, IOS Developer(프리랜서)
 
 `링크`
 
@@ -49,6 +52,17 @@ __[Davich 가상장착 IOS]()__
 
 `2016-11 ~ 2016-12`
 <br/>
+
+__앱스토어__, IOS Developer(프리랜서)
+
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/company/et/1.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/1.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/et/2.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/2.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/et/3.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/3.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/et/4.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/4.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/et/5.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/5.jpg" width="15%"></a>&nbsp;&nbsp;
 
 `링크`
 
@@ -72,31 +86,29 @@ __[KMS ExpertT IOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 <br><br>
 
 
-## Employment
-
 `2015-04 ~ 2016-11`
 <br/>
 
-__시전소프트__, Software Engineer
+__시전소프트__, IOS Developer(대리)
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/company/jundan/1.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/1.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/jundan/2.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/2.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/jundan/3.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/3.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/jundan/4.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/4.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/jundan/5.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/5.jpg" width="15%"></a>&nbsp;&nbsp;
 
 `언어`
 
 * swift
 * spring
-* jsp
-* html/javaScript/css
 
 `링크`
 
-__[전단지존 IOS(https://itunes.apple.com/kr/app/id1121488884)](https://itunes.apple.com/kr/app/id1121488884)__
-
-__[시전소프트 (corp.flyerszone.co.kr)](http://corp.flyerszone.co.kr/)__
-
 __[전단지존 (company.flyerszone.co.kr)](http://company.flyerszone.co.kr/)__
 
-__[전단지존모바일 (www.flyerszone.co.kr)](http://www.flyerszone.co.kr/)__
-
-__전단지존관리자페이지__
+__[전단지존 IOS(https://itunes.apple.com/kr/app/id1121488884)](https://itunes.apple.com/kr/app/id1121488884)__
 
 __Android App Server__
 
@@ -104,14 +116,30 @@ __Android App Server__
 
 `역활`
 
-IOS App, Admin server, REST API server, mobile Server
+IOS App, Server, API
 
 
 <br><br>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Individual Projects
 
 `2017-01 ~ 2017-01`
+
 <br/>
 
 __Memo: 메모장 앱__
