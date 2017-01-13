@@ -5,9 +5,9 @@ title: 김관호
 
 ### [![증명사진](https://pikachu987.github.io/cv/profile.JPG)](https://pikachu987.github.io/cv/favicon.ico "사진")
 
-<a href="https://pikachu987.github.io/cv/career.doc" class="nameTitle">__김관호__</a>
-
-IOS Developer
+__김관호__ <br>
+IOS Develop <br>
+<a href="https://pikachu987.github.io/cv/GuanhoKim_CV.pdf">__PDF로 이력서 다운받기__</a>
 
 ### __[Github(https://github.com/pikachu987)](https://github.com/pikachu987/)__
 
