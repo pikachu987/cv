@@ -69,13 +69,6 @@ __[KMS ExpertT IOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 * apns
 
 
-
-
-
-
-
-
-
 <br><br>
 
 
@@ -114,12 +107,6 @@ __Android App Server__
 IOS App, Admin server, REST API server, mobile Server
 
 
-
-
-
-
-
-
 <br><br>
 
 ## Individual Projects
@@ -142,11 +129,11 @@ __Memo: 메모장 앱__
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/memo/1.jpeg"><img src="https://pikachu987.github.io/cv/app/memo/1.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/memo/2.jpeg"><img src="https://pikachu987.github.io/cv/app/memo/2.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/memo/3.jpeg"><img src="https://pikachu987.github.io/cv/app/memo/3.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/memo/4.jpeg"><img src="https://pikachu987.github.io/cv/app/memo/4.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/memo/5.jpeg"><img src="https://pikachu987.github.io/cv/app/memo/5.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/memo/1.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/1.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/memo/2.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/2.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/memo/3.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/3.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/memo/4.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/4.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/memo/5.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/5.jpeg" width="15%"></a>&nbsp;&nbsp;
 
 
 `언어`
@@ -183,11 +170,11 @@ __Editor: 이미지 합성 앱__
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/editor/1.jpg"><img src="https://pikachu987.github.io/cv/app/editor/1.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/editor/2.jpg"><img src="https://pikachu987.github.io/cv/app/editor/2.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/editor/3.jpg"><img src="https://pikachu987.github.io/cv/app/editor/3.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/editor/4.jpg"><img src="https://pikachu987.github.io/cv/app/editor/4.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/editor/5.jpg"><img src="https://pikachu987.github.io/cv/app/editor/5.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/editor/1.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/1.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/editor/2.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/2.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/editor/3.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/3.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/editor/4.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/4.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/editor/5.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/5.jpg" width="15%"></a>&nbsp;&nbsp;
 
 
 `언어`
@@ -226,12 +213,12 @@ __Clubful: 운동매칭 앱__
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/clubful/1.jpeg"><img src="https://pikachu987.github.io/cv/app/clubful/1.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/clubful/2.jpeg"><img src="https://pikachu987.github.io/cv/app/clubful/2.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/clubful/3.jpeg"><img src="https://pikachu987.github.io/cv/app/clubful/3.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/clubful/4.jpeg"><img src="https://pikachu987.github.io/cv/app/clubful/4.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/clubful/5.jpeg"><img src="https://pikachu987.github.io/cv/app/clubful/5.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/clubful/6.jpeg"><img src="https://pikachu987.github.io/cv/app/clubful/6.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/clubful/1.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/1.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/clubful/2.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/2.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/clubful/3.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/3.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/clubful/4.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/4.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/clubful/5.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/5.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/clubful/6.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/6.jpeg" width="15%"></a>&nbsp;&nbsp;
 
 
 
@@ -282,20 +269,12 @@ IOS App
 
 
 
-
-
-
-
 <br><br>
 
 
 ## Certifications
 
 `2016` 네트워크관리사 (한국정보통신자격협회)
-
-
-
-
 
 
 
