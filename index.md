@@ -149,13 +149,14 @@ __Markdown: 마크다운 앱__
 ● 마크다운을 적을수 있다.<br>
 ● 마크다운을 적기 편하게 키보드 상단에 여러가지 버튼이 있다.<br>
 ● 마크다운을 적으면서 마크다운 미리보기를 할 수 있다.<br>
-● 마크다운을 저장할 수 있다.(개발중)<br>
-● 마크다운을 공유할 수 있다.(개발중)<br>
+● 마크다운을 저장할 수 있다.<br>
+● 마크다운을 공유할 수 있다.<br>
 
 `이미지`
 
 <a href="https://pikachu987.github.io/cv/app/individual/markdown/1.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/1.jpeg" width="15%"></a>&nbsp;&nbsp;
 <a href="https://pikachu987.github.io/cv/app/individual/markdown/2.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/2.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/markdown/3.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/3.jpeg" width="15%"></a>&nbsp;&nbsp;
 
 
 `언어`
