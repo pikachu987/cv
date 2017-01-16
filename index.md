@@ -142,6 +142,50 @@ IOS App, Server, API
 
 <br/>
 
+__Markdown: 마크다운 앱__
+
+아이폰용 마크다운 에디터
+
+● 마크다운을 적을수 있다.<br>
+● 마크다운을 적기 편하게 키보드 상단에 여러가지 버튼이 있다.<br>
+● 마크다운을 적으면서 마크다운 미리보기를 할 수 있다.<br>
+● 마크다운을 저장할 수 있다.(개발중)<br>
+● 마크다운을 공유할 수 있다.(개발중)<br>
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/individual/markdown/1.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/1.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/markdown/2.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/2.jpeg" width="15%"></a>&nbsp;&nbsp;
+
+
+`언어`
+
+* Objective-c
+
+`링크`
+
+Editor App [(https://itunes.apple.com/us/app/editeo/id1195478325)](https://itunes.apple.com/us/app/markdown/id1195478325?l=ko&ls=1&mt=8)
+
+`역활`
+
+IOS App
+
+`사용기술`
+
+* CoreData
+
+<br><br>
+
+
+
+
+
+
+
+`2017-01 ~ 2017-01`
+
+<br/>
+
 __Memo: 메모장 앱__
 
 간단하게 메모를 하거나 메모장에 이미지를 넣을 수 있고 보안을 걸수 있는 앱
@@ -170,7 +214,7 @@ __Memo: 메모장 앱__
 
 `링크`
 
-Editor App [(https://itunes.apple.com/us/app/editeo/id1194457669)](https://itunes.apple.com/us/app/editeo/id1194457669?l=ko&ls=1&mt=8)
+Editor App [(https://itunes.apple.com/us/app/editeo/id1194457669)](https://itunes.apple.com/us/app/memo/id1194457669?l=ko&ls=1&mt=8)
 
 `역활`
 
@@ -179,8 +223,15 @@ IOS App
 `사용기술`
 
 * Realm
+* Firebase
 
 <br><br>
+
+
+
+
+
+
 
 `2017-01 ~ 2017-01`
 <br/>
@@ -223,6 +274,14 @@ IOS App
 * Firebase
 
 <br><br>
+
+
+
+
+
+
+
+
 
 
 `2016-07 ~`
