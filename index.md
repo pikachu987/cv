@@ -27,7 +27,7 @@ title: 김관호
 
 __김관호__ <br>
 IOS Develop <br>
-<a href="https://pikachu987.github.io/cv/GuanhoKim_CV.pdf" target="_blank">__PDF로 이력서 다운받기__</a>
+<a href="https://pikachu987.github.io/cv/GwanhoKim_CV.pdf" target="_blank">__PDF로 이력서 다운받기__</a>
 
 ### __[Github(https://github.com/pikachu987)](https://github.com/pikachu987/)__
 
