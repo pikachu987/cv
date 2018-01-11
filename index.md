@@ -82,11 +82,11 @@ __닥프렌즈__, iOS Developer
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom1.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom2.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom3.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom4.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom5.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom5.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom1.png" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom2.png" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom3.png" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom4.png" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom5.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom5.png" width="200px"></a>&nbsp;&nbsp;
 
 `링크`
 
@@ -129,11 +129,11 @@ __OGQ__, iOS Developer
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq1.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq1.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq2.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq2.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq3.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq3.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq4.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq4.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq5.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq5.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq1.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq1.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq2.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq2.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq3.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq3.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq4.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq4.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq5.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq5.jpg" width="200px"></a>&nbsp;&nbsp;
 
 `링크`
 
@@ -174,11 +174,11 @@ __닥프렌즈__, iOS Developer
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk1.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk2.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk3.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk4.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk5.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk5.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk1.png" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk2.png" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk3.png" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk4.png" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk5.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk5.png" width="200px"></a>&nbsp;&nbsp;
 
 `링크`
 
@@ -220,11 +220,11 @@ __앱스토어__, iOS Developer(프리랜서)
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/company/et/1.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/1.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/et/2.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/2.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/et/3.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/3.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/et/4.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/4.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/et/5.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/5.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/et/1.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/1.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/et/2.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/2.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/et/3.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/3.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/et/4.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/4.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/et/5.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/5.jpg" width="200px"></a>&nbsp;&nbsp;
 
 `링크`
 
@@ -270,11 +270,11 @@ __시전소프트__, iOS Developer(대리)
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/company/jundan/1.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/1.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/jundan/2.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/2.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/jundan/3.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/3.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/jundan/4.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/4.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/jundan/5.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/5.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/jundan/1.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/1.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/jundan/2.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/2.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/jundan/3.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/3.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/jundan/4.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/4.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/jundan/5.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/5.jpg" width="200px"></a>&nbsp;&nbsp;
 
 `언어`
 
@@ -341,11 +341,11 @@ __FakeCall: 가짜전화 앱__
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en1.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en1.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en2.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en2.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en3.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en3.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en4.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en4.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en5.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en5.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en1.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en1.png" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en2.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en2.png" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en3.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en3.png" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en4.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en4.png" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en5.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en5.png" width="200px"></a>&nbsp;&nbsp;
 
 
 `언어`
@@ -398,11 +398,11 @@ __Script: 대본공부 앱__
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/script/1.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/1.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/script/2.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/2.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/script/3.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/3.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/script/4.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/4.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/script/5.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/5.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/script/1.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/1.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/script/2.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/2.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/script/3.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/3.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/script/4.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/4.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/script/5.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/5.jpg" width="200px"></a>&nbsp;&nbsp;
 
 
 `언어`
@@ -456,9 +456,9 @@ __Markdown: 마크다운 앱__
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/markdown/1.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/1.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/markdown/2.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/2.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/markdown/3.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/3.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/markdown/1.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/1.jpeg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/markdown/2.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/2.jpeg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/markdown/3.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/3.jpeg" width="200px"></a>&nbsp;&nbsp;
 
 
 `언어`
@@ -511,11 +511,11 @@ __Memo: 메모장 앱__
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/memo/1.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/1.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/memo/2.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/2.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/memo/3.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/3.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/memo/4.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/4.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/memo/5.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/5.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/memo/1.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/1.jpeg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/memo/2.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/2.jpeg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/memo/3.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/3.jpeg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/memo/4.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/4.jpeg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/memo/5.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/5.jpeg" width="200px"></a>&nbsp;&nbsp;
 
 
 `언어`
@@ -564,11 +564,11 @@ __Editor: 이미지 합성 앱__
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/editor/1.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/1.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/editor/2.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/2.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/editor/3.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/3.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/editor/4.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/4.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/editor/5.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/5.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/editor/1.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/1.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/editor/2.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/2.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/editor/3.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/3.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/editor/4.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/4.jpg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/editor/5.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/5.jpg" width="200px"></a>&nbsp;&nbsp;
 
 
 `언어`
@@ -619,12 +619,12 @@ __Clubful: 운동매칭 앱__
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/clubful/1.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/1.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/clubful/2.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/2.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/clubful/3.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/3.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/clubful/4.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/4.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/clubful/5.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/5.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/clubful/6.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/6.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/clubful/1.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/1.jpeg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/clubful/2.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/2.jpeg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/clubful/3.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/3.jpeg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/clubful/4.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/4.jpeg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/clubful/5.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/5.jpeg" width="200px"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/clubful/6.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/6.jpeg" width="200px"></a>&nbsp;&nbsp;
 
 
 
