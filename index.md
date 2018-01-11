@@ -3,7 +3,27 @@ layout: cv
 title: 김관호
 ---
 
+
+
+
+
+
+
+
+
+
 ### [![증명사진](https://pikachu987.github.io/cv/profile.JPG)](https://pikachu987.github.io/cv/favicon.ico "사진")
+
+
+
+
+
+
+
+
+
+
+
 
 __김관호__ <br>
 IOS Develop <br>
@@ -25,27 +45,169 @@ IOS Develop <br>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Employment
 
-`2016-12 ~ 2017-01`
-<br/>
 
-__앱스토어__, IOS Developer(프리랜서)
+
+
+
+
+
+
+
+
+
+
+
+
+`2017-02 ~ 현재`
+<br/>
+__닥프렌즈__, iOS Developer
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom1.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom2.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom3.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom4.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom5.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom5.png" width="15%"></a>&nbsp;&nbsp;
 
 `링크`
 
-__[Davich 가상장착 IOS]()__
+__[DOCTALK(http://hugmom.co.kr/)](http://hugmom.co.kr/)__
+
+__[HUGMOM iOS(https://itunes.apple.com/kr/app/id1311332362)](https://itunes.apple.com/kr/app/id1311332362)__
 
 `역활`
 
-* IOS App
+* iOS App
 
 `사용기술`
 
-* Realm
-
+* CoreData
+* Socket
 
 <br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`2017-04 ~ 현재`
+<br/>
+__OGQ__, iOS Developer
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq1.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq1.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq2.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq2.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq3.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq3.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq4.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq4.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq5.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq5.jpg" width="15%"></a>&nbsp;&nbsp;
+
+`링크`
+
+__[OGQ(http://www.ogqcorp.com/)](http://www.ogqcorp.com/)__
+
+__[OGQ iOS(https://itunes.apple.com/app/id541860561)](https://itunes.apple.com/app/id541860561)__
+
+`역활`
+
+* iOS App
+
+`사용기술`
+
+* Keychain
+* GPUImage
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`2017-02 ~ 현재`
+<br/>
+__닥프렌즈__, iOS Developer
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk1.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk2.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk3.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk4.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk5.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk5.png" width="15%"></a>&nbsp;&nbsp;
+
+`링크`
+
+__[DOCTALK(http://www.doctalk.co.kr/)](http://www.doctalk.co.kr/)__
+
+__[DOCTALK iOS(https://itunes.apple.com/kr/app/id1220724684)](https://itunes.apple.com/kr/app/id1220724684)__
+
+`역활`
+
+* iOS App
+
+`사용기술`
+
+* CoreData
+* Socket
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -53,7 +215,7 @@ __[Davich 가상장착 IOS]()__
 `2016-11 ~ 2016-12`
 <br/>
 
-__앱스토어__, IOS Developer(프리랜서)
+__앱스토어__, iOS Developer(프리랜서)
 
 
 `이미지`
@@ -68,11 +230,11 @@ __앱스토어__, IOS Developer(프리랜서)
 
 __[KMS ExpertT(http://www.expertt.cn)](http://www.expertt.cn/)__
 
-__[KMS ExpertT IOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes.apple.com/kr/app/id1180869787)__
+__[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes.apple.com/kr/app/id1180869787)__
 
 `역활`
 
-* IOS App
+* iOS App
 
 `사용기술`
 
@@ -86,10 +248,25 @@ __[KMS ExpertT IOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 <br><br>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 `2015-04 ~ 2016-11`
 <br/>
 
-__시전소프트__, IOS Developer(대리)
+__시전소프트__, iOS Developer(대리)
 
 `이미지`
 
@@ -108,7 +285,7 @@ __시전소프트__, IOS Developer(대리)
 
 __[전단지존 (company.flyerszone.co.kr)](http://company.flyerszone.co.kr/)__
 
-__[전단지존 IOS(https://itunes.apple.com/kr/app/id1121488884)](https://itunes.apple.com/kr/app/id1121488884)__
+__[전단지존 iOS(https://itunes.apple.com/kr/app/id1121488884)](https://itunes.apple.com/kr/app/id1121488884)__
 
 __Android App Server__
 
@@ -116,7 +293,7 @@ __Android App Server__
 
 `역활`
 
-IOS App, Server, API
+iOS App, Server, API
 
 
 <br><br>
@@ -136,7 +313,144 @@ IOS App, Server, API
 
 
 
+
+
+
+
+
 ## Individual Projects
+
+
+
+
+
+
+`2018-1 ~ 2018-1`
+
+<br/>
+
+__FakeCall: 가짜전화 앱__
+
+아이폰용 가짜전화 앱
+
+
+1. 기존 휴대폰의 연락처에 있는 사람들에게 가짜로 전화를 걸 수 있습니다.
+<br/>
+2. 새로운 연락처를 등록해서 가짜로 전화를 걸 수 있습니다.
+<br/>
+3. 기존 연락처나 새로운 연락처에서 전화를 걸게 할 수 있습니다.
+<br/>
+4. 전화왔을 때 알림음과 진동, 배경화면을 바꿀 수 있습니다.
+<br/>
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en1.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en1.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en2.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en2.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en3.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en3.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en4.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en4.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en5.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en5.png" width="15%"></a>&nbsp;&nbsp;
+
+
+`언어`
+
+* Swift
+
+`링크`
+
+FakeCall App [(https://itunes.apple.com/us/app/id1330370713)](https://itunes.apple.com/us/app/id1330370713)
+
+`역활`
+
+iOS App
+
+`사용기술`
+
+* CoreData
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`2017-12 ~ 2017-12`
+
+<br/>
+
+__Script: 대본공부 앱__
+
+아이폰용 대본공부 앱
+
+
+1. 나에게 맞는 앱 디자인을 선택할 수 있습니다.
+<br/>
+2. 중요 문장을 추가할수 있습니다.
+<br/>
+3. 대본, 중요 문장에서 검색을 할수 있습니다.
+<br/>
+4. 대본, 중요 문장을 번역할 수 있습니다.
+<br/>
+5. 중요 문장에 태그를 선택할수 있습니다.
+<br/>
+6. 대본에 따라 자신이 마지막 공부한 위치로 돌아갈 수 있습니다.
+<br/>
+7. 대본과 중요문장을 저장할수 있습니다. 데이터는 서버에 저장되지 않고 휴대폰 기기에 저장되기 때문에 다른 사람들에게 노출되지 않고 다시 불러올 수 있습니다.
+<br/>
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/individual/script/1.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/1.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/script/2.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/2.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/script/3.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/3.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/script/4.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/4.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/script/5.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/5.jpg" width="15%"></a>&nbsp;&nbsp;
+
+
+`언어`
+
+* Swift
+
+`링크`
+
+Script App [(https://itunes.apple.com/us/app/id1319037733)](https://itunes.apple.com/us/app/id1319037733)
+
+`역활`
+
+iOS App
+
+`사용기술`
+
+* CoreData
+* Keychain
+* ZipArchive
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 `2017-01 ~ 2017-01`
 
@@ -169,13 +483,20 @@ Editor App [(https://itunes.apple.com/us/app/editeo/id1195478325)](https://itune
 
 `역활`
 
-IOS App
+iOS App
 
 `사용기술`
 
 * CoreData
 
 <br><br>
+
+
+
+
+
+
+
 
 
 
@@ -219,7 +540,7 @@ Editor App [(https://itunes.apple.com/us/app/editeo/id1194457669)](https://itune
 
 `역활`
 
-IOS App
+iOS App
 
 `사용기술`
 
@@ -227,6 +548,11 @@ IOS App
 * Firebase
 
 <br><br>
+
+
+
+
+
 
 
 
@@ -267,7 +593,7 @@ Editor App [(https://itunes.apple.com/us/app/editeo/id1192981741)](https://itune
 
 `역활`
 
-IOS App
+iOS App
 
 `사용기술`
 
@@ -275,6 +601,10 @@ IOS App
 * Firebase
 
 <br><br>
+
+
+
+
 
 
 
@@ -312,7 +642,7 @@ __Clubful: 운동매칭 앱__
 
 `언어`
 
-* swift
+* Swift
 * node.js
 
 `링크`
@@ -326,7 +656,7 @@ Clubful Node Image Server [[github]](https://github.com/decube/DecubeImageServer
 
 `역활`
 
-IOS App
+iOS App
 
 `사용기술`
 
@@ -342,13 +672,18 @@ IOS App
 
 
 
+
+
+
+
+
 <br><br>
 
 
 
 ## Technical skills
 
-* swift
+* Swift
 * spring
 * jsp
 * html/javaScript/css
@@ -358,12 +693,21 @@ IOS App
 
 
 
+
+
+
+
+
 <br><br>
 
 
 ## Certifications
 
 `2016` 네트워크관리사 (한국정보통신자격협회)
+
+
+
+
 
 
 
