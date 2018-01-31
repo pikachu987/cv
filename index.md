@@ -673,6 +673,7 @@ __일루와: 중간 장소 지정해주는 앱__
 <a href="https://pikachu987.github.io/cv/app/team/common/3.png"><img src="https://pikachu987.github.io/cv/app/team/common/3.png" width="15%"></a>&nbsp;&nbsp;
 <a href="https://pikachu987.github.io/cv/app/team/common/4.png"><img src="https://pikachu987.github.io/cv/app/team/common/4.png" width="15%"></a>&nbsp;&nbsp;
 <a href="https://pikachu987.github.io/cv/app/team/common/5.png"><img src="https://pikachu987.github.io/cv/app/team/common/5.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/team/common/6.png"><img src="https://pikachu987.github.io/cv/app/team/common/6.png" width="15%"></a>&nbsp;&nbsp;
 
 
 `언어`
