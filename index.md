@@ -212,10 +212,10 @@ __[DOCTALK iOS(https://itunes.apple.com/kr/app/id1220724684)](https://itunes.app
 
 
 
-`2016-11 ~ 2016-12`
+`2016-11 ~ 2017-01`
 <br/>
 
-__앱스토어__, iOS Developer(프리랜서)
+iOS Developer(프리랜서)
 
 
 `이미지`
@@ -319,6 +319,63 @@ iOS App, Server, API
 
 
 ## Individual Projects
+
+
+
+
+
+
+
+
+
+`2018-01 ~ 2018-01`
+
+<br/>
+
+__MakeGIF: 움짤 그림 만들기 앱__
+
+GIF 움짤만들기 앱
+
+● 터치로 쉽게 움짤을 만들수 있습니다.<br/>
+● 펜 색과 사이즈를 조절할수 있습니다.<br/>
+● 배경색과 배경이미지를 변경할수 있습니다.<br/>
+● 갤러리에 저장된 사진들을 GIF로 변경할수 있습니다.<br/>
+● 갤러리에 저장된 사진들을 원모양 GIF로 변경할수 있습니다.<br/>
+● GIF 이미지들을 일반 사진으로 변경할 수 있습니다.<br/>
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/individual/makegif/1.png"><img src="https://pikachu987.github.io/cv/app/individual/makegif/1.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/makegif/2.png"><img src="https://pikachu987.github.io/cv/app/individual/makegif/2.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/makegif/3.png"><img src="https://pikachu987.github.io/cv/app/individual/makegif/3.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/makegif/4.png"><img src="https://pikachu987.github.io/cv/app/individual/makegif/4.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/makegif/5.png"><img src="https://pikachu987.github.io/cv/app/individual/makegif/5.png" width="15%"></a>&nbsp;&nbsp;
+
+
+`언어`
+
+* Swift
+
+`링크`
+
+FakeCall App [(https://itunes.apple.com/us/app/id1332469018)](https://itunes.apple.com/us/app/id1332469018)
+
+`역활`
+
+iOS App
+
+`사용기술`
+
+* OpenGL
+
+<br><br>
+
+
+
+
+
+
+
 
 
 
@@ -588,75 +645,43 @@ iOS App
 * Realm
 * Firebase
 
+
+
+
+
+
 <br><br>
 
 
 
 
+## Team Projects
 
+`2018-01 ~ 2018-01`
 
-
-
-
-
-
-
-
-
-`2016-07 ~`
 <br/>
 
-__Clubful: 운동매칭 앱__
+__일루와: 중간 장소 지정해주는 앱__
 
-주변에 운동장을 찾거나, 지금 운동을 하고 싶은데 같이 할 친구가 없을 경우 운동을 같이할 수 있게 매칭해주는 앱
+<a href="https://www.facebook.com/unithonWithU/">6회 유니톤(대학 해커톤) 우수상</a>&nbsp;&nbsp;
 
-● 원하는 종목의 리스트를 불러오고 해당 장소를 찜 할 수 있다.<br>
-● 해당 코트의 이미지를 롱터치로 이미지주소를 복사, 이미지를 저장, 공유, 인터넷으로 열 수 있다.<br>
-● 해당 장소 근처에 있는 사용자, 해당 장소를 찜한 사용자들에게 Push를 날릴 수 있다.<br>
-● Push를 받은 사용자는 다시 Push를 해준 사용자에게 Push를 날릴 수 있다.<br>
-● 종목을 등록할 수 있고 장소를 등록 할 수 있다.<br>
-● 소셜 로그인(카카오톡, 페이스북)을 할 수 있다.<br>
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/clubful/1.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/1.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/clubful/2.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/2.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/clubful/3.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/3.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/clubful/4.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/4.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/clubful/5.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/5.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/clubful/6.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/clubful/6.jpeg" width="15%"></a>&nbsp;&nbsp;
-
+<a href="https://pikachu987.github.io/cv/app/team/common/1.png"><img src="https://pikachu987.github.io/cv/app/team/common/1.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/team/common/2.png"><img src="https://pikachu987.github.io/cv/app/team/common/2.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/team/common/3.png"><img src="https://pikachu987.github.io/cv/app/team/common/3.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/team/common/4.png"><img src="https://pikachu987.github.io/cv/app/team/common/4.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/team/common/5.png"><img src="https://pikachu987.github.io/cv/app/team/common/5.png" width="15%"></a>&nbsp;&nbsp;
 
 
 `언어`
 
-* Swift
-* node.js
-
-`링크`
-
-ClubfulIOS App [[github]](https://github.com/decube/ClubfulIOS)(https://github.com/decube/ClubfulIOS)
-<br>
-Clubful Node Server [[github]](https://github.com/decube/ClubfulApiServer)
-<br>
-Clubful Node Image Server [[github]](https://github.com/decube/DecubeImageServer)
-<br>
+* Swift, Node
 
 `역활`
 
-iOS App
-
-`사용기술`
-
-* Realm
-* Firebase
-* FBSDK
-* AdobeCreativeSDK
-* KakaoOpenSDK
-
-
-
-
+iOS App, Node Server
 
 
 
@@ -671,12 +696,12 @@ iOS App
 
 ## Technical skills
 
-* Swift
-* spring
-* jsp
-* html/javaScript/css
-* git
-* mysql
+* SWIFT
+* SPRING
+* JSP
+* HTML/JavaScript/CSS
+* Node
+* Mysql
 * Objective-c
 
 
