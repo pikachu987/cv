@@ -698,12 +698,9 @@ iOS App, Node Server
 ## Technical skills
 
 * SWIFT
-* SPRING
-* JSP
 * HTML/JavaScript/CSS
 * Node
 * Mysql
-* Objective-c
 
 
 
