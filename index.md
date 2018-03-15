@@ -358,7 +358,7 @@ GIF 움짤만들기 앱
 
 `링크`
 
-FakeCall App [(https://itunes.apple.com/us/app/id1332469018)](https://itunes.apple.com/us/app/id1332469018)
+MakeGIF App [(https://itunes.apple.com/us/app/id1332469018)](https://itunes.apple.com/us/app/id1332469018)
 
 `역활`
 
@@ -524,7 +524,7 @@ __Markdown: 마크다운 앱__
 
 `링크`
 
-Editor App [(https://itunes.apple.com/us/app/editeo/id1195478325)](https://itunes.apple.com/us/app/markdown/id1195478325?l=ko&ls=1&mt=8)
+Markdown App [(https://itunes.apple.com/us/app/editeo/id1195478325)](https://itunes.apple.com/us/app/markdown/id1195478325?l=ko&ls=1&mt=8)
 
 `역활`
 
@@ -581,7 +581,7 @@ __Memo: 메모장 앱__
 
 `링크`
 
-Editor App [(https://itunes.apple.com/us/app/editeo/id1194457669)](https://itunes.apple.com/us/app/memo/id1194457669?l=ko&ls=1&mt=8)
+Memo App [(https://itunes.apple.com/us/app/editeo/id1194457669)](https://itunes.apple.com/us/app/memo/id1194457669?l=ko&ls=1&mt=8)
 
 `역활`
 
