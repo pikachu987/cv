@@ -96,7 +96,7 @@ __[HUGMOM iOS(https://itunes.apple.com/kr/app/id1311332362)](https://itunes.appl
 
 `역활`
 
-* iOS App
+* iOS App 전체
 
 `사용기술`
 
@@ -143,7 +143,8 @@ __[OGQ iOS(https://itunes.apple.com/app/id541860561)](https://itunes.apple.com/a
 
 `역활`
 
-* iOS App
+* iOS App Objective-C 로 되어있던 앱을 Swift3로 변환
+* iOS App 햄버거 메뉴로 되어있던 버전4를 하단탭 메뉴 버전5로 리뉴얼
 
 `사용기술`
 
@@ -188,7 +189,7 @@ __[DOCTALK iOS(https://itunes.apple.com/kr/app/id1220724684)](https://itunes.app
 
 `역활`
 
-* iOS App
+* iOS App 전체
 
 `사용기술`
 
@@ -234,7 +235,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `역활`
 
-* iOS App
+* iOS App 전체
 
 `사용기술`
 
@@ -279,7 +280,6 @@ __시전소프트__, iOS Developer(대리)
 `언어`
 
 * swift
-* spring
 
 `링크`
 
@@ -287,13 +287,13 @@ __[전단지존 (company.flyerszone.co.kr)](http://company.flyerszone.co.kr/)__
 
 __[전단지존 iOS(https://itunes.apple.com/kr/app/id1121488884)](https://itunes.apple.com/kr/app/id1121488884)__
 
-__Android App Server__
 
 <br/>
 
 `역활`
 
-iOS App, Server, API
+- iOS App 전체 
+- ~~Server~~
 
 
 <br><br>
@@ -362,7 +362,7 @@ MakeGIF App [(https://itunes.apple.com/us/app/id1332469018)](https://itunes.appl
 
 `역활`
 
-iOS App
+- iOS App
 
 `사용기술`
 
@@ -415,7 +415,7 @@ FakeCall App [(https://itunes.apple.com/us/app/id1330370713)](https://itunes.app
 
 `역활`
 
-iOS App
+- iOS App
 
 `사용기술`
 
@@ -472,7 +472,7 @@ Script App [(https://itunes.apple.com/us/app/id1319037733)](https://itunes.apple
 
 `역활`
 
-iOS App
+- iOS App
 
 `사용기술`
 
@@ -528,7 +528,7 @@ Markdown App [(https://itunes.apple.com/us/app/editeo/id1195478325)](https://itu
 
 `역활`
 
-iOS App
+- iOS App
 
 `사용기술`
 
@@ -585,12 +585,12 @@ Memo App [(https://itunes.apple.com/us/app/editeo/id1194457669)](https://itunes.
 
 `역활`
 
-iOS App
+- iOS App
 
 `사용기술`
 
-* Realm
-* Firebase
+- Realm
+- Firebase
 
 <br><br>
 
@@ -638,12 +638,12 @@ Editor App [(https://itunes.apple.com/us/app/editeo/id1192981741)](https://itune
 
 `역활`
 
-iOS App
+- iOS App
 
 `사용기술`
 
-* Realm
-* Firebase
+- Realm
+- Firebase
 
 
 
@@ -678,12 +678,15 @@ __일루와: 중간 장소 지정해주는 앱__
 
 `언어`
 
-* Swift, Node
+- Swift
+- Node
 
 `역활`
 
-iOS App, Node Server
-
+- Node Server
+- iOS 앱 기본 틀
+- iOS 앱 페이지들 연결
+- iOS 앱 통신 모듈
 
 
 
@@ -698,9 +701,7 @@ iOS App, Node Server
 ## Technical skills
 
 * SWIFT
-* HTML/JavaScript/CSS
 * Node
-* Mysql
 
 
 
