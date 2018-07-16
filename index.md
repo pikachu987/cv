@@ -71,6 +71,75 @@ IOS Develop <br>
 
 
 
+`2018-02 ~ 현재`
+<br/>
+__닥프렌즈__, iOS Developer
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshare1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshare1.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshare2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshare2.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshare3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshare3.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshare4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshare4.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshare5.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshare5.png" width="15%"></a>&nbsp;&nbsp;
+
+`링크`
+
+__[OSHAREHOUSE(https://www.facebook.com/osharehouse/)](https://www.facebook.com/osharehouse/)__
+
+__[OSHAREHOUSE iOS(https://itunes.apple.com/kr/app/id1383090453)](https://itunes.apple.com/kr/app/id1383090453)__
+
+`역활`
+
+* iOS App 전체
+
+`사용기술`
+
+* CoreData
+* Socket
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+`2018-02 ~ 현재`
+<br/>
+__닥프렌즈__, iOS Developer
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin1.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin2.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin3.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin4.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin5.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin5.png" width="15%"></a>&nbsp;&nbsp;
+
+`링크`
+
+__[OSHAREHOUSE(https://www.facebook.com/osharehouse/)](https://www.facebook.com/osharehouse/)__
+
+__[OSHAREHOUSE ADMIN iOS(https://itunes.apple.com/kr/app/id1351570974)](https://itunes.apple.com/kr/app/id1351570974)__
+
+`역활`
+
+* iOS App 전체
+
+`사용기술`
+
+* CoreData
+* Socket
+
+<br><br>
+
+
 
 
 
@@ -292,7 +361,7 @@ __[전단지존 iOS(https://itunes.apple.com/kr/app/id1121488884)](https://itune
 
 `역활`
 
-- iOS App 전체 
+- iOS App 전체
 - ~~Server~~
 
 
