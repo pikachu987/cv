@@ -333,7 +333,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 
 
-`2015-04 ~ 2016-11`
+`2016-06 ~ 2016-11`
 <br/>
 
 __시전소프트__, iOS Developer(대리)
@@ -362,7 +362,6 @@ __[전단지존 iOS(https://itunes.apple.com/kr/app/id1121488884)](https://itune
 `역활`
 
 - iOS App 전체
-- ~~Server~~
 
 
 <br><br>
@@ -587,10 +586,6 @@ __Markdown: 마크다운 앱__
 <a href="https://pikachu987.github.io/cv/app/individual/markdown/3.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/3.jpeg" width="15%"></a>&nbsp;&nbsp;
 
 
-`언어`
-
-* Objective-c
-
 `링크`
 
 Markdown App [(https://itunes.apple.com/us/app/editeo/id1195478325)](https://itunes.apple.com/us/app/markdown/id1195478325?l=ko&ls=1&mt=8)
@@ -748,11 +743,9 @@ __일루와: 중간 장소 지정해주는 앱__
 `언어`
 
 - Swift
-- Node
 
 `역활`
 
-- Node Server
 - iOS 앱 기본 틀
 - iOS 앱 페이지들 연결
 - iOS 앱 통신 모듈
@@ -766,11 +759,6 @@ __일루와: 중간 장소 지정해주는 앱__
 <br><br>
 
 
-
-## Technical skills
-
-* SWIFT
-* Node
 
 
 
