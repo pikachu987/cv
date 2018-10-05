@@ -66,6 +66,35 @@ IOS Develop <br>
 
 
 
+`2017-02 ~ 현재`
+<br/>
+__닥프렌즈__, iOS Developer
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk1.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk2.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk3.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk4.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk5.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk5.png" width="15%"></a>&nbsp;&nbsp;
+
+`링크`
+
+__[DOCTALK(http://www.doctalk.co.kr/)](http://www.doctalk.co.kr/)__
+
+__[DOCTALK iOS(https://itunes.apple.com/kr/app/id1220724684)](https://itunes.apple.com/kr/app/id1220724684)__
+
+`역활`
+
+* iOS App 전체
+
+`사용기술`
+
+* CoreData
+* Socket
+
+<br><br>
+
 
 
 
@@ -145,52 +174,6 @@ __[OSHAREHOUSE ADMIN iOS(https://itunes.apple.com/kr/app/id1351570974)](https://
 
 
 
-`2017-02 ~ 현재`
-<br/>
-__닥프렌즈__, iOS Developer
-
-`이미지`
-
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom1.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom2.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom3.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom4.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/hugmom5.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/hugmom5.png" width="15%"></a>&nbsp;&nbsp;
-
-`링크`
-
-__[HUGMOM(http://hugmom.co.kr/)](http://hugmom.co.kr/)__
-
-__[HUGMOM iOS(https://itunes.apple.com/kr/app/id1311332362)](https://itunes.apple.com/kr/app/id1311332362)__
-
-`역활`
-
-* iOS App 전체
-
-`사용기술`
-
-* CoreData
-* Socket
-
-<br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 `2017-04 ~ 현재`
 <br/>
@@ -221,54 +204,6 @@ __[OGQ iOS(https://itunes.apple.com/app/id541860561)](https://itunes.apple.com/a
 * GPUImage
 
 <br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`2017-02 ~ 현재`
-<br/>
-__닥프렌즈__, iOS Developer
-
-`이미지`
-
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk1.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk2.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk3.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk4.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk5.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk5.png" width="15%"></a>&nbsp;&nbsp;
-
-`링크`
-
-__[DOCTALK(http://www.doctalk.co.kr/)](http://www.doctalk.co.kr/)__
-
-__[DOCTALK iOS(https://itunes.apple.com/kr/app/id1220724684)](https://itunes.apple.com/kr/app/id1220724684)__
-
-`역활`
-
-* iOS App 전체
-
-`사용기술`
-
-* CoreData
-* Socket
-
-<br><br>
-
-
-
 
 
 
