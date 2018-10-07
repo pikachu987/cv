@@ -100,7 +100,7 @@ __[DOCTALK iOS(https://itunes.apple.com/kr/app/id1220724684)](https://itunes.app
 
 
 
-`2018-02 ~ 현재`
+`2018-02 ~ 2018-06`
 <br/>
 __닥프렌즈__, iOS Developer
 
@@ -139,7 +139,7 @@ __[OSHAREHOUSE iOS(https://itunes.apple.com/kr/app/id1383090453)](https://itunes
 
 
 
-`2018-02 ~ 현재`
+`2018-02 ~ 2018-06`
 <br/>
 __닥프렌즈__, iOS Developer
 
@@ -175,7 +175,7 @@ __[OSHAREHOUSE ADMIN iOS(https://itunes.apple.com/kr/app/id1351570974)](https://
 
 
 
-`2017-04 ~ 현재`
+`2017-04 ~ 2017-07`
 <br/>
 __OGQ__, iOS Developer
 
@@ -271,7 +271,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 `2016-06 ~ 2016-11`
 <br/>
 
-__시전소프트__, iOS Developer(대리)
+__시전소프트__, iOS Developer
 
 `이미지`
 
@@ -694,10 +694,21 @@ __일루와: 중간 장소 지정해주는 앱__
 <br><br>
 
 
+<br><br>
 
 
 
 
+
+
+## Etc
+
+
+`2018-06 ~` 부스트코스 iOS 리뷰어 역활
+
+<br>
+
+`2018-03 ~ 2018-08` 디프만 동아리 iOS 개발자 참여
 
 
 
