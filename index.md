@@ -721,13 +721,22 @@ Vote App [(https://itunes.apple.com/us/app/vote/id1379000768)](https://itunes.ap
 
 
 
-<br><br>
 
 
-<br><br>
 
 
-<!-- ## 경력기술서(최신순 3가지)
+
+
+
+
+
+
+
+<!--
+<br><br><br><br>
+
+
+## 경력기술서(최신순 3가지)
 
 `닥톡 iOS 앱 개발`
 
@@ -775,22 +784,6 @@ Viewpager 개발<br>
 
 <br><br>
 
-## 자기소개서
-
-`2014년에 처음 C언어를 접하게 되었고 프로그래밍을 하는 게 저랑 맞는다고 생각하여 1년 정도 독학으로 공부를
-하였습니다. 그 결과 시전소프트라는 스타트업 회사에 스프링 서버개발자로 입사를 하게 되었습니다.`<br><br>
-`입사 후 서버개발과 스크립트개발을 6개월 정도하다보니 시간이 많이 남게 되었습니다. 그렇다 보니 다양한 코딩 모임에
-참가할 수 있었습니다. 여러 모임 끝에 많은 언어들을 알게 되었고 다른 언어들을 해보고 싶다는 욕심이 생겼습니다.`<br><br>
-`알게된 기술들을 하나씩 다 배우고 써본 후, iOS개발이 가장 흥미로운 작업이라는 생각에 맥북을 구매하고 본격적으로
-iOS개발을 해보았습니다. 회사 iOS앱을 혼자 개발해보고 앱스토어에도 올려 보았습니다. 제가 만든 앱이 앱스토어에서
-다운로드 할 수 있다는 게 너무 재미있어졌고, 6개월 정도 유지보수를 한 다음 퇴사를 하였습니다.`<br><br><br>
-`퇴사를 한 후에 프리랜서로 webRTC라던가 bezier path가 들어가 있는 앱을 몇 가지를 만들었고 제가 생각하기에 어려운
-기능들을 해결해나간다는 것에 대해 너무 재미있었습니다. 그리고 개인적으로도 앱을 만들어서 올려보고 싶다는 생각에
-제가 필요하거나 개발하는 것에 대해 재미있을 것 같은 개인앱들도 만들어 본 경험이 있습니다.`
-
-
-<br><br>
-
 
 ## 역량
 
@@ -800,10 +793,18 @@ iOS개발을 해보았습니다. 회사 iOS앱을 혼자 개발해보고 앱스�
 `지식을 공유하는 오픈소스 문화를 좋아합니다.`<br>
 `여러 라이브러리를 배포하면서 제 코드에 대해 이슈나 풀리퀘스트를 받았고 이를 통해 제가 놓친 부분들을 다시 한번 배울 수 있었습니다.`<br>
 `또한 다른 사람들이 올린 라이브러리에 대해 필요한 기능이나 버그가 있다면 풀리퀘스트를 하고 있습니다.`
+ -->
 
 
 
-<br><br> -->
+
+
+
+
+
+
+
+<br><br>
 
 
 
@@ -858,5 +859,4 @@ iOS개발을 해보았습니다. 회사 iOS앱을 혼자 개발해보고 앱스�
 * <i class="fa fa-envelope"></i> <a href="mailto:pikachu77769@gmail.com">pikachu77769@gmail.com</a><br />
 *  <i class="fa fa-facebook"></i> <a href="http://facebook.com/gaunho.kim">gaunho.kim</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/pikachu987">pikachu987</a><br />
-*  <i class="fa fa-instagram"></i> <a href="https://www.instagram.com/guanho9/">@guanho9</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/pikachu77769">@pikachu77769</a><br />
+*  <i class="fa fa-instagram"></i> <a href="https://www.instagram.com/gwanhoooo/">@gwanhoooo</a><br />
