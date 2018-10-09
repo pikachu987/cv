@@ -27,8 +27,8 @@ __`김관호`__
 
 
 
-
-## 기술서(최신순3가지)
+<!-- fixed -->
+<!-- ## 기술서(최신순3가지)
 
 `프로젝트:` __닥톡 iOS 앱 개발__<br>
 `기간:` 2017-02 ~ 현재<br>
@@ -76,13 +76,13 @@ Viewpager 개발<br>
 `지식을 공유하는 오픈소스 문화를 좋아합니다.`<br>
 `여러 라이브러리를 배포하면서 제 코드에 대해 이슈나 풀리퀘스트를 받았고 이를 통해 제가 놓친 부분들을 다시 한번 배울 수 있었습니다. 또한 다른 사람들이 올린 라이브러리에 대해 필요한 기능이나 버그가 있다면 풀리퀘스트를 하고 있습니다.`
 
-<br><br><br><br>
+<br><br><br><br><br><br><br><br> -->
 
 
 
 
 
-<br><br><br><br>
+
 
 
 
@@ -457,7 +457,7 @@ FakeCall App [(https://itunes.apple.com/us/app/id1330370713)](https://itunes.app
 
 
 <!-- fixed -->
-<br><br><br><br><br>
+<!-- <br><br><br><br><br> -->
 
 
 
@@ -568,7 +568,7 @@ Markdown App [(https://itunes.apple.com/us/app/editeo/id1195478325)](https://itu
 
 
 <!-- fixed -->
-<br><br><br><br><br><br><br><br><br>
+<!-- <br><br><br><br><br><br><br><br><br> -->
 
 
 
@@ -758,7 +758,7 @@ Vote App [(https://itunes.apple.com/us/app/vote/id1379000768)](https://itunes.ap
 
 
 
-<br>
+<br><br>
 
 
 
@@ -791,7 +791,7 @@ Vote App [(https://itunes.apple.com/us/app/vote/id1379000768)](https://itunes.ap
 
 
 
-<br/>
+<br/><br>
 
 
 ## Certifications
@@ -803,7 +803,7 @@ Vote App [(https://itunes.apple.com/us/app/vote/id1379000768)](https://itunes.ap
 
 
 
-<br>
+<br><br>
 
 ## Links
 
