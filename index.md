@@ -14,9 +14,10 @@ __`김관호`__
 
 <br>
 
-<a href="tel:010-4746-7704" style="font-weight: bold;">`Hp(010-4746-7704)`</a>
+<!-- fixed -->
+<!-- <a href="tel:010-4746-7704" style="font-weight: bold;">`Hp(010-4746-7704)`</a>
 
-<br>
+<br> -->
 
 <a href="https://github.com/pikachu987/" style="font-weight: bold;">`Github(https://github.com/pikachu987)`</a>
 
@@ -797,17 +798,3 @@ Vote App [(https://itunes.apple.com/us/app/vote/id1379000768)](https://itunes.ap
 ## Certifications
 
 `2016` 네트워크관리사 (한국정보통신자격협회)
-
-
-
-
-
-
-<br><br>
-
-## Links
-
-* <i class="fa fa-envelope"></i> <a href="mailto:pikachu77769@gmail.com">pikachu77769@gmail.com</a><br />
-*  <i class="fa fa-facebook"></i> <a href="http://facebook.com/gaunho.kim">gaunho.kim</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/pikachu987">pikachu987</a><br />
-*  <i class="fa fa-instagram"></i> <a href="https://www.instagram.com/gwanhoooo/">@gwanhoooo</a><br />
