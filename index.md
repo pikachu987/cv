@@ -404,8 +404,7 @@ MakeGIF App [(https://itunes.apple.com/us/app/id1332469018)](https://itunes.appl
 
 
 
-<!-- fixed -->
-<br><br><br><br><br>
+
 
 
 
@@ -458,7 +457,8 @@ FakeCall App [(https://itunes.apple.com/us/app/id1330370713)](https://itunes.app
 
 
 
-
+<!-- fixed -->
+<br><br><br><br><br>
 
 
 
