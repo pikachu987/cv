@@ -26,8 +26,11 @@ title: 김관호
 
 
 __김관호__ <br>
+<a href="mailto:pikachu77769@gmail.com" target="_blank">pikachu77769@gmail.com</a> <br>
+<a href="tel:010-4746-7704" target="_blank">010-4746-7704</a> <br>
 IOS Develop <br>
-<a href="https://pikachu987.github.io/cv/GwanhoKim_CV.pdf" target="_blank">__PDF로 이력서 다운받기__</a>
+<a href="https://pikachu987.github.io/cv/GwanhoKim_CV.pdf" target="_blank">__PDF로 이력서 다운받기__</a> <br>
+
 
 ### __[Github(https://github.com/pikachu987)](https://github.com/pikachu987/)__
 
@@ -687,7 +690,34 @@ __일루와: 중간 장소 지정해주는 앱__
 
 
 
+<br><br>
 
+`2018-04 ~ 2018-05`
+
+<br/>
+
+__답정너: 두가지 선택사항을 투표하는 앱__
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/team/vote/1.jpeg"><img src="https://pikachu987.github.io/cv/app/team/vote/1.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/team/vote/2.jpeg"><img src="https://pikachu987.github.io/cv/app/team/vote/2.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/team/vote/3.jpeg"><img src="https://pikachu987.github.io/cv/app/team/vote/3.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/team/vote/4.jpeg"><img src="https://pikachu987.github.io/cv/app/team/vote/4.jpeg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/team/vote/5.jpeg"><img src="https://pikachu987.github.io/cv/app/team/vote/5.jpeg" width="15%"></a>&nbsp;&nbsp;
+
+`링크`
+
+Vote App [(https://itunes.apple.com/us/app/vote/id1379000768)](https://itunes.apple.com/us/app/vote/id1379000768?l=ko&ls=1&mt=8)
+
+
+`언어`
+
+- Swift
+
+`역활`
+
+- iOS 앱 전체
 
 
 
@@ -697,12 +727,83 @@ __일루와: 중간 장소 지정해주는 앱__
 <br><br>
 
 
+<!-- ## 경력기술서(최신순 3가지)
+
+`닥톡 iOS 앱 개발`
+
+<br>
+
+`기간:` 2017-02 ~ 현재<br>
+`개발환경:` swift, storyboard<br>
+`내용:` Dynamic Tag UI 개발<br>
+WebView를 커스텀 하여 Progress 추가, URL을 이용해 DeepLinkOpen 개발<br>
+UITextView에 html 커스텀 개발<br>
+Scheme를 나눠 빌드환경 분리(dev, staging, production)<br>
+코어데이터를 사용하여 데이터 저장<br>
+소켓을 이용한 다대다 채팅 개발<br>
+오토레이아웃을 이용하여 다해상도 지원<br>
+
+<br><br>
+
+`오셰어하우스 사용자, 관리자 iOS 앱 개발`
+
+<br>
+
+`기간:` 2018-02 ~ 2018-06<br>
+`개발환경:` swift, storyboard<br>
+`내용:` Photos 프레임워크를 이용하여 사진첩 개발<br>
+Expandable Tableview 개발<br>
+Fabric branch 를 이용하여 DeepLink 개발<br>
+Localizable을 사용하여 다국어 지원<br>
+Scheme를 나눠 빌드환경 분리(dev, staging, production)<br>
+코어데이터를 사용하여 데이터 저장<br>
+소켓을 이용한 다대다 채팅 개발<br>
+오토레이아웃을 이용하여 다해상도 지원<br>
+
+<br><br>
+
+`OGQBackgrounds iOS 앱 개발 (가입자수 약 100m)`
+
+<br>
+
+`기간:` 2017-04 ~ 2017-07<br>
+`개발환경:` swift, storyboard<br>
+`내용:` GPUImage를 사용하여 사진에 Filter 적용<br>
+Viewpager 개발<br>
+코어데이터를 사용하여 데이터 저장<br>
+오토레이아웃을 이용하여 다해상도, 가로 세로 지원<br>
+
+<br><br>
+
+## 자기소개서
+
+`2014년에 처음 C언어를 접하게 되었고 프로그래밍을 하는 게 저랑 맞는다고 생각하여 1년 정도 독학으로 공부를
+하였습니다. 그 결과 시전소프트라는 스타트업 회사에 스프링 서버개발자로 입사를 하게 되었습니다.`<br><br>
+`입사 후 서버개발과 스크립트개발을 6개월 정도하다보니 시간이 많이 남게 되었습니다. 그렇다 보니 다양한 코딩 모임에
+참가할 수 있었습니다. 여러 모임 끝에 많은 언어들을 알게 되었고 다른 언어들을 해보고 싶다는 욕심이 생겼습니다.`<br><br>
+`알게된 기술들을 하나씩 다 배우고 써본 후, iOS개발이 가장 흥미로운 작업이라는 생각에 맥북을 구매하고 본격적으로
+iOS개발을 해보았습니다. 회사 iOS앱을 혼자 개발해보고 앱스토어에도 올려 보았습니다. 제가 만든 앱이 앱스토어에서
+다운로드 할 수 있다는 게 너무 재미있어졌고, 6개월 정도 유지보수를 한 다음 퇴사를 하였습니다.`<br><br><br>
+`퇴사를 한 후에 프리랜서로 webRTC라던가 bezier path가 들어가 있는 앱을 몇 가지를 만들었고 제가 생각하기에 어려운
+기능들을 해결해나간다는 것에 대해 너무 재미있었습니다. 그리고 개인적으로도 앱을 만들어서 올려보고 싶다는 생각에
+제가 필요하거나 개발하는 것에 대해 재미있을 것 같은 개인앱들도 만들어 본 경험이 있습니다.`
+
+
+<br><br>
+
+
+## 역량
+
+`제가 할수 있는 일에 대해서 끈기있게 노력하고 있습니다.`<br>
+`3년동안 꾸준히 개인 프로젝트를 하여 6개의 앱을 배포하였고 평소 서적이나 세미나로 학습한 기술들을 앱에 접목시켜 보았습니다. 이런 경험들은 실제 업무를 하면서도 더 좋은 코드를 작성하는데 시너지효과를 낼 수 있었습니다.`<br>
+<br><br>
+`지식을 공유하는 오픈소스 문화를 좋아합니다.`<br>
+`여러 라이브러리를 배포하면서 제 코드에 대해 이슈나 풀리퀘스트를 받았고 이를 통해 제가 놓친 부분들을 다시 한번 배울 수 있었습니다.`<br>
+`또한 다른 사람들이 올린 라이브러리에 대해 필요한 기능이나 버그가 있다면 풀리퀘스트를 하고 있습니다.`
 
 
 
-
-
-
+<br><br> -->
 
 
 
