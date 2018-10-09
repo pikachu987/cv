@@ -4,62 +4,86 @@ title: 김관호
 ---
 
 
+<br><br><br>
+
+__`김관호`__
+
+<br>
+
+<a href="mailto:pikachu77769@gmail.com" style="font-weight: bold;">`Mail(pikachu77769@gmail.com)`</a>
+
+<br>
+
+<a href="tel:010-4746-7704" style="font-weight: bold;">`Hp(010-4746-7704)`</a>
+
+<br>
+
+<a href="https://github.com/pikachu987/" style="font-weight: bold;">`Github(https://github.com/pikachu987)`</a>
+
+
+<br/><br/><br><br>
 
 
 
 
 
 
+## 기술서(최신순3가지)
+
+`프로젝트:` __닥톡 iOS 앱 개발__<br>
+`기간:` 2017-02 ~ 현재<br>
+`개발환경:` swift, storyboard<br>
+`내용:` Dynamic Tag UI 개발<br>
+WebView를 커스텀 하여 Progress 추가, URL을 이용해 DeepLinkOpen 개발<br>
+UITextView에 html 커스텀 개발<br>
+Scheme를 나눠 빌드환경 분리(dev, staging, production)<br>
+코어데이터를 사용하여 데이터 저장<br>
+소켓을 이용한 다대다 채팅 개발<br>
+오토레이아웃을 이용하여 다해상도 지원<br>
+
+<br><br>
+
+`프로젝트:` __오셰어하우스 사용자, 관리자 iOS 앱 개발__<br>
+`기간:` 2018-02 ~ 2018-06<br>
+`개발환경:` swift, storyboard<br>
+`내용:` Photos 프레임워크를 이용하여 사진첩 개발<br>
+Expandable Tableview 개발<br>
+Fabric branch 를 이용하여 DeepLink 개발<br>
+Localizable을 사용하여 다국어 지원<br>
+Scheme를 나눠 빌드환경 분리(dev, staging, production)<br>
+코어데이터를 사용하여 데이터 저장<br>
+소켓을 이용한 다대다 채팅 개발<br>
+오토레이아웃을 이용하여 다해상도 지원<br>
+
+<br><br>
+
+`프로젝트:` __OGQBackgrounds iOS 앱 개발 (가입자수 약 100m)__<br>
+`기간:` 2017-04 ~ 2017-07<br>
+`개발환경:` swift, storyboard<br>
+`내용:` GPUImage를 사용하여 사진에 Filter 적용<br>
+Viewpager 개발<br>
+코어데이터를 사용하여 데이터 저장<br>
+오토레이아웃을 이용하여 다해상도, 가로 세로 지원<br>
+
+<br><br>
 
 
-### [![증명사진](https://pikachu987.github.io/cv/profile.JPG)](https://pikachu987.github.io/cv/favicon.ico "사진")
+## 역량
+
+`제가 할수 있는 일에 대해서 끈기있게 노력하고 있습니다.`<br>
+`3년동안 꾸준히 개인 프로젝트를 하여 6개의 앱을 배포하였고 평소 서적이나 세미나로 학습한 기술들을 앱에 접목시켜 보았습니다. 이런 경험들은 실제 업무를 하면서도 더 좋은 코드를 작성하는데 시너지효과를 낼 수 있었습니다.`<br>
+<br><br>
+`지식을 공유하는 오픈소스 문화를 좋아합니다.`<br>
+`여러 라이브러리를 배포하면서 제 코드에 대해 이슈나 풀리퀘스트를 받았고 이를 통해 제가 놓친 부분들을 다시 한번 배울 수 있었습니다.`<br>
+`또한 다른 사람들이 올린 라이브러리에 대해 필요한 기능이나 버그가 있다면 풀리퀘스트를 하고 있습니다.`
+
+<br><br><br>
 
 
 
 
 
-
-
-
-
-
-
-
-__김관호__ <br>
-<a href="mailto:pikachu77769@gmail.com" target="_blank">pikachu77769@gmail.com</a> <br>
-<a href="tel:010-4746-7704" target="_blank">010-4746-7704</a> <br>
-IOS Develop <br>
-<a href="https://pikachu987.github.io/cv/GwanhoKim_CV.pdf" target="_blank">__PDF로 이력서 다운받기__</a> <br>
-
-
-### __[Github(https://github.com/pikachu987)](https://github.com/pikachu987/)__
-
-### __[Blog(https://pikachu987.github.io)](https://pikachu987.github.io/)__
-
-### __[Technology(https://pikachu987.github.io/tec)](https://pikachu987.github.io/tec/)__
-
-<br/><br/>
-
-<div id="webaddress">
-|
-<a href="mailto:pikachu77769@gmail.com">pikachu77769@gmail.com</a>
-|
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br><br><br>
 
 
 
@@ -380,8 +404,8 @@ MakeGIF App [(https://itunes.apple.com/us/app/id1332469018)](https://itunes.appl
 
 
 
-
-
+<!-- fixed -->
+<br><br><br><br><br>
 
 
 
@@ -544,7 +568,8 @@ Markdown App [(https://itunes.apple.com/us/app/editeo/id1195478325)](https://itu
 
 
 
-
+<!-- fixed -->
+<br><br><br><br><br><br><br><br><br>
 
 
 
@@ -732,79 +757,9 @@ Vote App [(https://itunes.apple.com/us/app/vote/id1379000768)](https://itunes.ap
 
 
 
-<!--
-<br><br><br><br>
 
-
-## 경력기술서(최신순 3가지)
-
-`닥톡 iOS 앱 개발`
 
 <br>
-
-`기간:` 2017-02 ~ 현재<br>
-`개발환경:` swift, storyboard<br>
-`내용:` Dynamic Tag UI 개발<br>
-WebView를 커스텀 하여 Progress 추가, URL을 이용해 DeepLinkOpen 개발<br>
-UITextView에 html 커스텀 개발<br>
-Scheme를 나눠 빌드환경 분리(dev, staging, production)<br>
-코어데이터를 사용하여 데이터 저장<br>
-소켓을 이용한 다대다 채팅 개발<br>
-오토레이아웃을 이용하여 다해상도 지원<br>
-
-<br><br>
-
-`오셰어하우스 사용자, 관리자 iOS 앱 개발`
-
-<br>
-
-`기간:` 2018-02 ~ 2018-06<br>
-`개발환경:` swift, storyboard<br>
-`내용:` Photos 프레임워크를 이용하여 사진첩 개발<br>
-Expandable Tableview 개발<br>
-Fabric branch 를 이용하여 DeepLink 개발<br>
-Localizable을 사용하여 다국어 지원<br>
-Scheme를 나눠 빌드환경 분리(dev, staging, production)<br>
-코어데이터를 사용하여 데이터 저장<br>
-소켓을 이용한 다대다 채팅 개발<br>
-오토레이아웃을 이용하여 다해상도 지원<br>
-
-<br><br>
-
-`OGQBackgrounds iOS 앱 개발 (가입자수 약 100m)`
-
-<br>
-
-`기간:` 2017-04 ~ 2017-07<br>
-`개발환경:` swift, storyboard<br>
-`내용:` GPUImage를 사용하여 사진에 Filter 적용<br>
-Viewpager 개발<br>
-코어데이터를 사용하여 데이터 저장<br>
-오토레이아웃을 이용하여 다해상도, 가로 세로 지원<br>
-
-<br><br>
-
-
-## 역량
-
-`제가 할수 있는 일에 대해서 끈기있게 노력하고 있습니다.`<br>
-`3년동안 꾸준히 개인 프로젝트를 하여 6개의 앱을 배포하였고 평소 서적이나 세미나로 학습한 기술들을 앱에 접목시켜 보았습니다. 이런 경험들은 실제 업무를 하면서도 더 좋은 코드를 작성하는데 시너지효과를 낼 수 있었습니다.`<br>
-<br><br>
-`지식을 공유하는 오픈소스 문화를 좋아합니다.`<br>
-`여러 라이브러리를 배포하면서 제 코드에 대해 이슈나 풀리퀘스트를 받았고 이를 통해 제가 놓친 부분들을 다시 한번 배울 수 있었습니다.`<br>
-`또한 다른 사람들이 올린 라이브러리에 대해 필요한 기능이나 버그가 있다면 풀리퀘스트를 하고 있습니다.`
- -->
-
-
-
-
-
-
-
-
-
-
-<br><br>
 
 
 
@@ -837,7 +792,7 @@ Viewpager 개발<br>
 
 
 
-<br/><br/>
+<br/>
 
 
 ## Certifications
@@ -849,10 +804,7 @@ Viewpager 개발<br>
 
 
 
-
-
-
-<br><br>
+<br>
 
 ## Links
 
