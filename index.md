@@ -17,12 +17,12 @@ __`김관호`__
 <!-- fixed -->
 <!-- <a href="tel:010-4746-7704" style="font-weight: bold;">`Hp(010-4746-7704)`</a>
 
-<br> -->
+<br>
 
 <a href="https://github.com/pikachu987/" style="font-weight: bold;">`Github(https://github.com/pikachu987)`</a>
 
 
-<br/><br/><br><br>
+<br/><br/><br><br> -->
 
 
 
@@ -115,11 +115,6 @@ __[DOCTALK iOS(https://itunes.apple.com/kr/app/id1220724684)](https://itunes.app
 
 * iOS App 전체
 
-`사용기술`
-
-* CoreData
-* Socket
-
 <br><br>
 
 
@@ -148,11 +143,6 @@ __[OSHAREHOUSE iOS(https://itunes.apple.com/kr/app/id1383090453)](https://itunes
 `역활`
 
 * iOS App 전체
-
-`사용기술`
-
-* CoreData
-* Socket
 
 <br><br>
 
@@ -188,16 +178,12 @@ __[OSHAREHOUSE ADMIN iOS(https://itunes.apple.com/kr/app/id1351570974)](https://
 
 * iOS App 전체
 
-`사용기술`
-
-* CoreData
-* Socket
-
 <br><br>
 
 
 
-
+<!-- fixed -->
+<!-- <br><br><br><br><br><br><br><br> -->
 
 
 
@@ -224,11 +210,6 @@ __[OGQ iOS(https://itunes.apple.com/app/id541860561)](https://itunes.apple.com/a
 
 * iOS App Objective-C 로 되어있던 앱을 Swift3로 변환
 * iOS App 햄버거 메뉴로 되어있던 버전4를 하단탭 메뉴 버전5로 리뉴얼
-
-`사용기술`
-
-* Keychain
-* GPUImage
 
 <br><br>
 
@@ -267,15 +248,6 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 `역활`
 
 * iOS App 전체
-
-`사용기술`
-
-* Realm
-* Quickblox-WebRTC
-* SQLite
-* VOIP
-* apns
-
 
 <br><br>
 
@@ -325,7 +297,6 @@ __[전단지존 iOS(https://itunes.apple.com/kr/app/id1121488884)](https://itune
 
 - iOS App 전체
 
-
 <br><br>
 
 
@@ -341,7 +312,8 @@ __[전단지존 iOS(https://itunes.apple.com/kr/app/id1121488884)](https://itune
 
 
 
-
+<!-- fixed -->
+<!-- <br><br><br><br><br><br> -->
 
 
 
@@ -349,6 +321,56 @@ __[전단지존 iOS(https://itunes.apple.com/kr/app/id1121488884)](https://itune
 
 
 ## Individual Projects
+
+
+
+
+
+`2018-09 ~ 2018-09`
+
+<br/>
+
+__Punto: 쉬운 사진편집 툴__
+
+쉬운 사진편집 툴
+
+● 사진첩에 있는 이미지를 편집할 수 있습니다.<br/>
+● 캔버스를 편집할 수 있습니다.<br/>
+● 컬러 피커를 사용하여 원하는 색을 캔버스에 저장해 보세요.<br/>
+● 다양한 필터로 이미지의 느낌을 바꾸어 보세요.<br/>
+● 이미지에 원하는 영역에 스포이드로 색을 추출해 보세요.<br/>
+● 사진에 일부 영역이 마음에 들지 않을때 사진을 원하는 크기와 원하는 영역으로 잘라 보세요.<br/>
+● 이미지에 여러가지 이모지,이미지,텍스트를 추가해서 위치와 크기를 조절해 보세요.<br/>
+● 사용하지 않는 편집 도구를 OFF 시킨 후 자주 사용하는 도구만 볼수 있습니다.<br/>
+● 이미지의 정보와 촬영 정보와 위치를 볼수 있습니다.<br/>
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/individual/punto/1.png"><img src="https://pikachu987.github.io/cv/app/individual/punto/1.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/punto/2.png"><img src="https://pikachu987.github.io/cv/app/individual/punto/2.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/punto/3.png"><img src="https://pikachu987.github.io/cv/app/individual/punto/3.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/punto/4.png"><img src="https://pikachu987.github.io/cv/app/individual/punto/4.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/punto/5.png"><img src="https://pikachu987.github.io/cv/app/individual/punto/5.png" width="15%"></a>&nbsp;&nbsp;
+
+
+`언어`
+
+* Swift
+
+`링크`
+
+Punto App [(https://itunes.apple.com/us/app/id1402485933)](https://itunes.apple.com/us/app/id1402485933)
+
+`역활`
+
+- iOS App
+
+`사용기술`
+
+* SQLite
+
+<br><br>
+
 
 
 
@@ -393,10 +415,6 @@ MakeGIF App [(https://itunes.apple.com/us/app/id1332469018)](https://itunes.appl
 `역활`
 
 - iOS App
-
-`사용기술`
-
-* OpenGL
 
 <br><br>
 
@@ -617,7 +635,6 @@ Memo App [(https://itunes.apple.com/us/app/editeo/id1194457669)](https://itunes.
 `사용기술`
 
 - Realm
-- Firebase
 
 <br><br>
 
@@ -670,7 +687,6 @@ Editor App [(https://itunes.apple.com/us/app/editeo/id1192981741)](https://itune
 `사용기술`
 
 - Realm
-- Firebase
 
 
 
