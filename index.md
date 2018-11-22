@@ -86,7 +86,8 @@ Viewpager 개발<br>
 
 
 
-
+<!-- fixed -->
+<!-- <br><br><br><br><br><br><br><br><br> -->
 
 
 
@@ -186,9 +187,6 @@ __[OSHAREHOUSE ADMIN iOS(https://itunes.apple.com/kr/app/id1351570974)](https://
 
 
 
-<!-- fixed -->
-<!-- <br><br><br><br><br><br><br><br> -->
-
 
 
 
@@ -216,46 +214,6 @@ __[OGQ iOS(https://itunes.apple.com/app/id541860561)](https://itunes.apple.com/a
 * iOS App 햄버거 메뉴로 되어있던 버전4를 하단탭 메뉴 버전5로 리뉴얼
 
 <br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-`2016-11 ~ 2017-01`
-<br/>
-
-iOS Developer(프리랜서)
-
-
-`이미지`
-
-<a href="https://pikachu987.github.io/cv/app/company/et/1.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/1.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/et/2.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/2.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/et/3.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/3.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/et/4.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/4.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/et/5.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/5.jpg" width="15%"></a>&nbsp;&nbsp;
-
-`링크`
-
-__[KMS ExpertT(http://www.expertt.cn)](http://www.expertt.cn/)__
-
-__[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes.apple.com/kr/app/id1180869787)__
-
-`역활`
-
-* iOS App 전체
-
-<br><br>
-
-
 
 
 
@@ -310,14 +268,36 @@ __[전단지존 iOS(https://itunes.apple.com/kr/app/id1121488884)](https://itune
 
 
 
+## Freelancer
 
 
 
 
+`2016-11 ~ 2017-01`
+<br/>
+
+iOS Developer(프리랜서)
 
 
-<!-- fixed -->
-<!-- <br><br><br><br><br><br> -->
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/company/et/1.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/1.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/et/2.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/2.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/et/3.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/3.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/et/4.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/4.jpg" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/et/5.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/5.jpg" width="15%"></a>&nbsp;&nbsp;
+
+`링크`
+
+__[KMS ExpertT(http://www.expertt.cn)](http://www.expertt.cn/)__
+
+__[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes.apple.com/kr/app/id1180869787)__
+
+`역활`
+
+* iOS App 전체
+
+<br><br>
 
 
 
@@ -425,10 +405,6 @@ MakeGIF App [(https://itunes.apple.com/us/app/id1332469018)](https://itunes.appl
 
 
 
-
-
-<!-- fixed -->
-<!-- <br><br><br><br><br><br> -->
 
 
 
@@ -543,10 +519,6 @@ Script App [(https://itunes.apple.com/us/app/id1319037733)](https://itunes.apple
 
 
 
-<!-- fixed -->
-<!-- <br><br><br><br><br> -->
-
-
 
 
 
@@ -648,10 +620,6 @@ Memo App [(https://itunes.apple.com/us/app/editeo/id1194457669)](https://itunes.
 
 
 
-<!-- fixed -->
-<!-- <br><br><br><br><br><br><br><br><br> -->
-
-
 
 
 `2017-01 ~ 2017-01`
@@ -734,8 +702,6 @@ __일루와: 중간 장소 지정해주는 앱__
 - iOS 앱 페이지들 연결
 - iOS 앱 통신 모듈
 
-<!-- fixed -->
-<!-- <br><br><br><br><br><br><br><br><br> -->
 
 <br><br>
 
@@ -768,21 +734,53 @@ Vote App [(https://itunes.apple.com/us/app/vote/id1379000768)](https://itunes.ap
 
 
 
+<br><br>
 
 
 
+## Library
 
 
+`라이브러리명` Tags
+
+<br/>
+
+`링크` [(https://github.com/pikachu987/Tags)](https://github.com/pikachu987/Tags)
+
+<br/>
+
+`설명` 태그형태의 UI를 쉽게 만들수 있는 라이브러리
+
+<br/>
 
 
+<br/><br/>
 
+`라이브러리명` NotificationView
 
+<br/>
 
+`링크` [(https://github.com/pikachu987/NotificationView)](https://github.com/pikachu987/NotificationView)
 
+<br/>
 
+`설명` Foreground일때 Nofication과 비슷한 UI를 보여줄수 있는 라이블러리
+
+<br/>
 
 <br><br>
 
+`라이브러리명` WebController
+
+<br/>
+
+`링크` [(https://github.com/pikachu987/WebController)](https://github.com/pikachu987/WebController)
+
+<br/>
+
+`설명` WKWebView를 이용하여 페이지 로딩에 관한 프로그래스와 페이지 히스토리 관리를 해주는 라이브러리
+
+<br/>
 
 
 ## Etc
