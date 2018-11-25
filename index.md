@@ -764,7 +764,7 @@ Vote App [(https://itunes.apple.com/us/app/vote/id1379000768)](https://itunes.ap
 
 <br/>
 
-`설명` Foreground일때 Nofication과 비슷한 UI를 보여줄수 있는 라이블러리
+`설명` Foreground일때 Nofication과 비슷한 UI를 보여줄수 있는 라이브러리
 
 <br/>
 
