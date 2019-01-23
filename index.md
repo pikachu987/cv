@@ -108,13 +108,43 @@ Viewpager 개발<br>
 
 `링크`
 
-__[DOCTALK(http://www.doctalk.co.kr/)](http://www.doctalk.co.kr/)__
+__[DOCFRIENDS(http://www.docfriends.com/)](http://www.docfriends.com/)__
 
 __[DOCTALK iOS(https://itunes.apple.com/kr/app/id1220724684)](https://itunes.apple.com/kr/app/id1220724684)__
 
 `역활` iOS App 전체
 
 <br><br><br><br><br><br><br>
+
+
+
+
+
+`2019-01 ~ 현재`
+
+<br/>
+
+`닥프렌즈, iOS Developer`
+
+<br><br>
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/walden1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/walden1.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/walden2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/walden2.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/walden3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/walden3.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/company/docfriends/walden4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/walden4.png" width="15%"></a>&nbsp;&nbsp;
+
+`링크`
+
+__[DOCFRIENDS(http://www.docfriends.com/)](http://www.docfriends.com/)__
+
+__[WALDEN iOS(https://itunes.apple.com/kr/app/id1438594199)](https://itunes.apple.com/kr/app/id1438594199)__
+
+`역활` iOS App 전체
+
+<br><br><br><br><br><br><br>
+
 
 
 
@@ -146,6 +176,17 @@ __[OSHAREHOUSE iOS(https://itunes.apple.com/kr/app/id1383090453)](https://itunes
 `역활` iOS App 전체
 
 <br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
