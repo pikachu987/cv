@@ -90,7 +90,7 @@ Viewpager 개발<br>
 
 
 
-`2017-02 ~ 현재`
+`2017-02 ~ 현재 - 닥톡`
 
 <br/>
 
@@ -120,7 +120,7 @@ __[DOCTALK iOS(https://itunes.apple.com/kr/app/id1220724684)](https://itunes.app
 
 
 
-`2019-01 ~ 현재`
+`2019-01 ~ 현재 - 월든`
 
 <br/>
 
@@ -151,7 +151,7 @@ __[WALDEN iOS(https://itunes.apple.com/kr/app/id1438594199)](https://itunes.appl
 
 
 
-`2018-02 ~ 2018-06`
+`2018-02 ~ 2018-06 - 오셰어하우스`
 
 <br/>
 
@@ -198,7 +198,7 @@ __[OSHAREHOUSE iOS(https://itunes.apple.com/kr/app/id1383090453)](https://itunes
 
 
 
-`2018-02 ~ 2018-06`
+`2018-02 ~ 2018-06 - 오셰어하우스 관리자`
 
 <br/>
 
@@ -233,7 +233,7 @@ __[OSHAREHOUSE ADMIN iOS(https://itunes.apple.com/kr/app/id1351570974)](https://
 
 <br/>
 
-`닥프렌즈, iOS Developer`
+`닥프렌즈, iOS Developer - 배경화면 HD`
 
 <br><br>
 
@@ -273,7 +273,7 @@ __[OGQ iOS(https://itunes.apple.com/app/id541860561)](https://itunes.apple.com/a
 
 <br/>
 
-`시전소프트, iOS Developer`
+`시전소프트, iOS Developer - 전단지존`
 
 <br><br>
 
@@ -308,7 +308,7 @@ __[OGQ iOS(https://itunes.apple.com/app/id541860561)](https://itunes.apple.com/a
 `2016-11 ~ 2017-01`
 <br/>
 
-`프리랜서, iOS Developer`
+`프리랜서, iOS Developer - ExpertT`
 
 <br><br>
 
