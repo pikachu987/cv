@@ -29,7 +29,7 @@ __`김관호`__
 
 <br><br><br>
 
-## 기술서(최신순3가지)
+<!-- ## 기술서(최신순3가지)
 
 `프로젝트:` __닥톡 iOS 앱 개발__<br>
 `기간:` 2017-02 ~ 현재<br>
@@ -66,23 +66,17 @@ Viewpager 개발<br>
 코어데이터를 사용하여 데이터 저장<br>
 오토레이아웃을 이용하여 다해상도, 가로 세로 지원<br>
 
-<br><br><br><br>
+<br><br><br><br> -->
 
 
-## 역량
+<!-- ## 역량
 
 `제가 할수 있는 일에 대해서 끈기있게 노력하고 있습니다.`<br>
 `3년동안 꾸준히 개인 프로젝트를 하여 7개의 앱을 배포하였고 평소 서적이나 세미나로 학습한 기술들을 앱에 접목시켜 보았습니다. 이런 경험들은 실제 업무를 하면서도 더 좋은 코드를 작성하는데 시너지효과를 낼 수 있었습니다.`<br>
 <br><br>
 `지식을 공유하는 오픈소스 문화를 좋아합니다.`<br>
-`여러 라이브러리를 배포하면서 제 코드에 대해 이슈나 풀리퀘스트를 받았고 이를 통해 제가 놓친 부분들을 다시 한번 배울 수 있었습니다. 또한 다른 사람들이 올린 라이브러리에 대해 필요한 기능이나 버그가 있다면 풀리퀘스트를 하고 있습니다.`
+`여러 라이브러리를 배포하면서 제 코드에 대해 이슈나 풀리퀘스트를 받았고 이를 통해 제가 놓친 부분들을 다시 한번 배울 수 있었습니다. 또한 다른 사람들이 올린 라이브러리에 대해 필요한 기능이나 버그가 있다면 풀리퀘스트를 하고 있습니다.` -->
 
-
-<br><br>
-
-
-
-<br><br><br><br>
 
 
 ## Employment
@@ -376,7 +370,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `역활` iOS App
 
-`사용기술` SQLite
+`기술` SQLite
 
 <br><br><br><br><br><br><br>
 
@@ -464,7 +458,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `역활` iOS App
 
-`사용기술` CoreData
+`기술` CoreData
 
 <br><br><br><br><br><br><br>
 
@@ -516,7 +510,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `역활` iOS App
 
-`사용기술` CoreData, Keychain, ZipArchive
+`기술` CoreData, Keychain, ZipArchive
 
 <br><br><br><br><br><br><br>
 
@@ -560,7 +554,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `역활` iOS App
 
-`사용기술` CoreData
+`기술` CoreData
 
 <br><br><br><br><br><br><br>
 
@@ -612,7 +606,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `역활` iOS App
 
-`사용기술` Realm
+`기술` Realm
 
 <br><br><br><br><br><br><br>
 
@@ -658,7 +652,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `역활` iOS App
 
-`사용기술` Realm
+`기술` Realm
 
 <br><br><br><br><br><br><br>
 
@@ -742,25 +736,25 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 
 
-`Repositories` [Github Repositories](https://github.com/pikachu987?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=swift)
+`Repos` [Github Repositories](https://github.com/pikachu987?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=swift)
 
 <br>
 
 
 
-`Library` [Tags](https://github.com/pikachu987/Tags)
+`Lib` [Tags](https://github.com/pikachu987/Tags)
 
 <br>
 
-`Library` [CropPickerController](https://github.com/pikachu987/CropPickerController)
+`Lib` [CropPickerController](https://github.com/pikachu987/CropPickerController)
 
 <br>
 
-`Library` [CropPickerView](https://github.com/pikachu987/CropPickerView)
+`Lib` [CropPickerView](https://github.com/pikachu987/CropPickerView)
 
 <br>
 
-`Library` [NotificationView](https://github.com/pikachu987/NotificationView)
+`Lib` [NotificationView](https://github.com/pikachu987/NotificationView)
 
 
 
