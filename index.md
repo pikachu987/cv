@@ -358,7 +358,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `언어` Swift
 
-`링크` Punto App [(https://itunes.apple.com/us/app/id1471091967)](https://itunes.apple.com/us/app/id1471091967)
+`링크` Pattern App [(https://itunes.apple.com/us/app/id1471091967)](https://itunes.apple.com/us/app/id1471091967)
 
 `역활` iOS App
 
