@@ -332,6 +332,49 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 
 
+`2019-07 ~ 2019-07`
+
+<br/>
+
+`패턴관리(생활패턴, 운동패턴, 피트니스)`
+
+<br><br>
+
+● 자신에게 맞는 작업으로 하루하루 패턴을 맞게 살아보세요.<br/>
+● 하루하루 패턴에 맞게 살았는지 통계를 확인해 보세요.<br/>
+● 패턴에 맞게 살고 있는지 패턴 관리앱이 도와드려요.<br/>
+
+<br><br>
+
+`이미지`
+
+<a href="https://pikachu987.github.io/cv/app/individual/pattern/1.png"><img src="https://pikachu987.github.io/cv/app/individual/pattern/1.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/pattern/2.png"><img src="https://pikachu987.github.io/cv/app/individual/pattern/2.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/pattern/3.png"><img src="https://pikachu987.github.io/cv/app/individual/pattern/3.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/pattern/4.png"><img src="https://pikachu987.github.io/cv/app/individual/pattern/4.png" width="15%"></a>&nbsp;&nbsp;
+<a href="https://pikachu987.github.io/cv/app/individual/pattern/5.png"><img src="https://pikachu987.github.io/cv/app/individual/pattern/5.png" width="15%"></a>&nbsp;&nbsp;
+
+<br><br>
+
+`언어` Swift
+
+`링크` Punto App [(https://itunes.apple.com/us/app/id1471091967)](https://itunes.apple.com/us/app/id1471091967)
+
+`역활` iOS App
+
+`기술` SQLite
+
+<br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
 
 
 `2018-09 ~ 2018-09`
