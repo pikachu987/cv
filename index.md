@@ -22,7 +22,7 @@ __`김관호`__
 
 <br>
 
-<a href="https://pikachu987.github.io/tec/" style="font-weight: bold;">`Blog(pikachu987 Technology Blog)`</a>
+<a href="https://pikachu987.tistory.com/" style="font-weight: bold;">`Blog(pikachu987 Technology Blog)`</a>
 
 <br>
 
@@ -772,7 +772,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 ## Etc
 
-`블로그` [pikachu987 Technology Blog](https://pikachu987.github.io/tec/)
+`블로그` [pikachu987 Technology Blog](https://pikachu987.tistory.com/)
 
 <br>
 
