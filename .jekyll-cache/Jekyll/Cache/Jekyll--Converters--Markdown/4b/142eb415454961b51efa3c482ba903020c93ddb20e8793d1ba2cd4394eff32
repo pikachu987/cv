@@ -1,19 +1,4 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset=utf-8 />
-  <title> Gwanho Kim CV</title>
-  <link href="media/cv-screen.css" type="text/css" rel="stylesheet" media="screen">
-  <link href="media/cv-print.css" type="text/css" rel="stylesheet" media="print">
-
-  <!-- imports -->
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
-</head>
-<body>
-  <div id="main">
-    <div id="content">
-      <p><br /><br /><br /></p>
+I"X�<p><br /><br /><br /></p>
 
 <p><strong><code class="language-plaintext highlighter-rouge">김관호</code></strong></p>
 
@@ -294,7 +279,7 @@ Viewpager 개발<br>
 
 <p><code class="language-plaintext highlighter-rouge">언어</code> Swift</p>
 
-<p><code class="language-plaintext highlighter-rouge">링크</code> Pattern App <a href="https://itunes.apple.com/us/app/패턴관리-생활패턴-운동패턴-피트니스/id1471091967">(https://itunes.apple.com/us/app/패턴관리-생활패턴-운동패턴-피트니스/id1471091967)</a></p>
+<p><code class="language-plaintext highlighter-rouge">링크</code> Pattern App <a href="https://apps.apple.com/us/app/패턴관리-생활패턴-운동패턴-피트니스/id1471091967">(https://apps.apple.com/us/app/패턴관리-생활패턴-운동패턴-피트니스/id1471091967)</a></p>
 
 <p><code class="language-plaintext highlighter-rouge">역활</code> iOS App</p>
 
@@ -334,7 +319,7 @@ Viewpager 개발<br>
 
 <p><code class="language-plaintext highlighter-rouge">언어</code> Swift</p>
 
-<p><code class="language-plaintext highlighter-rouge">링크</code> Punto App <a href="https://itunes.apple.com/us/app/punto-easy-photo-editing-tool/id1402485933">(https://itunes.apple.com/us/app/punto-easy-photo-editing-tool/id1402485933)</a></p>
+<p><code class="language-plaintext highlighter-rouge">링크</code> Punto App <a href="https://apps.apple.com/us/app/punto-easy-photo-editing-tool/id1402485933">(https://apps.apple.com/us/app/punto-easy-photo-editing-tool/id1402485933)</a></p>
 
 <p><code class="language-plaintext highlighter-rouge">역활</code> iOS App</p>
 
@@ -371,7 +356,7 @@ Viewpager 개발<br>
 
 <p><code class="language-plaintext highlighter-rouge">언어</code> Swift</p>
 
-<p><code class="language-plaintext highlighter-rouge">링크</code> MakeGIF App <a href="https://itunes.apple.com/kr/app/움짤-그림-만들기/id1332469018">(https://itunes.apple.com/kr/app/움짤-그림-만들기/id1332469018)</a></p>
+<p><code class="language-plaintext highlighter-rouge">링크</code> MakeGIF App <a href="https://apps.apple.com/us/app/움짤-그림-만들기/id1332469018">(https://apps.apple.com/us/app/움짤-그림-만들기/id1332469018)</a></p>
 
 <p><code class="language-plaintext highlighter-rouge">역활</code> iOS App</p>
 
@@ -404,7 +389,7 @@ Viewpager 개발<br>
 
 <p><code class="language-plaintext highlighter-rouge">언어</code> Swift</p>
 
-<p><code class="language-plaintext highlighter-rouge">링크</code> FakeCall App <a href="https://itunes.apple.com/kr/app/가짜-전화-fake-call/id1330370713">(https://itunes.apple.com/kr/app/가짜-전화-fake-call/id1330370713)</a></p>
+<p><code class="language-plaintext highlighter-rouge">링크</code> FakeCall App <a href="https://apps.apple.com/us/app/가짜-전화-fake-call/id1330370713">(https://apps.apple.com/us/app/가짜-전화-fake-call/id1330370713)</a></p>
 
 <p><code class="language-plaintext highlighter-rouge">역활</code> iOS App</p>
 
@@ -442,7 +427,7 @@ Viewpager 개발<br>
 
 <p><code class="language-plaintext highlighter-rouge">언어</code> Swift</p>
 
-<p><code class="language-plaintext highlighter-rouge">링크</code> Script App <a href="https://itunes.apple.com/kr/app/대본-공부/id1319037733">(https://itunes.apple.com/kr/app/대본-공부/id1319037733)</a></p>
+<p><code class="language-plaintext highlighter-rouge">링크</code> Script App <a href="https://itunes.apple.com/us/app/id1319037733">(https://itunes.apple.com/us/app/id1319037733)</a></p>
 
 <p><code class="language-plaintext highlighter-rouge">역활</code> iOS App</p>
 
@@ -474,7 +459,7 @@ Viewpager 개발<br>
 
 <p><br /><br /></p>
 
-<p><code class="language-plaintext highlighter-rouge">링크</code> Markdown App <a href="https://itunes.apple.com/us/app/마크다운-개발자를-위한-마크다운-markdown-md/id1195478325">(https://itunes.apple.com/us/app/마크다운-개발자를-위한-마크다운-markdown-md/id1195478325)</a></p>
+<p><code class="language-plaintext highlighter-rouge">링크</code> Markdown App <a href="https://itunes.apple.com/us/app/markdown/id1195478325?l=ko&amp;ls=1&amp;mt=8">(https://itunes.apple.com/us/app/editeo/id1195478325)</a></p>
 
 <p><code class="language-plaintext highlighter-rouge">역활</code> iOS App</p>
 
@@ -513,7 +498,7 @@ Viewpager 개발<br>
 
 <p><code class="language-plaintext highlighter-rouge">언어</code> swift</p>
 
-<p><code class="language-plaintext highlighter-rouge">링크</code> Memo App <a href="https://itunes.apple.com/kr/app/이미지-합성-이미지-텍스트-지도-합성하기/id1192981741">(https://itunes.apple.com/kr/app/이미지-합성-이미지-텍스트-지도-합성하기/id1192981741)</a></p>
+<p><code class="language-plaintext highlighter-rouge">링크</code> Memo App <a href="https://itunes.apple.com/us/app/memo/id1194457669?l=ko&amp;ls=1&amp;mt=8">(https://itunes.apple.com/us/app/editeo/id1194457669)</a></p>
 
 <p><code class="language-plaintext highlighter-rouge">역활</code> iOS App</p>
 
@@ -551,7 +536,7 @@ Viewpager 개발<br>
 
 <p><code class="language-plaintext highlighter-rouge">언어</code> swift</p>
 
-<p><code class="language-plaintext highlighter-rouge">링크</code> Editor App <a href="https://itunes.apple.com/kr/app/editeo/id1192981741?l=ko&amp;ls=1&amp;mt=8">(https://itunes.apple.com/kr/app/editeo/id1192981741)</a></p>
+<p><code class="language-plaintext highlighter-rouge">링크</code> Editor App <a href="https://itunes.apple.com/us/app/editeo/id1192981741?l=ko&amp;ls=1&amp;mt=8">(https://itunes.apple.com/us/app/editeo/id1192981741)</a></p>
 
 <p><code class="language-plaintext highlighter-rouge">역활</code> iOS App</p>
 
@@ -606,7 +591,7 @@ Viewpager 개발<br>
 <a href="https://pikachu987.github.io/cv/app/team/vote/4.jpeg"><img src="https://pikachu987.github.io/cv/app/team/vote/4.jpeg" width="15%" /></a>  
 <a href="https://pikachu987.github.io/cv/app/team/vote/5.jpeg"><img src="https://pikachu987.github.io/cv/app/team/vote/5.jpeg" width="15%" /></a>  </p>
 
-<p><code class="language-plaintext highlighter-rouge">링크</code> Vote App <a href="https://itunes.apple.com/kr/app/답정너/id1379000768">(https://itunes.apple.com/kr/app/답정너/id1379000768)</a></p>
+<p><code class="language-plaintext highlighter-rouge">링크</code> Vote App <a href="https://itunes.apple.com/us/app/vote/id1379000768?l=ko&amp;ls=1&amp;mt=8">(https://itunes.apple.com/us/app/vote/id1379000768)</a></p>
 
 <p><code class="language-plaintext highlighter-rouge">언어</code> Swift</p>
 
@@ -659,24 +644,4 @@ Viewpager 개발<br>
 <h2 id="certifications">Certifications</h2>
 
 <p><code class="language-plaintext highlighter-rouge">2016</code> 네트워크관리사 (한국정보통신자격협회)</p>
-
-    </div>
-  </div>
-
-  <div class="footer"></div>
-
-</body>
-<script>
-  var links = document.links;
-  for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-    links[i].target = '_blank';
-  }
-  if (links[i].text == '[youtube]'){
-    links[i].innerHTML = '<i class="fa fa-youtube"></i>';
-  }else if(links[i].text == '[gist]' || links[i].text == '[github]'){
-    links[i].innerHTML = '<i class="fa fa-github"></i>';
-  }
-}
-</script>
-</html>
+:ET

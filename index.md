@@ -358,7 +358,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `언어` Swift
 
-`링크` Pattern App [(https://itunes.apple.com/us/app/id1471091967)](https://itunes.apple.com/us/app/id1471091967)
+`링크` Pattern App [(https://itunes.apple.com/us/app/패턴관리-생활패턴-운동패턴-피트니스/id1471091967)](https://itunes.apple.com/us/app/패턴관리-생활패턴-운동패턴-피트니스/id1471091967)
 
 `역활` iOS App
 
@@ -409,7 +409,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `언어` Swift
 
-`링크` Punto App [(https://itunes.apple.com/us/app/id1402485933)](https://itunes.apple.com/us/app/id1402485933)
+`링크` Punto App [(https://itunes.apple.com/us/app/punto-easy-photo-editing-tool/id1402485933)](https://itunes.apple.com/us/app/punto-easy-photo-editing-tool/id1402485933)
 
 `역활` iOS App
 
@@ -455,7 +455,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `언어` Swift
 
-`링크` MakeGIF App [(https://itunes.apple.com/us/app/id1332469018)](https://itunes.apple.com/us/app/id1332469018)
+`링크` MakeGIF App [(https://itunes.apple.com/kr/app/움짤-그림-만들기/id1332469018)](https://itunes.apple.com/kr/app/움짤-그림-만들기/id1332469018)
 
 `역활` iOS App
 
@@ -497,7 +497,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `언어` Swift
 
-`링크` FakeCall App [(https://itunes.apple.com/us/app/id1330370713)](https://itunes.apple.com/us/app/id1330370713)
+`링크` FakeCall App [(https://itunes.apple.com/kr/app/가짜-전화-fake-call/id1330370713)](https://itunes.apple.com/kr/app/가짜-전화-fake-call/id1330370713)
 
 `역활` iOS App
 
@@ -549,7 +549,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `언어` Swift
 
-`링크` Script App [(https://itunes.apple.com/us/app/id1319037733)](https://itunes.apple.com/us/app/id1319037733)
+`링크` Script App [(https://itunes.apple.com/kr/app/대본-공부/id1319037733)](https://itunes.apple.com/kr/app/대본-공부/id1319037733)
 
 `역활` iOS App
 
@@ -593,7 +593,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 <br><br>
 
-`링크` Markdown App [(https://itunes.apple.com/us/app/editeo/id1195478325)](https://itunes.apple.com/us/app/markdown/id1195478325?l=ko&ls=1&mt=8)
+`링크` Markdown App [(https://itunes.apple.com/us/app/마크다운-개발자를-위한-마크다운-markdown-md/id1195478325)](https://itunes.apple.com/us/app/마크다운-개발자를-위한-마크다운-markdown-md/id1195478325)
 
 `역활` iOS App
 
@@ -645,20 +645,13 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `언어` swift
 
-`링크` Memo App [(https://itunes.apple.com/us/app/editeo/id1194457669)](https://itunes.apple.com/us/app/memo/id1194457669?l=ko&ls=1&mt=8)
+`링크` Memo App [(https://itunes.apple.com/kr/app/이미지-합성-이미지-텍스트-지도-합성하기/id1192981741)](https://itunes.apple.com/kr/app/이미지-합성-이미지-텍스트-지도-합성하기/id1192981741)
 
 `역활` iOS App
 
 `기술` Realm
 
 <br><br><br><br><br><br><br>
-
-
-
-
-
-
-
 
 
 `2017-01 ~ 2017-01`
@@ -691,7 +684,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `언어` swift
 
-`링크` Editor App [(https://itunes.apple.com/us/app/editeo/id1192981741)](https://itunes.apple.com/us/app/editeo/id1192981741?l=ko&ls=1&mt=8)
+`링크` Editor App [(https://itunes.apple.com/kr/app/editeo/id1192981741)](https://itunes.apple.com/kr/app/editeo/id1192981741?l=ko&ls=1&mt=8)
 
 `역활` iOS App
 
@@ -758,7 +751,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 <a href="https://pikachu987.github.io/cv/app/team/vote/4.jpeg"><img src="https://pikachu987.github.io/cv/app/team/vote/4.jpeg" width="15%"></a>&nbsp;&nbsp;
 <a href="https://pikachu987.github.io/cv/app/team/vote/5.jpeg"><img src="https://pikachu987.github.io/cv/app/team/vote/5.jpeg" width="15%"></a>&nbsp;&nbsp;
 
-`링크` Vote App [(https://itunes.apple.com/us/app/vote/id1379000768)](https://itunes.apple.com/us/app/vote/id1379000768?l=ko&ls=1&mt=8)
+`링크` Vote App [(https://itunes.apple.com/kr/app/답정너/id1379000768)](https://itunes.apple.com/kr/app/답정너/id1379000768)
 
 
 `언어` Swift
