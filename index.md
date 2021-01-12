@@ -473,7 +473,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 <br/>
 
-`FakeCall: 가짜전화 앱`
+`FakeCall: 가짜전화 앱 (reject)`
 
 <br><br>
 
@@ -497,7 +497,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `언어` Swift
 
-`링크` FakeCall App [(https://itunes.apple.com/kr/app/가짜-전화-fake-call/id1330370713)](https://itunes.apple.com/kr/app/가짜-전화-fake-call/id1330370713)
+`링크` ~~FakeCall App [(https://itunes.apple.com/kr/app/가짜-전화-fake-call/id1330370713)](https://itunes.apple.com/kr/app/가짜-전화-fake-call/id1330370713) <span style="color: red;">(reject)</span>~~
 
 `역활` iOS App
 
@@ -645,7 +645,7 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `언어` swift
 
-`링크` Memo App [(https://itunes.apple.com/kr/app/이미지-합성-이미지-텍스트-지도-합성하기/id1192981741)](https://itunes.apple.com/kr/app/이미지-합성-이미지-텍스트-지도-합성하기/id1192981741)
+`링크` Memo App [(https://apps.apple.com/us/app/그림-메모장/id1194457669)](https://apps.apple.com/us/app/그림-메모장/id1194457669)
 
 `역활` iOS App
 
