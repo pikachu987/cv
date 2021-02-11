@@ -1,19 +1,4 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset=utf-8 />
-  <title> Gwanho Kim CV</title>
-  <link href="media/cv-screen.css" type="text/css" rel="stylesheet">
-  <link href="media/cv-print.css" type="text/css" rel="stylesheet" media="print">
-
-  <!-- imports -->
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
-</head>
-<body>
-  <div id="main">
-    <div id="content">
-      <h2 id="김관호">김관호</h2>
+I"��<h2 id="김관호">김관호</h2>
 
 <p><a href="mailto:pikachu77769@gmail.com" style="font-weight: bold;"><code class="language-plaintext highlighter-rouge">Gmail(pikachu77769@gmail.com)</code></a></p>
 
@@ -92,7 +77,7 @@ WebRTC를 제공하는 라이브러리로 비대면진료 개발<br />
 
 <h3 id="3-닥프렌즈-허그맘중단"><a href="http://www.docfriends.com/">3. 닥프렌즈-허그맘(중단)</a></h3>
 
-<p><code class="language-plaintext highlighter-rouge">2018-07 ~ 2018-10</code></p>
+<p><code class="language-plaintext highlighter-rouge">2018-06 ~ 2018-10</code></p>
 
 <p><img src="https://pikachu987.github.io/cv/resoruces/employment/hugmom/1.png" width="15%" />
 <img src="https://pikachu987.github.io/cv/resoruces/employment/hugmom/2.png" width="15%" />
@@ -100,7 +85,7 @@ WebRTC를 제공하는 라이브러리로 비대면진료 개발<br />
 <img src="https://pikachu987.github.io/cv/resoruces/employment/hugmom/4.png" width="15%" />
 <img src="https://pikachu987.github.io/cv/resoruces/employment/hugmom/5.png" width="15%" /></p>
 
-<p>전문 상담사와 고민상담을 할 수 있습니다.</p>
+<p>내 마음을 치유해보세요, 마음주치의를 연결해드립니다!</p>
 
 <p><br /></p>
 
@@ -645,24 +630,4 @@ LocalAuthentication를 사용하여 FaceID, TouchID 구현</p>
 
 <p><a href="mailto:pikachu77769@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:pikachu77769@gmail.com" alt="Gmail" /></a>
 <a href="tel:010-4746-7704"><img src="https://img.shields.io/badge/%F0%9F%93%B2%F0%9F%93%9E-Tel-green?style=flat&amp;logoColor=white&amp;link=tel:010-4746-7704" alt="Tel" /></a></p>
-
-    </div>
-  </div>
-
-  <div class="footer"></div>
-
-</body>
-<script>
-  var links = document.links;
-  for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-    links[i].target = '_blank';
-  }
-  if (links[i].text == '[youtube]'){
-    links[i].innerHTML = '<i class="fa fa-youtube"></i>';
-  }else if(links[i].text == '[gist]' || links[i].text == '[github]'){
-    links[i].innerHTML = '<i class="fa fa-github"></i>';
-  }
-}
-</script>
-</html>
+:ET

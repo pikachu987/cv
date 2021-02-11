@@ -1,19 +1,4 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset=utf-8 />
-  <title> Gwanho Kim CV</title>
-  <link href="media/cv-screen.css" type="text/css" rel="stylesheet">
-  <link href="media/cv-print.css" type="text/css" rel="stylesheet" media="print">
-
-  <!-- imports -->
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
-</head>
-<body>
-  <div id="main">
-    <div id="content">
-      <h2 id="김관호">김관호</h2>
+I"��<h2 id="김관호"><strong><code class="language-plaintext highlighter-rouge">김관호</code></strong></h2>
 
 <p><a href="mailto:pikachu77769@gmail.com" style="font-weight: bold;"><code class="language-plaintext highlighter-rouge">Gmail(pikachu77769@gmail.com)</code></a></p>
 
@@ -90,29 +75,7 @@ WebRTC를 제공하는 라이브러리로 비대면진료 개발<br />
 
 <p><br /></p>
 
-<h3 id="3-닥프렌즈-허그맘중단"><a href="http://www.docfriends.com/">3. 닥프렌즈-허그맘(중단)</a></h3>
-
-<p><code class="language-plaintext highlighter-rouge">2018-07 ~ 2018-10</code></p>
-
-<p><img src="https://pikachu987.github.io/cv/resoruces/employment/hugmom/1.png" width="15%" />
-<img src="https://pikachu987.github.io/cv/resoruces/employment/hugmom/2.png" width="15%" />
-<img src="https://pikachu987.github.io/cv/resoruces/employment/hugmom/3.png" width="15%" />
-<img src="https://pikachu987.github.io/cv/resoruces/employment/hugmom/4.png" width="15%" />
-<img src="https://pikachu987.github.io/cv/resoruces/employment/hugmom/5.png" width="15%" /></p>
-
-<p>전문 상담사와 고민상담을 할 수 있습니다.</p>
-
-<p><br /></p>
-
-<p><code class="language-plaintext highlighter-rouge">iOS 앱 개발</code></p>
-
-<p><a href="https://github.com/ccgus/fmdb">FMDB</a>를 사용하여 데이터 저장<br />
-<a href="https://github.com/SnapKit/SnapKit">SnapKit 오토레이아웃</a>을 이용하여 다해상도 지원<br />
-<a href="https://dashboard.branch.io/">Branch</a>를 이용하여 Universal Link 개발<br /></p>
-
-<p><br /></p>
-
-<h3 id="4-닥프렌즈-오셰어하우스osharehouse"><a href="https://www.facebook.com/osharehouse/">4. 닥프렌즈-오셰어하우스(Osharehouse)</a></h3>
+<h3 id="3-닥프렌즈-오셰어하우스osharehouse"><a href="https://www.facebook.com/osharehouse/">3. 닥프렌즈-오셰어하우스(Osharehouse)</a></h3>
 
 <p><code class="language-plaintext highlighter-rouge">2018-02 ~ 2018-06</code></p>
 
@@ -139,7 +102,7 @@ Localizable을 사용하여 다국어 지원<br /></p>
 
 <p><br /></p>
 
-<h3 id="5-닥프렌즈-오셰어하우스-관리자osharehouse"><a href="https://www.facebook.com/osharehouse/">5. 닥프렌즈-오셰어하우스 관리자(Osharehouse)</a></h3>
+<h3 id="4-닥프렌즈-오셰어하우스-관리자osharehouse"><a href="https://www.facebook.com/osharehouse/">4. 닥프렌즈-오셰어하우스 관리자(Osharehouse)</a></h3>
 
 <p><code class="language-plaintext highlighter-rouge">2018-02 ~ 2018-06</code></p>
 
@@ -165,7 +128,7 @@ CoreData를 사용하여 데이터 저장<br />
 
 <p><br /></p>
 
-<h3 id="6-닥프렌즈-배경화면-hdogq"><a href="http://www.ogqcorp.com/">6. 닥프렌즈-배경화면 HD(OGQ)</a></h3>
+<h3 id="5-닥프렌즈-배경화면-hdogq"><a href="http://www.ogqcorp.com/">5. 닥프렌즈-배경화면 HD(OGQ)</a></h3>
 
 <p><code class="language-plaintext highlighter-rouge">2017-04 ~ 2017-07</code></p>
 
@@ -191,7 +154,7 @@ Localizable을 사용하여 다국어 지원<br /></p>
 
 <p><br /></p>
 
-<h3 id="7-시전소프트-전단지존">7. 시전소프트-전단지존</h3>
+<h3 id="6-시전소프트-전단지존">6. 시전소프트-전단지존</h3>
 
 <p><code class="language-plaintext highlighter-rouge">2016-06 ~ 2016-11</code></p>
 
@@ -623,7 +586,7 @@ LocalAuthentication를 사용하여 FaceID, TouchID 구현</p>
 
 <p><br /></p>
 
-<p><a href="https://github.com/pikachu987/pikachu987"><img src="https://github-readme-stats.vercel.app/api?username=pikachu987&amp;show_icons=true&amp;count_private=true" alt="Github stats" /></a></p>
+<p><a href="https://github.com/pikachu987/pikachu987"><img src="https://github-readme-stats.vercel.app/api?username=pikachu987&amp;show_icons=true&amp;count_private=true" alt="Aaron's github stats" /></a></p>
 
 <p><a href="https://github.com/pikachu987/pikachu987"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikachu987&amp;layout=compact&amp;langs_count=10&amp;hide=Objective-C,JavaScript" alt="Top Langs" /></a></p>
 
@@ -645,24 +608,4 @@ LocalAuthentication를 사용하여 FaceID, TouchID 구현</p>
 
 <p><a href="mailto:pikachu77769@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:pikachu77769@gmail.com" alt="Gmail" /></a>
 <a href="tel:010-4746-7704"><img src="https://img.shields.io/badge/%F0%9F%93%B2%F0%9F%93%9E-Tel-green?style=flat&amp;logoColor=white&amp;link=tel:010-4746-7704" alt="Tel" /></a></p>
-
-    </div>
-  </div>
-
-  <div class="footer"></div>
-
-</body>
-<script>
-  var links = document.links;
-  for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-    links[i].target = '_blank';
-  }
-  if (links[i].text == '[youtube]'){
-    links[i].innerHTML = '<i class="fa fa-youtube"></i>';
-  }else if(links[i].text == '[gist]' || links[i].text == '[github]'){
-    links[i].innerHTML = '<i class="fa fa-github"></i>';
-  }
-}
-</script>
-</html>
+:ET

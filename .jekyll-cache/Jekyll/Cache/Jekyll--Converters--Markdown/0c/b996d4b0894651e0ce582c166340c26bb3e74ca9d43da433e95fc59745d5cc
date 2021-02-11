@@ -1,19 +1,4 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset=utf-8 />
-  <title> Gwanho Kim CV</title>
-  <link href="media/cv-screen.css" type="text/css" rel="stylesheet">
-  <link href="media/cv-print.css" type="text/css" rel="stylesheet" media="print">
-
-  <!-- imports -->
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
-</head>
-<body>
-  <div id="main">
-    <div id="content">
-      <h2 id="김관호">김관호</h2>
+I"1�<p><strong><code class="language-plaintext highlighter-rouge">김관호</code></strong></p>
 
 <p><a href="mailto:pikachu77769@gmail.com" style="font-weight: bold;"><code class="language-plaintext highlighter-rouge">Gmail(pikachu77769@gmail.com)</code></a></p>
 
@@ -23,13 +8,52 @@
 
 <p><a href="https://pikachu987.tistory.com/" style="font-weight: bold;"><code class="language-plaintext highlighter-rouge">Blog(pikachu987 Technology Blog)</code></a></p>
 
-<h2 id="introduce">Introduce</h2>
+<!-- ## 기술서(최신순3가지)
 
-<p><code class="language-plaintext highlighter-rouge">할 수 있는 일에 대해서 끈기있게 도전하며 노력하고 있습니다.</code><br />
-<code class="language-plaintext highlighter-rouge">평소 서적이나 세미나로 학습한 기술들을 앱에 접목시켜 보고 있습니다. 이러한 경험들은 실제 업무를 하면서도 더 좋은 코드를 작성하는데 시너지효과를 낼 수 있었습니다.</code><br />
-<code class="language-plaintext highlighter-rouge">꾸준히 개인 프로젝트를 하며 개인 앱을 배포 하고 있습니다.</code><br />
-<code class="language-plaintext highlighter-rouge">지식을 공유하는 오픈소스 문화를 좋아합니다.</code><br />
-<code class="language-plaintext highlighter-rouge">여러 라이브러리를 배포하면서 제 코드에 대해 이슈나 풀리퀘스트를 받았고 이를 통해 제가 놓친 부분들을 다시 한번 배울 수 있었습니다. 또한 다른 사람들이 올린 라이브러리에 대해 필요한 기능이나 버그가 있다면 풀리퀘스트를 하고 있습니다.</code></p>
+`프로젝트:` __닥톡 iOS 앱 개발__<br>
+`기간:` 2017-02 ~ 현재<br>
+`개발환경:` swift, storyboard<br>
+`내용:` Dynamic Tag UI 개발<br>
+WebView를 커스텀 하여 Progress 추가, URL을 이용해 DeepLinkOpen 개발<br>
+UITextView에 html 커스텀 개발<br>
+Scheme를 나눠 빌드환경 분리(dev, staging, production)<br>
+코어데이터를 사용하여 데이터 저장<br>
+소켓을 이용한 다대다 채팅 개발<br>
+오토레이아웃을 이용하여 다해상도 지원<br>
+
+<br><br>
+
+`프로젝트:` __오셰어하우스 사용자, 관리자 iOS 앱 개발__<br>
+`기간:` 2018-02 ~ 2018-06<br>
+`개발환경:` swift, storyboard<br>
+`내용:` Photos 프레임워크를 이용하여 사진첩 개발<br>
+Expandable Tableview 개발<br>
+Fabric branch 를 이용하여 DeepLink 개발<br>
+Localizable을 사용하여 다국어 지원<br>
+Scheme를 나눠 빌드환경 분리(dev, staging, production)<br>
+코어데이터를 사용하여 데이터 저장<br>
+소켓을 이용한 다대다 채팅 개발<br>
+오토레이아웃을 이용하여 다해상도 지원<br>
+
+<br><br>
+
+`프로젝트:` __OGQBackgrounds iOS 앱 개발 (가입자수 약 100m)__<br>
+`기간:` 2017-04 ~ 2017-07<br>
+`개발환경:` swift, storyboard<br>
+`내용:` GPUImage를 사용하여 사진에 Filter 적용<br>
+Viewpager 개발<br>
+코어데이터를 사용하여 데이터 저장<br>
+오토레이아웃을 이용하여 다해상도, 가로 세로 지원<br>
+
+<br><br><br><br> -->
+
+<!-- ## 역량
+
+`제가 할수 있는 일에 대해서 끈기있게 노력하고 있습니다.`<br>
+`3년동안 꾸준히 개인 프로젝트를 하여 7개의 앱을 배포하였고 평소 서적이나 세미나로 학습한 기술들을 앱에 접목시켜 보았습니다. 이런 경험들은 실제 업무를 하면서도 더 좋은 코드를 작성하는데 시너지효과를 낼 수 있었습니다.`<br>
+<br><br>
+`지식을 공유하는 오픈소스 문화를 좋아합니다.`<br>
+`여러 라이브러리를 배포하면서 제 코드에 대해 이슈나 풀리퀘스트를 받았고 이를 통해 제가 놓친 부분들을 다시 한번 배울 수 있었습니다. 또한 다른 사람들이 올린 라이브러리에 대해 필요한 기능이나 버그가 있다면 풀리퀘스트를 하고 있습니다.` -->
 
 <h2 id="employment">Employment</h2>
 
@@ -90,29 +114,7 @@ WebRTC를 제공하는 라이브러리로 비대면진료 개발<br />
 
 <p><br /></p>
 
-<h3 id="3-닥프렌즈-허그맘중단"><a href="http://www.docfriends.com/">3. 닥프렌즈-허그맘(중단)</a></h3>
-
-<p><code class="language-plaintext highlighter-rouge">2018-07 ~ 2018-10</code></p>
-
-<p><img src="https://pikachu987.github.io/cv/resoruces/employment/hugmom/1.png" width="15%" />
-<img src="https://pikachu987.github.io/cv/resoruces/employment/hugmom/2.png" width="15%" />
-<img src="https://pikachu987.github.io/cv/resoruces/employment/hugmom/3.png" width="15%" />
-<img src="https://pikachu987.github.io/cv/resoruces/employment/hugmom/4.png" width="15%" />
-<img src="https://pikachu987.github.io/cv/resoruces/employment/hugmom/5.png" width="15%" /></p>
-
-<p>전문 상담사와 고민상담을 할 수 있습니다.</p>
-
-<p><br /></p>
-
-<p><code class="language-plaintext highlighter-rouge">iOS 앱 개발</code></p>
-
-<p><a href="https://github.com/ccgus/fmdb">FMDB</a>를 사용하여 데이터 저장<br />
-<a href="https://github.com/SnapKit/SnapKit">SnapKit 오토레이아웃</a>을 이용하여 다해상도 지원<br />
-<a href="https://dashboard.branch.io/">Branch</a>를 이용하여 Universal Link 개발<br /></p>
-
-<p><br /></p>
-
-<h3 id="4-닥프렌즈-오셰어하우스osharehouse"><a href="https://www.facebook.com/osharehouse/">4. 닥프렌즈-오셰어하우스(Osharehouse)</a></h3>
+<h3 id="3-닥프렌즈-오셰어하우스osharehouse"><a href="https://www.facebook.com/osharehouse/">3. 닥프렌즈-오셰어하우스(Osharehouse)</a></h3>
 
 <p><code class="language-plaintext highlighter-rouge">2018-02 ~ 2018-06</code></p>
 
@@ -133,13 +135,11 @@ WebRTC를 제공하는 라이브러리로 비대면진료 개발<br />
 <p>CoreData를 사용하여 데이터 저장<br />
 <a href="https://github.com/SnapKit/SnapKit">SnapKit 오토레이아웃</a>을 이용하여 다해상도 지원<br />
 <a href="https://dashboard.branch.io/">Branch</a>를 이용하여 Universal Link 개발<br />
-<a href="https://github.com/socketio/socket.io-client-swift">Socket</a>을 이용하여 다대다 채팅 구현<br />
-Expandable Tableview 개발<br />
-Localizable을 사용하여 다국어 지원<br /></p>
+<a href="https://github.com/socketio/socket.io-client-swift">Socket</a>을 이용하여 다대다 채팅 구현<br /></p>
 
 <p><br /></p>
 
-<h3 id="5-닥프렌즈-오셰어하우스-관리자osharehouse"><a href="https://www.facebook.com/osharehouse/">5. 닥프렌즈-오셰어하우스 관리자(Osharehouse)</a></h3>
+<h3 id="4-닥프렌즈-오셰어하우스-관리자osharehouse"><a href="https://www.facebook.com/osharehouse/">4. 닥프렌즈-오셰어하우스 관리자(Osharehouse)</a></h3>
 
 <p><code class="language-plaintext highlighter-rouge">2018-02 ~ 2018-06</code></p>
 
@@ -165,7 +165,7 @@ CoreData를 사용하여 데이터 저장<br />
 
 <p><br /></p>
 
-<h3 id="6-닥프렌즈-배경화면-hdogq"><a href="http://www.ogqcorp.com/">6. 닥프렌즈-배경화면 HD(OGQ)</a></h3>
+<h3 id="5-닥프렌즈-배경화면-hdogq"><a href="http://www.ogqcorp.com/">5. 닥프렌즈-배경화면 HD(OGQ)</a></h3>
 
 <p><code class="language-plaintext highlighter-rouge">2017-04 ~ 2017-07</code></p>
 
@@ -186,12 +186,11 @@ CoreData를 사용하여 데이터 저장<br />
 <p>Objective-C 로 되어있던 앱을 Swift3로 변환<br />
 <a href="https://github.com/pikachu987/Tags">Tags</a> 라이브러리 기초 개발<br />
 오토레이아웃(스토리보드)을 이용하여 다해상도 지원<br />
-이미지 다해상도 렌더링 지원<br />
-Localizable을 사용하여 다국어 지원<br /></p>
+이미지 다해상도 렌더링 지원<br /></p>
 
 <p><br /></p>
 
-<h3 id="7-시전소프트-전단지존">7. 시전소프트-전단지존</h3>
+<h3 id="6-시전소프트-전단지존">6. 시전소프트-전단지존</h3>
 
 <p><code class="language-plaintext highlighter-rouge">2016-06 ~ 2016-11</code></p>
 
@@ -306,8 +305,7 @@ Horizontal 무한 스크롤 개발<br /></p>
 
 <p><a href="https://github.com/ccgus/fmdb">FMDB</a>를 사용하여 데이터 저장<br />
 <a href="https://github.com/SnapKit/SnapKit">SnapKit 오토레이아웃</a>을 이용하여 다해상도 지원<br />
-<a href="https://github.com/pikachu987/CropPickerView">CropPickerView</a>를 이용하여 이미지 자르기 지원<br />
-Localizable을 사용하여 다국어 지원<br /></p>
+<a href="https://github.com/pikachu987/CropPickerView">CropPickerView</a>를 이용하여 이미지 자르기 지원<br /></p>
 
 <p><br /></p>
 
@@ -340,8 +338,7 @@ Localizable을 사용하여 다국어 지원<br /></p>
 <p><a href="https://github.com/ccgus/fmdb">FMDB</a>를 사용하여 데이터 저장<br />
 오토레이아웃(스토리보드)을 이용하여 다해상도 지원<br />
 <a href="https://github.com/pikachu987/CropPickerView">CropPickerView</a>를 이용하여 이미지 자르기 지원<br />
-<a href="https://github.com/BradLarson/GPUImage3">GPUImage</a>를 이용하여 필터 지원<br />
-Localizable을 사용하여 다국어 지원<br /></p>
+<a href="https://github.com/BradLarson/GPUImage3">GPUImage</a>를 이용하여 필터 지원<br /></p>
 
 <p><br /></p>
 
@@ -395,8 +392,7 @@ Localizable을 사용하여 다국어 지원<br /></p>
 <p><code class="language-plaintext highlighter-rouge">iOS 앱 개발</code></p>
 
 <p>CoreData를 사용하여 데이터 저장<br />
-<a href="https://github.com/SnapKit/SnapKit">SnapKit 오토레이아웃</a>을 이용하여 다해상도 지원<br />
-Localizable을 사용하여 다국어 지원<br /></p>
+<a href="https://github.com/SnapKit/SnapKit">SnapKit 오토레이아웃</a>을 이용하여 다해상도 지원<br /></p>
 
 <p><br /></p>
 
@@ -549,120 +545,59 @@ LocalAuthentication를 사용하여 FaceID, TouchID 구현</p>
 
 <p><strong><a href="https://itunes.apple.com/kr/app/답정너/id1379000768">답정너(https://itunes.apple.com/kr/app/답정너/id1379000768)</a></strong></p>
 
-<h2 id="library">Library</h2>
+<h2 id="etc">Etc</h2>
 
-<h3 id="1-tags">1. Tags</h3>
+<h3 id="라이브러리">라이브러리</h3>
 
-<p><a href="https://github.com/pikachu987/Tags">https://github.com/pikachu987/Tags</a></p>
-
-<p><img src="https://img.shields.io/github/stars/pikachu987/Tags?style=social" alt="stars" />  
-<img src="https://img.shields.io/github/forks/pikachu987/Tags?style=social" alt="forks" />  
-<img src="https://img.shields.io/github/watchers/pikachu987/Tags?style=social" alt="watchers" />  </p>
-
-<p>● 태그를 동적으로 추가, 수정, 삭제를 할수 있고 여러가지 커스터마이징을 제공<br />
-● 태그는 오토레이아웃으로 개발<br />
-● 태그를 터치, 높이 변경 될때 딜리게이트 호출<br /></p>
-
-<h3 id="2-notificationview">2. NotificationView</h3>
-
-<p><a href="https://github.com/pikachu987/NotificationView">https://github.com/pikachu987/NotificationView</a></p>
-
-<p><img src="https://img.shields.io/github/stars/pikachu987/NotificationView?style=social" alt="stars" />  
-<img src="https://img.shields.io/github/forks/pikachu987/NotificationView?style=social" alt="forks" />  
-<img src="https://img.shields.io/github/watchers/pikachu987/NotificationView?style=social" alt="watchers" />  </p>
-
-<p>● iOS 기본 알림 화면 구현<br />
-● light 테마, dark 테마 지원<br />
-● hide시간, show시간, showAfter시간 커스텀 가능<br /></p>
-
-<h3 id="3-croppickerview">3. CropPickerView</h3>
-
-<p><a href="https://github.com/pikachu987/CropPickerView">https://github.com/pikachu987/CropPickerView</a></p>
-
-<p><img src="https://img.shields.io/github/stars/pikachu987/CropPickerView?style=social" alt="stars" />  
-<img src="https://img.shields.io/github/forks/pikachu987/CropPickerView?style=social" alt="forks" />  
-<img src="https://img.shields.io/github/watchers/pikachu987/CropPickerView?style=social" alt="watchers" />  </p>
-
-<p>● 상하좌우, 상좌, 상우, 하좌, 하우 버튼을 이용해 이미지 자를 위치를 정하고 이미지를 자름<br />
-● 이미지는 스크롤이 되고 스크롤보다 이미지가 작은 경우 중앙 정렬<br />
-● 이미지를 원형으로 자를수 있음<br /></p>
-
-<h3 id="4-webcontroller">4. WebController</h3>
-
-<p><a href="https://github.com/pikachu987/WebController">https://github.com/pikachu987/WebController</a></p>
-
-<p><img src="https://img.shields.io/github/stars/pikachu987/WebController?style=social" alt="stars" />  
-<img src="https://img.shields.io/github/forks/pikachu987/WebController?style=social" alt="forks" />  
-<img src="https://img.shields.io/github/watchers/pikachu987/WebController?style=social" alt="watchers" />  </p>
-
-<p>● WKWebView를 커스텀<br />
-● KVO를 이용하여 웹사이트 로드 progress 표현<br />
-● 하단 툴바, 색상 등 커스텀 가능<br /></p>
-
-<h3 id="5-videoconverter">5. VideoConverter</h3>
-
-<p><a href="https://github.com/pikachu987/VideoConverter">https://github.com/pikachu987/VideoConverter</a></p>
-
-<p>● 비디오를 startTime, endTime or durationTime으로 자를수 있음<br />
-● 비디오를 회전 할 수 있음<br />
-● 비디오를 x, y, width, height값으로 자를 수 있음<br />
-● 비디오의 quality와 음소거를 할 수 있음<br /></p>
-
-<h3 id="6-videotrim">6. VideoTrim</h3>
-
-<p><a href="https://github.com/pikachu987/VideoTrim">https://github.com/pikachu987/VideoTrim</a></p>
-
-<p>● 비디오의 시작 시간, 종료 시간을 UI적으로 표현하고 수정할 수 있음<br />
-● 최소 width, preview 개수, color, margin, 크기 등을 커스텀 가능<br /></p>
-
-<h2 id="certifications">Certifications</h2>
-
-<p><code class="language-plaintext highlighter-rouge">2016</code> 네트워크관리사 (한국정보통신자격협회)</p>
-
-<h2 id="activity">Activity</h2>
+<p><code class="language-plaintext highlighter-rouge">Lib</code> <a href="https://github.com/pikachu987/Tags">Tags</a></p>
 
 <p><br /></p>
 
-<p><a href="https://github.com/pikachu987/pikachu987"><img src="https://github-readme-stats.vercel.app/api?username=pikachu987&amp;show_icons=true&amp;count_private=true" alt="Github stats" /></a></p>
+<p><code class="language-plaintext highlighter-rouge">Lib</code> <a href="https://github.com/pikachu987/CropPickerController">CropPickerController</a></p>
 
-<p><a href="https://github.com/pikachu987/pikachu987"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikachu987&amp;layout=compact&amp;langs_count=10&amp;hide=Objective-C,JavaScript" alt="Top Langs" /></a></p>
+<p><br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">Lib</code> <a href="https://github.com/pikachu987/CropPickerView">CropPickerView</a></p>
+
+<p><br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">Lib</code> <a href="https://github.com/pikachu987/NotificationView">NotificationView</a></p>
+
+<h3 id="활동">활동</h3>
+
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=pikachu987&amp;show_icons=true&amp;count_private=true" alt="Aaron's github stats" /></a></p>
+
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikachu987&amp;layout=compact&amp;langs_count=10&amp;hide=Objective-C,JavaScript" alt="Top Langs" /></a></p>
 
 <p><a href="https://github.com/pikachu987/"><img src="https://img.shields.io/badge/github-black.svg?logoColor=white&amp;logo=github&amp;link=https://github.com/pikachu987" alt="Github" /></a>
 <a href="http://pikachu987.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-black?style=flat&amp;logo=github&amp;link=http://pikachu987.tistory.com" alt="Blog" /></a>
-<a href="https://github.com/search?q=user%3Apikachu987+&amp;s=stars&amp;type=Repositories/"><img src="https://img.shields.io/github/stars/pikachu987?label=Repository%20Star&amp;color=black&amp;logoColor=white&amp;logo=github&amp;link=https://github.com/search?q=user%3Apikachu987+&amp;s=stars&amp;type=Repositories" alt="Repository" /></a></p>
+<a href="https://github.com/search?q=user%3Apikachu987+&amp;s=stars&amp;type=Repositories/"><img src="https://img.shields.io/github/stars/pikachu987?label=Repository&amp;color=black&amp;logoColor=white&amp;logo=github&amp;link=https://github.com/search?q=user%3Apikachu987+&amp;s=stars&amp;type=Repositories" alt="Repository" /></a>
+<a href="https://www.facebook.com/gaunho.kim/"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/gaunho.kim" alt="Facebook" /></a></p>
 
-<h3 id="1-부스트코스-ios-리뷰어-역활">1. 부스트코스 iOS 리뷰어 역활</h3>
-
-<p><code class="language-plaintext highlighter-rouge">2018-06 ~ 2019-04</code></p>
-
-<h3 id="2-디프만-동아리-ios-개발자-참여">2. 디프만 동아리 iOS 개발자 참여</h3>
-
-<p><code class="language-plaintext highlighter-rouge">2018-03 ~ 2018-08</code></p>
-
-<h2 id="contact-me">Contact Me</h2>
-
-<p><br /></p>
+<h3 id="연락-방법">연락 방법</h3>
 
 <p><a href="mailto:pikachu77769@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:pikachu77769@gmail.com" alt="Gmail" /></a>
 <a href="tel:010-4746-7704"><img src="https://img.shields.io/badge/%F0%9F%93%B2%F0%9F%93%9E-Tel-green?style=flat&amp;logoColor=white&amp;link=tel:010-4746-7704" alt="Tel" /></a></p>
 
-    </div>
-  </div>
+<p><br /></p>
 
-  <div class="footer"></div>
+<p><code class="language-plaintext highlighter-rouge">2018-06 ~ 현재</code></p>
 
-</body>
-<script>
-  var links = document.links;
-  for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-    links[i].target = '_blank';
-  }
-  if (links[i].text == '[youtube]'){
-    links[i].innerHTML = '<i class="fa fa-youtube"></i>';
-  }else if(links[i].text == '[gist]' || links[i].text == '[github]'){
-    links[i].innerHTML = '<i class="fa fa-github"></i>';
-  }
-}
-</script>
-</html>
+<p><br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">부스트코스 iOS 리뷰어 역활</code></p>
+
+<p><br /><br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">2018-03 ~ 2018-08</code></p>
+
+<p><br /></p>
+
+<p><code class="language-plaintext highlighter-rouge">디프만 동아리 iOS 개발자 참여</code></p>
+
+<p><br /><br /></p>
+
+<h2 id="certifications">Certifications</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2016</code> 네트워크관리사 (한국정보통신자격협회)</p>
+:ET
