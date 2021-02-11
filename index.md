@@ -189,7 +189,7 @@ CoreData를 사용하여 데이터 저장<br>
 <img src="https://pikachu987.github.io/cv/resoruces/employment/backgroundHD/1.png" width="15%">
 <img src="https://pikachu987.github.io/cv/resoruces/employment/backgroundHD/2.png" width="15%">
 <img src="https://pikachu987.github.io/cv/resoruces/employment/backgroundHD/3.png" width="15%">
-<img src="https://pikachu987.github.io/cv/resoruces/employment/docfbackgroundHDriends/4.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/backgroundHD/4.png" width="15%">
 <img src="https://pikachu987.github.io/cv/resoruces/employment/backgroundHD/5.png" width="15%">
 
 고화질 배경화‪면‬
