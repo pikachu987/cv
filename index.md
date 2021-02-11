@@ -4,30 +4,15 @@ title: 김관호
 ---
 
 
-<br><br><br>
-
 __`김관호`__
 
-<br>
-
-<a href="mailto:pikachu77769@gmail.com" style="font-weight: bold;">`Mail(pikachu77769@gmail.com)`</a>
-
-<br>
+<a href="mailto:pikachu77769@gmail.com" style="font-weight: bold;">`Gmail(pikachu77769@gmail.com)`</a>
 
 <a href="tel:010-4746-7704" style="font-weight: bold;">`Hp(010-4746-7704)`</a>
 
-<br>
-
 <a href="https://github.com/pikachu987/" style="font-weight: bold;">`Github(https://github.com/pikachu987)`</a>
 
-<br>
-
 <a href="https://pikachu987.tistory.com/" style="font-weight: bold;">`Blog(pikachu987 Technology Blog)`</a>
-
-<br>
-
-
-<br><br><br>
 
 <!-- ## 기술서(최신순3가지)
 
@@ -77,266 +62,260 @@ Viewpager 개발<br>
 `지식을 공유하는 오픈소스 문화를 좋아합니다.`<br>
 `여러 라이브러리를 배포하면서 제 코드에 대해 이슈나 풀리퀘스트를 받았고 이를 통해 제가 놓친 부분들을 다시 한번 배울 수 있었습니다. 또한 다른 사람들이 올린 라이브러리에 대해 필요한 기능이나 버그가 있다면 풀리퀘스트를 하고 있습니다.` -->
 
-
-
 ## Employment
 
 
 
+<br>
 
-`2017-02 ~ 현재 - 닥톡`
+### [1. 닥프렌즈-닥톡](https://www.doctalk.co.kr/)
 
-<br/>
+`2017-02 ~ 현재`
 
-`닥프렌즈, iOS Developer`
+<img src="https://pikachu987.github.io/cv/resoruces/employment/doctalk/1.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/doctalk/2.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/doctalk/3.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/doctalk/4.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/doctalk/5.png" width="15%">
 
-<br><br>
+환자와 의사를 이어주는 주치의 메신저 플랫폼 닥톡
 
-`이미지`
+__[닥톡(https://itunes.apple.com/kr/app/id1220724684)](https://itunes.apple.com/kr/app/id1220724684)__
 
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk1.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk2.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk3.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk4.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/doctalk5.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/doctalk5.png" width="15%"></a>&nbsp;&nbsp;
+<br>
 
-`링크`
+`iOS 앱 개발`
 
-__[DOCFRIENDS(http://www.docfriends.com/)](http://www.docfriends.com/)__
+상담 HTML을 로드하고 상담 HTML을 저장할수 있게 UITextView 정규식을 사용하여 커스텀<br>
+[FMDB](https://github.com/ccgus/fmdb)를 사용하여 데이터 저장<br>
+[SnapKit 오토레이아웃](https://github.com/SnapKit/SnapKit)을 이용하여 다해상도 지원<br>
+WebRTC를 제공하는 라이브러리로 비대면진료 개발<br>
+[Chart](https://github.com/danielgindi/Charts)를 이용하여 관리자의 통계 데이터 지원<br>
+[Branch](https://dashboard.branch.io/)를 이용하여 Universal Link 개발<br>
+[Socket](https://github.com/socketio/socket.io-client-swift)을 이용하여 다대다 채팅 구현<br>
+[Alamofire](https://github.com/Alamofire/Alamofire)를 사용하여 통신 구현<br>
+사진첩, 카메라 커스텀 구현<br>
 
-__[DOCTALK iOS(https://itunes.apple.com/kr/app/id1220724684)](https://itunes.apple.com/kr/app/id1220724684)__
 
-`역활` iOS App 전체
 
-<br><br><br><br><br><br><br>
+<br>
 
+### [2. 닥프렌즈-월든(중단)](http://www.docfriends.com/)
 
+`2019-01 ~ 2020-01`
 
+<img src="https://pikachu987.github.io/cv/resoruces/employment/walden/1.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/walden/2.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/walden/3.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/walden/4.png" width="15%">
 
+내 마음을 치유해보세요, 마음주치의를 연결해드립니다!
 
-`2019-01 ~ 현재 - 월든`
+~~__[월든(https://itunes.apple.com/kr/app/id1438594199)](https://itunes.apple.com/kr/app/id1438594199)__~~
 
-<br/>
+<br>
 
-`닥프렌즈, iOS Developer`
+`iOS 앱 개발`
 
-<br><br>
+[FMDB](https://github.com/ccgus/fmdb)를 사용하여 데이터 저장<br>
+[SnapKit 오토레이아웃](https://github.com/SnapKit/SnapKit)을 이용하여 다해상도 지원<br>
+[Branch](https://dashboard.branch.io/)를 이용하여 Universal Link 개발<br>
+[Socket](https://github.com/socketio/socket.io-client-swift)을 이용하여 다대다 채팅 구현<br>
+사진첩, 카메라 커스텀 구현<br>
 
-`이미지`
 
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/walden1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/walden1.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/walden2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/walden2.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/walden3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/walden3.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/walden4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/walden4.png" width="15%"></a>&nbsp;&nbsp;
 
-`링크`
+<br>
 
-__[DOCFRIENDS(http://www.docfriends.com/)](http://www.docfriends.com/)__
+### [3. 닥프렌즈-오셰어하우스(Osharehouse)](https://www.facebook.com/osharehouse/)
 
-__[WALDEN iOS(https://itunes.apple.com/kr/app/id1438594199)](https://itunes.apple.com/kr/app/id1438594199)__
+`2018-02 ~ 2018-06`
 
-`역활` iOS App 전체
+<img src="https://pikachu987.github.io/cv/resoruces/employment/osharehouse/1.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/osharehouse/2.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/osharehouse/3.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/osharehouse/4.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/osharehouse/5.png" width="15%">
 
-<br><br><br><br><br><br><br>
+실시간 직거래 방구하기
 
+__[오셰어하우스(https://itunes.apple.com/kr/app/id1383090453)](https://itunes.apple.com/kr/app/id1383090453)__
 
+<br>
 
+`iOS 앱 개발`
 
+CoreData를 사용하여 데이터 저장<br>
+[SnapKit 오토레이아웃](https://github.com/SnapKit/SnapKit)을 이용하여 다해상도 지원<br>
+[Branch](https://dashboard.branch.io/)를 이용하여 Universal Link 개발<br>
+[Socket](https://github.com/socketio/socket.io-client-swift)을 이용하여 다대다 채팅 구현<br>
 
 
 
-`2018-02 ~ 2018-06 - 오셰어하우스`
+<br>
 
-<br/>
+### [4. 닥프렌즈-오셰어하우스 관리자(Osharehouse)](https://www.facebook.com/osharehouse/)
 
-`닥프렌즈, iOS Developer`
+`2018-02 ~ 2018-06`
 
-<br><br>
+<img src="https://pikachu987.github.io/cv/resoruces/employment/osharehouseAdmin/1.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/osharehouseAdmin/2.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/osharehouseAdmin/3.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/osharehouseAdmin/4.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/osharehouseAdmin/5.png" width="15%">
 
-`이미지`
+간편하게 입주자를 모집하세요
 
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshare1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshare1.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshare2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshare2.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshare3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshare3.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshare4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshare4.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshare5.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshare5.png" width="15%"></a>&nbsp;&nbsp;
+__[오셰어하우스 관리자(https://itunes.apple.com/kr/app/id1351570974)](https://itunes.apple.com/kr/app/id1351570974)__
 
-`링크`
+<br>
 
-__[OSHAREHOUSE(https://www.facebook.com/osharehouse/)](https://www.facebook.com/osharehouse/)__
+`iOS 앱 개발`
 
-__[OSHAREHOUSE iOS(https://itunes.apple.com/kr/app/id1383090453)](https://itunes.apple.com/kr/app/id1383090453)__
+[Chart](https://github.com/danielgindi/Charts)를 이용하여 관리자의 통계 데이터 지원<br>
+CoreData를 사용하여 데이터 저장<br>
+[SnapKit 오토레이아웃](https://github.com/SnapKit/SnapKit)을 이용하여 다해상도 지원<br>
+[Branch](https://dashboard.branch.io/)를 이용하여 Universal Link 개발<br>
+[Socket](https://github.com/socketio/socket.io-client-swift)을 이용하여 다대다 채팅 구현<br>
 
-`역활` iOS App 전체
 
-<br><br><br><br><br><br><br>
 
+<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`2018-02 ~ 2018-06 - 오셰어하우스 관리자`
-
-<br/>
-
-`닥프렌즈, iOS Developer`
-
-<br><br>
-
-`이미지`
-
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin1.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin1.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin2.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin2.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin3.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin3.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin4.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin4.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin5.png"><img src="https://pikachu987.github.io/cv/app/company/docfriends/oshareadmin5.png" width="15%"></a>&nbsp;&nbsp;
-
-`링크`
-
-__[OSHAREHOUSE(https://www.facebook.com/osharehouse/)](https://www.facebook.com/osharehouse/)__
-
-__[OSHAREHOUSE ADMIN iOS(https://itunes.apple.com/kr/app/id1351570974)](https://itunes.apple.com/kr/app/id1351570974)__
-
-`역활` iOS App 전체
-
-<br><br><br><br><br><br><br>
-
-
-
-
-
+### [5. 닥프렌즈-배경화면 HD(OGQ)](http://www.ogqcorp.com/)
 
 `2017-04 ~ 2017-07`
 
-<br/>
+<img src="https://pikachu987.github.io/cv/resoruces/employment/backgroundHD/1.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/backgroundHD/2.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/backgroundHD/3.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/docfbackgroundHDriends/4.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/backgroundHD/5.png" width="15%">
 
-`닥프렌즈, iOS Developer - 배경화면 HD`
+고화질 배경화‪면‬
 
-<br><br>
+__[배경화면 HD(https://itunes.apple.com/app/id541860561)](https://itunes.apple.com/app/id541860561)__
 
-`이미지`
+<br>
 
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq1.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq1.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq2.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq2.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq3.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq3.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq4.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq4.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/docfriends/ogq5.jpg"><img src="https://pikachu987.github.io/cv/app/company/docfriends/ogq5.jpg" width="15%"></a>&nbsp;&nbsp;
+`iOS 앱 개발`
 
-`링크`
-
-__[OGQ(http://www.ogqcorp.com/)](http://www.ogqcorp.com/)__
-
-__[OGQ iOS(https://itunes.apple.com/app/id541860561)](https://itunes.apple.com/app/id541860561)__
-
-`역활` Objective-C 로 되어있던 앱을 Swift3로 변환, 버전4를 버전5로 리뉴얼(햄버거메뉴를 탭바로 변경)
-
-<br><br><br><br><br><br><br>
+Objective-C 로 되어있던 앱을 Swift3로 변환<br>
+[Tags](https://github.com/pikachu987/Tags) 라이브러리 기초 개발<br>
+이미지 다해상도 렌더링 지원<br>
 
 
 
+<br>
 
-
-
-
-
-
-
-
-
-
-
+### 6. 시전소프트-전단지존
 
 `2016-06 ~ 2016-11`
 
-<br/>
+<img src="https://pikachu987.github.io/cv/resoruces/employment/jundan/1.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/jundan/2.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/jundan/3.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/jundan/4.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/employment/jundan/5.png" width="15%">
 
-`시전소프트, iOS Developer - 전단지존`
+전단지를 앱으로 만들어 배포
 
-<br><br>
+<br>
 
-`이미지`
+`iOS 앱 개발`
 
-<a href="https://pikachu987.github.io/cv/app/company/jundan/1.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/1.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/jundan/2.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/2.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/jundan/3.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/3.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/jundan/4.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/4.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/jundan/5.jpg"><img src="https://pikachu987.github.io/cv/app/company/jundan/5.jpg" width="15%"></a>&nbsp;&nbsp;
-
-`링크` __[전단지존 (company.flyerszone.co.kr)](http://company.flyerszone.co.kr/)__
-
-<br/>
-
-`역활` iOS App 전체
-
-<br><br><br>
-
-
-
-
+[Realm](https://github.com/realm/realm-cocoa)을 사용하여 데이터 저장<br>
+[Alamofire](https://github.com/Alamofire/Alamofire)를 사용하여 통신 구현<br>
+여러가지 전단지 만들기 레이아웃 개발<br>
+Horizontal 무한 스크롤 개발<br>
 
 
 
 
 ## Freelancer
 
+<br>
+
+### 1. KMS-ExpertT
+
+`2016-11 ~ 2016-12`
+
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/et/1.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/et/2.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/et/3.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/et/4.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/et/5.png" width="15%">
+
+WebRTC를 이용해 통역 전문가와 통화
+
+<br>
+
+`iOS 앱 개발`
+
+[QuickBlox WebRTC](https://quickblox.com/)를 이용하여 통화 구현<br>
+[SQLite](https://github.com/stephencelis/SQLite.swift)를 이용하여 데이터 저장<br>
+[Realm](https://github.com/realm/realm-cocoa)을 사용하여 데이터 저장<br>
+[Alamofire](https://github.com/Alamofire/Alamofire)를 사용하여 통신 구현<br>
 
 
 
-`2016-11 ~ 2017-01`
-<br/>
 
-`프리랜서, iOS Developer - ExpertT`
+<br>
 
-<br><br>
+### 2. Davich-가상장착(중단)
 
-`이미지`
+`2016-12 ~ 2017-01`
 
-<a href="https://pikachu987.github.io/cv/app/company/et/1.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/1.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/et/2.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/2.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/et/3.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/3.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/et/4.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/4.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/company/et/5.jpg"><img src="https://pikachu987.github.io/cv/app/company/et/5.jpg" width="15%"></a>&nbsp;&nbsp;
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/virtualWearing/1.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/virtualWearing/2.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/virtualWearing/3.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/virtualWearing/4.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/virtualWearing/5.png" width="15%">
 
-`링크`
+가상으로 눈동자 위치와 눈동자 타원에 맞게 콘택트 렌즈를 잘라서 가상으로 써 볼수 있다.
 
-__[KMS ExpertT(http://www.expertt.cn)](http://www.expertt.cn/)__
+<br>
 
-__[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes.apple.com/kr/app/id1180869787)__
+`iOS 앱 개발`
 
-`역활` iOS App 전체
+[Realm](https://github.com/realm/realm-cocoa)을 사용하여 데이터 저장<br>
+[Alamofire](https://github.com/Alamofire/Alamofire)를 사용하여 통신 구현<br>
 
-<br><br><br>
 
+
+<br>
+
+### 3. knightnet-책가방
+
+`2017-01 ~ 2017-02`
+
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/edubag/1.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/edubag/2.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/edubag/3.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/edubag/4.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/freelancer/edubag/5.png" width="15%">
+
+책가방은 방과후학교 운영을 위한 프로그램입니다.
+
+<br>
+
+`iOS 앱 개발`
+
+[Realm](https://github.com/realm/realm-cocoa)을 사용하여 데이터 저장<br>
+[Alamofire](https://github.com/Alamofire/Alamofire)를 사용하여 통신 구현<br>
+[Kanna](https://github.com/tid-kijyun/Kanna)를 사용하여  XML 통신 구현<br>
 
 
 
 
 ## Individual Projects
 
+<br>
 
+### 1. 패턴관리(생활패턴, 운동패턴, 피트니스)
 
 `2019-07 ~ 2019-07`
 
-<br/>
-
-`패턴관리(생활패턴, 운동패턴, 피트니스)`
 
 <br><br>
 
@@ -348,11 +327,11 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/pattern/1.png"><img src="https://pikachu987.github.io/cv/app/individual/pattern/1.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/pattern/2.png"><img src="https://pikachu987.github.io/cv/app/individual/pattern/2.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/pattern/3.png"><img src="https://pikachu987.github.io/cv/app/individual/pattern/3.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/pattern/4.png"><img src="https://pikachu987.github.io/cv/app/individual/pattern/4.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/pattern/5.png"><img src="https://pikachu987.github.io/cv/app/individual/pattern/5.png" width="15%"></a>&nbsp;&nbsp;
+<img src="https://pikachu987.github.io/cv/resoruces/individual/pattern/1.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/pattern/2.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/pattern/3.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/pattern/4.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/pattern/5.png" width="15%">
 
 <br><br>
 
@@ -399,11 +378,11 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/punto/1.png"><img src="https://pikachu987.github.io/cv/app/individual/punto/1.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/punto/2.png"><img src="https://pikachu987.github.io/cv/app/individual/punto/2.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/punto/3.png"><img src="https://pikachu987.github.io/cv/app/individual/punto/3.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/punto/4.png"><img src="https://pikachu987.github.io/cv/app/individual/punto/4.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/punto/5.png"><img src="https://pikachu987.github.io/cv/app/individual/punto/5.png" width="15%"></a>&nbsp;&nbsp;
+<img src="https://pikachu987.github.io/cv/resoruces/individual/punto/1.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/punto/2.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/punto/3.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/punto/4.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/punto/5.png" width="15%">
 
 <br><br>
 
@@ -445,11 +424,11 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/makegif/1.png"><img src="https://pikachu987.github.io/cv/app/individual/makegif/1.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/makegif/2.png"><img src="https://pikachu987.github.io/cv/app/individual/makegif/2.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/makegif/3.png"><img src="https://pikachu987.github.io/cv/app/individual/makegif/3.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/makegif/4.png"><img src="https://pikachu987.github.io/cv/app/individual/makegif/4.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/makegif/5.png"><img src="https://pikachu987.github.io/cv/app/individual/makegif/5.png" width="15%"></a>&nbsp;&nbsp;
+<img src="https://pikachu987.github.io/cv/resoruces/individual/makegif/1.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/makegif/2.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/makegif/3.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/makegif/4.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/makegif/5.png" width="15%">
 
 <br>
 
@@ -487,11 +466,11 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en1.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en1.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en2.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en2.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en3.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en3.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en4.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en4.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/fakecall/en5.png"><img src="https://pikachu987.github.io/cv/app/individual/fakecall/en5.png" width="15%"></a>&nbsp;&nbsp;
+<img src="https://pikachu987.github.io/cv/resoruces/individual/fakecall/en1.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/fakecall/en2.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/fakecall/en3.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/fakecall/en4.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/fakecall/en5.png" width="15%">
 
 <br><br>
 
@@ -539,11 +518,11 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/script/1.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/1.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/script/2.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/2.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/script/3.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/3.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/script/4.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/4.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/script/5.jpg"><img src="https://pikachu987.github.io/cv/app/individual/script/5.jpg" width="15%"></a>&nbsp;&nbsp;
+<img src="https://pikachu987.github.io/cv/resoruces/individual/script/1.jpg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/script/2.jpg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/script/3.jpg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/script/4.jpg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/script/5.jpg" width="15%">
 
 <br><br>
 
@@ -587,9 +566,9 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/markdown/1.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/1.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/markdown/2.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/2.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/markdown/3.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/markdown/3.jpeg" width="15%"></a>&nbsp;&nbsp;
+<img src="https://pikachu987.github.io/cv/resoruces/individual/markdown/1.jpeg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/markdown/2.jpeg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/markdown/3.jpeg" width="15%">
 
 <br><br>
 
@@ -635,11 +614,11 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/memo/1.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/1.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/memo/2.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/2.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/memo/3.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/3.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/memo/4.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/4.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/memo/5.jpeg"><img src="https://pikachu987.github.io/cv/app/individual/memo/5.jpeg" width="15%"></a>&nbsp;&nbsp;
+<img src="https://pikachu987.github.io/cv/resoruces/individual/memo/1.jpeg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/memo/2.jpeg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/memo/3.jpeg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/memo/4.jpeg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/memo/5.jpeg" width="15%">
 
 <br><br>
 
@@ -674,11 +653,11 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/individual/editor/1.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/1.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/editor/2.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/2.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/editor/3.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/3.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/editor/4.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/4.jpg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/individual/editor/5.jpg"><img src="https://pikachu987.github.io/cv/app/individual/editor/5.jpg" width="15%"></a>&nbsp;&nbsp;
+<img src="https://pikachu987.github.io/cv/resoruces/individual/editor/1.jpg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/editor/2.jpg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/editor/3.jpg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/editor/4.jpg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/individual/editor/5.jpg" width="15%">
 
 <br><br>
 
@@ -712,12 +691,12 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/team/common/1.png"><img src="https://pikachu987.github.io/cv/app/team/common/1.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/team/common/2.png"><img src="https://pikachu987.github.io/cv/app/team/common/2.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/team/common/3.png"><img src="https://pikachu987.github.io/cv/app/team/common/3.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/team/common/4.png"><img src="https://pikachu987.github.io/cv/app/team/common/4.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/team/common/5.png"><img src="https://pikachu987.github.io/cv/app/team/common/5.png" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/team/common/6.png"><img src="https://pikachu987.github.io/cv/app/team/common/6.png" width="15%"></a>&nbsp;&nbsp;
+<img src="https://pikachu987.github.io/cv/resoruces/team/common/1.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/team/common/2.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/team/common/3.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/team/common/4.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/team/common/5.png" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/team/common/6.png" width="15%">
 
 <br><br>
 
@@ -745,11 +724,11 @@ __[KMS ExpertT iOS(https://itunes.apple.com/kr/app/id1180869787)](https://itunes
 
 `이미지`
 
-<a href="https://pikachu987.github.io/cv/app/team/vote/1.jpeg"><img src="https://pikachu987.github.io/cv/app/team/vote/1.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/team/vote/2.jpeg"><img src="https://pikachu987.github.io/cv/app/team/vote/2.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/team/vote/3.jpeg"><img src="https://pikachu987.github.io/cv/app/team/vote/3.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/team/vote/4.jpeg"><img src="https://pikachu987.github.io/cv/app/team/vote/4.jpeg" width="15%"></a>&nbsp;&nbsp;
-<a href="https://pikachu987.github.io/cv/app/team/vote/5.jpeg"><img src="https://pikachu987.github.io/cv/app/team/vote/5.jpeg" width="15%"></a>&nbsp;&nbsp;
+<img src="https://pikachu987.github.io/cv/resoruces/team/vote/1.jpeg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/team/vote/2.jpeg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/team/vote/3.jpeg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/team/vote/4.jpeg" width="15%">
+<img src="https://pikachu987.github.io/cv/resoruces/team/vote/5.jpeg" width="15%">
 
 `링크` Vote App [(https://itunes.apple.com/kr/app/답정너/id1379000768)](https://itunes.apple.com/kr/app/답정너/id1379000768)
 
