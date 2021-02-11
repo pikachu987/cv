@@ -1,0 +1,11 @@
+.page-break {
+    page-break-before: always;
+}
+
+a {
+    text-decoration-color: RGB(180, 180, 180);
+}
+
+a > code {
+    text-decoration-color: RGB(180, 180, 180);
+}

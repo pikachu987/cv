@@ -1,19 +1,4 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset=utf-8 />
-  <title> Gwanho Kim CV</title>
-  <link href="media/cv-screen.css" type="text/css" rel="stylesheet">
-  <link href="media/cv-print.css" type="text/css" rel="stylesheet" media="print">
-
-  <!-- imports -->
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
-</head>
-<body>
-  <div id="main">
-    <div id="content">
-      <h2 id="김관호">김관호</h2>
+I"�<h2 id="김관호">김관호</h2>
 
 <p><a href="mailto:pikachu77769@gmail.com" style="font-weight: bold;"><code class="language-plaintext highlighter-rouge">Gmail(pikachu77769@gmail.com)</code></a></p>
 
@@ -620,7 +605,9 @@ LocalAuthentication를 사용하여 FaceID, TouchID 구현</p>
 <p><a href="https://github.com/pikachu987/VideoConverter">https://github.com/pikachu987/VideoConverter</a></p>
 
 <p>● 비디오를 startTime, endTime or durationTime으로 자를수 있음<br />
-● 비디오를 x, y, width, height값으로 자를 수 있고 회전, quality, 음소거를 할 수 있음<br /></p>
+● 비디오를 회전 할 수 있음<br />
+● 비디오를 x, y, width, height값으로 자를 수 있음<br />
+● 비디오의 quality와 음소거를 할 수 있음<br /></p>
 
 <h3 id="6-videotrim">6. VideoTrim</h3>
 
@@ -659,24 +646,4 @@ LocalAuthentication를 사용하여 FaceID, TouchID 구현</p>
 
 <p><a href="mailto:pikachu77769@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:pikachu77769@gmail.com" alt="Gmail" /></a>
 <a href="tel:010-4746-7704"><img src="https://img.shields.io/badge/%F0%9F%93%B2%F0%9F%93%9E-Tel-green?style=flat&amp;logoColor=white&amp;link=tel:010-4746-7704" alt="Tel" /></a></p>
-
-    </div>
-  </div>
-
-  <div class="footer"></div>
-
-</body>
-<script>
-  var links = document.links;
-  for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-    links[i].target = '_blank';
-  }
-  if (links[i].text == '[youtube]'){
-    links[i].innerHTML = '<i class="fa fa-youtube"></i>';
-  }else if(links[i].text == '[gist]' || links[i].text == '[github]'){
-    links[i].innerHTML = '<i class="fa fa-github"></i>';
-  }
-}
-</script>
-</html>
+:ET

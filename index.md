@@ -64,6 +64,7 @@ WebRTC를 제공하는 라이브러리로 비대면진료 개발<br>
 사진첩, 카메라 커스텀 구현<br>
 
 
+<div class="page-break"></div>
 
 <br>
 
@@ -115,6 +116,7 @@ WebRTC를 제공하는 라이브러리로 비대면진료 개발<br>
 [Branch](https://dashboard.branch.io/)를 이용하여 Universal Link 개발<br>
 
 
+<div class="page-break"></div>
 
 <br>
 
@@ -172,6 +174,8 @@ CoreData를 사용하여 데이터 저장<br>
 [Socket](https://github.com/socketio/socket.io-client-swift)을 이용하여 다대다 채팅 구현<br>
 
 
+<div class="page-break"></div>
+
 <br>
 
 ### [6. 닥프렌즈-배경화면 HD(OGQ)](http://www.ogqcorp.com/)
@@ -225,6 +229,7 @@ Horizontal 무한 스크롤 개발<br>
 
 
 
+<div class="page-break"></div>
 
 ## Freelancer
 
@@ -276,6 +281,7 @@ WebRTC를 이용해 통역 전문가와 통화
 [Alamofire](https://github.com/Alamofire/Alamofire)를 사용하여 통신 구현<br>
 
 
+<div class="page-break"></div>
 
 <br>
 
@@ -332,6 +338,7 @@ __[패턴관리(https://itunes.apple.com/us/app/패턴관리-생활패턴-운동
 Localizable을 사용하여 다국어 지원<br>
 
 
+<div class="page-break"></div>
 
 <br>
 
@@ -417,8 +424,6 @@ CoreData를 사용하여 데이터 저장<br>
 ● 전화왔을 때 알림음과 진동, 배경화면을 바꿀 수 있습니다.<br/>
 
 
-~~__[가짜전화(https://itunes.apple.com/kr/app/가짜-전화-fake-call/id1330370713)](https://itunes.apple.com/kr/app/가짜-전화-fake-call/id1330370713)__<span style="color: red;">(reject)</span>~~
-
 <br>
 
 `iOS 앱 개발`
@@ -460,6 +465,7 @@ CoreData를 사용하여 데이터 저장<br>
 [Keychain](https://github.com/kishikawakatsumi/KeychainAccess)을 이용하여 데이터 저장<br>
 
 
+<div class="page-break"></div>
 
 <br>
 
@@ -576,6 +582,7 @@ __[이미지 합성(https://itunes.apple.com/kr/app/editeo/id1192981741)](https:
 <a href="https://www.facebook.com/unithonWithU/">`6회 유니톤(대학 해커톤) 우수상`</a>
 
 
+<div class="page-break"></div>
 
 <br>
 
@@ -644,14 +651,14 @@ __[답정너(https://itunes.apple.com/kr/app/답정너/id1379000768)](https://it
 ● KVO를 이용하여 웹사이트 로드 progress 표현<br>
 ● 하단 툴바, 색상 등 커스텀 가능<br>
 
+<div class="page-break"></div>
+
 ### 5. VideoConverter
 
 [https://github.com/pikachu987/VideoConverter](https://github.com/pikachu987/VideoConverter)
 
 ● 비디오를 startTime, endTime or durationTime으로 자를수 있음<br>
-● 비디오를 회전 할 수 있음<br>
-● 비디오를 x, y, width, height값으로 자를 수 있음<br>
-● 비디오의 quality와 음소거를 할 수 있음<br>
+● 비디오를 x, y, width, height값으로 자를 수 있고 회전, quality, 음소거를 할 수 있음<br>
 
 ### 6. VideoTrim
 
