@@ -62,6 +62,8 @@ WebRTC를 제공하는 라이브러리로 비대면진료 개발<br>
 [Socket](https://github.com/socketio/socket.io-client-swift)을 이용하여 다대다 채팅 구현<br>
 [Alamofire](https://github.com/Alamofire/Alamofire)를 사용하여 통신 구현<br>
 사진첩, 카메라 커스텀 구현<br>
+jenkins와 s3를 이용해 sh파일로 내부 배포 시스템(Over The Air) 구현<br>
+s3와 lambda를 활용해 배포된 파일 다운로드 사이트 구현<br>
 
 
 <div class="page-break"></div>
