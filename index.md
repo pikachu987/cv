@@ -70,7 +70,7 @@ s3와 lambda를 활용해 배포된 파일 다운로드 사이트 구현<br>
 
 <br>
 
-### [2. 닥프렌즈-월든(중단)](http://www.docfriends.com/)
+### [2. 닥프렌즈-월든(중단)](https://www.docfriends.com/)
 
 `2019-01 ~ 2020-01`
 
@@ -97,7 +97,7 @@ s3와 lambda를 활용해 배포된 파일 다운로드 사이트 구현<br>
 
 <br>
 
-### [3. 닥프렌즈-허그맘(중단)](http://www.docfriends.com/)
+### [3. 닥프렌즈-허그맘(중단)](https://www.docfriends.com/)
 
 `2018-07 ~ 2018-10`
 
@@ -180,7 +180,7 @@ CoreData를 사용하여 데이터 저장<br>
 
 <br>
 
-### [6. 닥프렌즈-배경화면 HD(OGQ)](http://www.ogqcorp.com/)
+### [6. 닥프렌즈-배경화면 HD(OGQ)](https://medium.com/ogq-corp)
 
 `2017-04 ~ 2017-07`
 
@@ -685,7 +685,7 @@ __[답정너(https://itunes.apple.com/kr/app/답정너/id1379000768)](https://it
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikachu987&layout=compact&langs_count=10&hide=Objective-C,JavaScript)](https://github.com/pikachu987/pikachu987)
 
 [![Github](https://img.shields.io/badge/github-black.svg?logoColor=white&logo=github&link=https://github.com/pikachu987)](https://github.com/pikachu987/)
-[![Blog](https://img.shields.io/badge/Tech%20Blog-black?style=flat&logo=github&link=http://pikachu987.tistory.com)](http://pikachu987.tistory.com/)
+[![Blog](https://img.shields.io/badge/Tech%20Blog-black?style=flat&logo=github&link=https://pikachu987.tistory.com)](https://pikachu987.tistory.com/)
 [![Repository](https://img.shields.io/github/stars/pikachu987?label=Repository%20Star&color=black&logoColor=white&logo=github&link=https://github.com/search?q=user%3Apikachu987+&s=stars&type=Repositories)](https://github.com/search?q=user%3Apikachu987+&s=stars&type=Repositories/)
 
 
