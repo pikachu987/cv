@@ -51,7 +51,7 @@ __[닥톡(https://itunes.apple.com/kr/app/id1220724684)](https://itunes.apple.co
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 상담 HTML을 로드하고 상담 HTML을 저장할수 있게 UITextView 정규식을 사용하여 커스텀<br>
 [FMDB](https://github.com/ccgus/fmdb)를 사용하여 데이터 저장<br>
@@ -61,9 +61,16 @@ WebRTC를 제공하는 라이브러리로 비대면진료 개발<br>
 [Branch](https://dashboard.branch.io/)를 이용하여 Universal Link 개발<br>
 [Socket](https://github.com/socketio/socket.io-client-swift)을 이용하여 다대다 채팅 구현<br>
 [Alamofire](https://github.com/Alamofire/Alamofire)를 사용하여 통신 구현<br>
-사진첩, 카메라 커스텀 구현<br>
 jenkins와 s3를 이용해 sh파일로 내부 배포 시스템(Over The Air) 구현<br>
 s3와 lambda를 활용해 배포된 파일 다운로드 사이트 구현<br>
+
+<br>
+
+`📱 기능 보기`
+
+[이미지, 동영상 편집](https://pikachu987.github.io/cvdata/resources/employment/doctalk/media/picker/)
+
+<br>
 
 
 <div class="page-break"></div>
@@ -111,7 +118,7 @@ s3와 lambda를 활용해 배포된 파일 다운로드 사이트 구현<br>
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 [FMDB](https://github.com/ccgus/fmdb)를 사용하여 데이터 저장<br>
 [SnapKit 오토레이아웃](https://github.com/SnapKit/SnapKit)을 이용하여 다해상도 지원<br>
@@ -138,7 +145,7 @@ __[오셰어하우스(https://itunes.apple.com/kr/app/id1383090453)](https://itu
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 CoreData를 사용하여 데이터 저장<br>
 [SnapKit 오토레이아웃](https://github.com/SnapKit/SnapKit)을 이용하여 다해상도 지원<br>
@@ -167,7 +174,7 @@ __[오셰어하우스 관리자(https://itunes.apple.com/kr/app/id1351570974)](h
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 [Chart](https://github.com/danielgindi/Charts)를 이용하여 관리자의 통계 데이터 지원<br>
 CoreData를 사용하여 데이터 저장<br>
@@ -196,7 +203,7 @@ __[배경화면 HD(https://itunes.apple.com/app/id541860561)](https://itunes.app
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 Objective-C 로 되어있던 앱을 Swift3로 변환<br>
 [Tags](https://github.com/pikachu987/Tags) 라이브러리 기초 개발<br>
@@ -222,7 +229,7 @@ Localizable을 사용하여 다국어 지원<br>
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 [Realm](https://github.com/realm/realm-cocoa)을 사용하여 데이터 저장<br>
 [Alamofire](https://github.com/Alamofire/Alamofire)를 사용하여 통신 구현<br>
@@ -251,7 +258,7 @@ WebRTC를 이용해 통역 전문가와 통화
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 [QuickBlox WebRTC](https://quickblox.com/)를 이용하여 통화 구현<br>
 [SQLite](https://github.com/stephencelis/SQLite.swift)를 이용하여 데이터 저장<br>
@@ -277,7 +284,7 @@ WebRTC를 이용해 통역 전문가와 통화
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 [Realm](https://github.com/realm/realm-cocoa)을 사용하여 데이터 저장<br>
 [Alamofire](https://github.com/Alamofire/Alamofire)를 사용하여 통신 구현<br>
@@ -301,7 +308,7 @@ WebRTC를 이용해 통역 전문가와 통화
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 [Realm](https://github.com/realm/realm-cocoa)을 사용하여 데이터 저장<br>
 [Alamofire](https://github.com/Alamofire/Alamofire)를 사용하여 통신 구현<br>
@@ -332,7 +339,7 @@ __[패턴관리(https://itunes.apple.com/us/app/패턴관리-생활패턴-운동
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 [FMDB](https://github.com/ccgus/fmdb)를 사용하여 데이터 저장<br>
 [SnapKit 오토레이아웃](https://github.com/SnapKit/SnapKit)을 이용하여 다해상도 지원<br>
@@ -368,7 +375,7 @@ __[푼토(https://itunes.apple.com/us/app/punto-easy-photo-editing-tool/id140248
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 [FMDB](https://github.com/ccgus/fmdb)를 사용하여 데이터 저장<br>
 오토레이아웃(스토리보드)을 이용하여 다해상도 지원<br>
@@ -401,7 +408,7 @@ __[움짤 그림 만들기(https://itunes.apple.com/kr/app/움짤-그림-만들�
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 CoreData를 사용하여 데이터 저장<br>
 [SnapKit 오토레이아웃](https://github.com/SnapKit/SnapKit)을 이용하여 다해상도 지원<br>
@@ -428,7 +435,7 @@ CoreData를 사용하여 데이터 저장<br>
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 CoreData를 사용하여 데이터 저장<br>
 [SnapKit 오토레이아웃](https://github.com/SnapKit/SnapKit)을 이용하여 다해상도 지원<br>
@@ -459,12 +466,11 @@ __[대본공부(https://itunes.apple.com/kr/app/대본-공부/id1319037733)](htt
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 CoreData를 사용하여 데이터 저장<br>
 [SSZipArchive](https://github.com/ZipArchive/ZipArchive)를 이용하여 집파일을 다운받은 후 압축풀기 지원<br>
 [Kanna](https://github.com/tid-kijyun/Kanna)를 사용하여 XML 분석<br>
-[Keychain](https://github.com/kishikawakatsumi/KeychainAccess)을 이용하여 데이터 저장<br>
 
 
 <div class="page-break"></div>
@@ -489,7 +495,7 @@ __[마크다운(https://itunes.apple.com/us/app/마크다운-개발자를-위한
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 CoreData를 사용하여 데이터 저장<br>
 
@@ -512,7 +518,7 @@ CoreData를 사용하여 데이터 저장<br>
 ● 지우개로 펜으로 그린 것을 지울수 있고 지우개 크기를 바꿀수 있다.<br>
 ● 배경색을 바꿀수 있다.<br>
 ● 투명한 배경을 사용하고 갤러리에 저장할 수 있다.<br>
-● 카메라(필터적용), 갤러리, 아이콘을 가져와서 크기를 조절해서 메모장에 올려놓을수 있다.<br>
+● 이미지를 가져와서 크기를 조절해서 메모장에 올려놓을수 있다.<br>
 ● 텍스트를 만들어서 메모장에 올려놓을수 있다.<br>
 ● 저장, 삭제, 공유가 가능하며 메모마다 잠금(지문인식)을 걸어놓을 수 있다.<br>
 ● 잠금이 된 메모는 저장, 삭제, 공유, 보기를 하려면 지문인식 또는 잠금설정할때 입력한 비밀번호를 입력하여야 할 수 있다.<br>
@@ -521,7 +527,7 @@ __[그림 메모장(https://apps.apple.com/us/app/그림-메모장/id1194457669)
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 [FMDB](https://github.com/ccgus/fmdb)를 사용하여 데이터 저장<br>
 [SnapKit 오토레이아웃](https://github.com/SnapKit/SnapKit)을 이용하여 다해상도 지원<br>
@@ -545,7 +551,6 @@ LocalAuthentication를 사용하여 FaceID, TouchID 구현
 
 ● 갤러리, 카메라(필터), 웹사이트, 저장된이미지, 지도에서 원하는 영역을 자르고 저장할 수 있다.<br>
 ● 원하는 영역을 타원으로 자를 수 있다.<br>
-● 지도에서 원하는 부분에 원하는 아이콘의 마커를 남길수 있다.<br>
 ● 저장한 이미지들을 서로 합성을 할 수 있고 이미지들 간의 순서를 조절할 수 있다.<br>
 ● 배경색을 바꿀 수 있고 텍스트를 넣을 수 있고 합성한 이미지를 저장할 수 있다.<br>
 ● 투명한 배경을 사용하고 갤러리에 저장할 수 있다.<br>
@@ -555,7 +560,7 @@ __[이미지 합성(https://itunes.apple.com/kr/app/editeo/id1192981741)](https:
 
 <br>
 
-`iOS 앱 개발`
+`iOS 앱 개발 내용`
 
 [FMDB](https://github.com/ccgus/fmdb)를 사용하여 데이터 저장<br>
 [SnapKit 오토레이아웃](https://github.com/SnapKit/SnapKit)을 이용하여 다해상도 지원<br>
