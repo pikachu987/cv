@@ -2,7 +2,7 @@
 
 ## [포트폴리오](https://pikachu987.github.io/cv/)
 
-## [포트폴리오 PDF 다운](https://pikachu987.github.io/cv/resources/Gwanho_Kim_CV.pdf?v=3)
+## [포트폴리오 PDF 다운](https://pikachu987.github.io/cv/resources/Gwanho_Kim_Portfolio.pdf?v=3)
 
 
 ## Run

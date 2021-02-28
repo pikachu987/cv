@@ -1,3 +1,18 @@
+@page {
+    size: 210mm 297mm; /*A4*/
+    margin: 0mm
+}
+
+html, body {
+    margin:0;
+    padding:0;
+    page-break-after: avoid;
+    page-break-before: avoid
+}
+.body {
+    margin-top:-1px /*서브픽셀 해결1*/
+} 
+
 .page-break {
     page-break-before: always;
 }
@@ -8,4 +23,40 @@ a {
 
 a > code {
     text-decoration-color: RGB(180, 180, 180);
+}
+
+#content #김관호 {
+	top: 95px;
+}
+
+.profile {
+    display: block;
+	position: absolute;
+	left: calc(15% - 60px);
+	top: 10px;
+}
+
+.profile img {
+	width: 60px;
+}
+
+.pdf-download {
+    display: none;
+}
+
+.color-theme {
+    display: none;
+}
+
+.dark-theme {
+	background-color: white;
+	color: black;
+}
+
+.dark-theme h1, .dark-theme h1+p, .dark-theme h3, .dark-theme code, .dark-theme #webaddress, .dark-theme p {
+	color: black;
+}
+
+.dark-theme h2 {
+	color: #AA0000;
 }
