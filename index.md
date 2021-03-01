@@ -66,10 +66,10 @@ s3와 lambda를 활용해 배포된 파일 다운로드 사이트 구현<br>
 
 <br>
 
-`📱 기능 보기`
+`📱 주요 기능 영상으로 보기`
 
-[이미지, 동영상 편집](https://pikachu987.github.io/cvdata/resources/employment/doctalk/media/picker/)
-
+[이미지, 동영상 편집](https://pikachu987.github.io/cvdata/resources/employment/doctalk/media/picker/)<br>
+[HTML 불러오기, 저장하기](https://pikachu987.github.io/cvdata/resources/employment/doctalk/media/html/)
 <br>
 
 
