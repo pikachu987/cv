@@ -321,7 +321,40 @@ WebRTC를 이용해 통역 전문가와 통화
 
 <br>
 
-### 1. 패턴관리(생활패턴, 운동패턴, 피트니스)
+### 1. 비디오편집기
+
+`2021-03 ~ 2021-03`
+
+<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/1.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/2.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/3.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/4.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/5.png?cv=1" width="15%">
+
+● 비디오의 시작시간과 종료시간을 선택해 자를 수 있습니다.<br/>
+● 비디오의 크기 및 없애고 싶은 영역을 자를 수 있습니다.<br/>
+● 비디오를 회전시켜 저장할 수 있습니다.<br/>
+● 비디오의 화질을 저화질, 일반화질, 고화질로 저장할 수 있습니다.<br/>
+● 비디오 음소거를 할 수 있습니다.<br/>
+
+__[비디오편집기(https://apps.apple.com/us/app/videoeditor-crop-quality-mute/id1559471613)](https://apps.apple.com/us/app/videoeditor-crop-quality-mute/id1559471613)__
+
+<br>
+
+`iOS 앱 개발 내용`
+
+[SnapKit 오토레이아웃](https://github.com/SnapKit/SnapKit)을 이용하여 다해상도 지원<br>
+[CropPickerView](https://github.com/pikachu987/CropPickerView)를 이용하여 이미지 자르기 지원<br>
+Localizable을 사용하여 다국어 지원<br>
+
+
+
+
+<div class="page-break"></div>
+
+<br>
+
+### 2. 패턴관리(생활패턴, 운동패턴, 피트니스)
 
 `2019-07 ~ 2019-07`
 
@@ -347,11 +380,10 @@ __[패턴관리(https://itunes.apple.com/us/app/패턴관리-생활패턴-운동
 Localizable을 사용하여 다국어 지원<br>
 
 
-<div class="page-break"></div>
 
 <br>
 
-### 2. Punto: 쉬운 사진편집 툴
+### 3. Punto: 쉬운 사진편집 툴
 
 `2018-09 ~ 2018-09`
 
@@ -384,10 +416,9 @@ __[푼토(https://itunes.apple.com/us/app/punto-easy-photo-editing-tool/id140248
 Localizable을 사용하여 다국어 지원<br>
 
 
-
 <br>
 
-### 3. MakeGIF: 움짤 그림 만들기 앱
+### 4. MakeGIF: 움짤 그림 만들기 앱
 
 `2018-01 ~ 2018-01`
 
@@ -417,7 +448,7 @@ CoreData를 사용하여 데이터 저장<br>
 
 <br>
 
-### 4. FakeCall: 가짜전화 앱 (reject)
+### 5. FakeCall: 가짜전화 앱 (reject)
 
 `2018-01 ~ 2018-01`
 
@@ -442,9 +473,12 @@ CoreData를 사용하여 데이터 저장<br>
 Localizable을 사용하여 다국어 지원<br>
 
 
+<div class="page-break"></div>
+
+
 <br>
 
-### 5. Script: 대본공부 앱
+### 6. Script: 대본공부 앱
 
 `2017-12 ~ 2017-12`
 
@@ -473,11 +507,10 @@ CoreData를 사용하여 데이터 저장<br>
 [Kanna](https://github.com/tid-kijyun/Kanna)를 사용하여 XML 분석<br>
 
 
-<div class="page-break"></div>
 
 <br>
 
-### 6. Markdown: 마크다운 앱
+### 7. Markdown: 마크다운 앱
 
 `2017-01 ~ 2017-01`
 
@@ -500,10 +533,11 @@ __[마크다운(https://itunes.apple.com/us/app/마크다운-개발자를-위한
 CoreData를 사용하여 데이터 저장<br>
 
 
+<div class="page-break"></div>
 
 <br>
 
-### 7. Memo: 그림 메모장
+### 8. Memo: 그림 메모장
 
 `2017-01 ~ 2017-01`
 
@@ -539,7 +573,7 @@ LocalAuthentication를 사용하여 FaceID, TouchID 구현
 
 <br>
 
-### 8. Editor: 이미지 합성 앱
+### 9. Editor: 이미지 합성 앱
 
 `2017-01 ~ 2017-01`
 
@@ -589,7 +623,7 @@ __[이미지 합성(https://itunes.apple.com/kr/app/editeo/id1192981741)](https:
 <a href="https://www.facebook.com/unithonWithU/">`6회 유니톤(대학 해커톤) 우수상`</a>
 
 
-<div class="page-break"></div>
+
 
 <br>
 
@@ -606,6 +640,7 @@ __[이미지 합성(https://itunes.apple.com/kr/app/editeo/id1192981741)](https:
 __[답정너(https://itunes.apple.com/kr/app/답정너/id1379000768)](https://itunes.apple.com/kr/app/답정너/id1379000768)__
 
 
+<div class="page-break"></div>
 
 
 ## Library
@@ -658,7 +693,7 @@ __[답정너(https://itunes.apple.com/kr/app/답정너/id1379000768)](https://it
 ● KVO를 이용하여 웹사이트 로드 progress 표현<br>
 ● 하단 툴바, 색상 등 커스텀 가능<br>
 
-<div class="page-break"></div>
+
 
 ### 5. VideoConverter
 
@@ -680,6 +715,8 @@ __[답정너(https://itunes.apple.com/kr/app/답정너/id1379000768)](https://it
 
 `2016` 네트워크관리사 (한국정보통신자격협회)
 
+
+<div class="page-break"></div>
 
 ## Activity
 
