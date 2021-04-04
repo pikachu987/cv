@@ -321,7 +321,41 @@ WebRTC를 이용해 통역 전문가와 통화
 
 <br>
 
-### 1. 비디오편집기
+### 1. QR 코드
+
+`2021-04 ~ 2021-04`
+
+<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/1.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/2.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/3.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/4.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/5.png?cv=1" width="15%">
+
+● QR코드를 텍스트로 만들수 있습니다.<br/>
+● 웹뷰를 이용해 URL로 QR코드를 만들수 있습니다.<br/>
+● QR코드의 복잡도, QR코드색, 배경색을 변경할 수 있습니다.<br/>
+● QR코드에 로고를 추가할 수 있습니다.<br/>
+● 외부 앱에서 공유하기로 QR코드를 만들수 있습니다.<br/>
+
+__[QR코드(https://apps.apple.com/us/app/qr-code-create-view-scan/id1560555666)](https://apps.apple.com/us/app/qr-code-create-view-scan/id1560555666)__
+
+<br>
+
+`iOS 앱 개발 내용`
+
+[SnapKit 오토레이아웃](https://github.com/SnapKit/SnapKit)을 이용하여 다해상도 지원<br>
+[CropPickerView](https://github.com/pikachu987/CropPickerView)를 이용하여 이미지 자르기 지원<br>
+Localizable을 사용하여 다국어 지원<br>
+Share Extension으로 외부 앱에서 공유하기 지원<br>
+
+
+
+
+<div class="page-break"></div>
+
+<br>
+
+### 2. 비디오편집기
 
 `2021-03 ~ 2021-03`
 
@@ -349,12 +383,9 @@ Localizable을 사용하여 다국어 지원<br>
 
 
 
-
-<div class="page-break"></div>
-
 <br>
 
-### 2. 패턴관리(생활패턴, 운동패턴, 피트니스)
+### 3. 패턴관리(생활패턴, 운동패턴, 피트니스)
 
 `2019-07 ~ 2019-07`
 
@@ -381,9 +412,15 @@ Localizable을 사용하여 다국어 지원<br>
 
 
 
+
+
+<div class="page-break"></div>
+
+
+
 <br>
 
-### 3. Punto: 쉬운 사진편집 툴
+### 4. Punto: 쉬운 사진편집 툴
 
 `2018-09 ~ 2018-09`
 
@@ -418,7 +455,7 @@ Localizable을 사용하여 다국어 지원<br>
 
 <br>
 
-### 4. MakeGIF: 움짤 그림 만들기 앱
+### 5. MakeGIF: 움짤 그림 만들기 앱
 
 `2018-01 ~ 2018-01`
 
@@ -448,7 +485,7 @@ CoreData를 사용하여 데이터 저장<br>
 
 <br>
 
-### 5. FakeCall: 가짜전화 앱 (reject)
+### 6. FakeCall: 가짜전화 앱 (reject)
 
 `2018-01 ~ 2018-01`
 
@@ -473,12 +510,11 @@ CoreData를 사용하여 데이터 저장<br>
 Localizable을 사용하여 다국어 지원<br>
 
 
-<div class="page-break"></div>
 
 
 <br>
 
-### 6. Script: 대본공부 앱
+### 7. Script: 대본공부 앱
 
 `2017-12 ~ 2017-12`
 
@@ -508,9 +544,12 @@ CoreData를 사용하여 데이터 저장<br>
 
 
 
+<div class="page-break"></div>
+
+
 <br>
 
-### 7. Markdown: 마크다운 앱
+### 8. Markdown: 마크다운 앱
 
 `2017-01 ~ 2017-01`
 
@@ -533,11 +572,10 @@ __[마크다운(https://itunes.apple.com/us/app/마크다운-개발자를-위한
 CoreData를 사용하여 데이터 저장<br>
 
 
-<div class="page-break"></div>
 
 <br>
 
-### 8. Memo: 그림 메모장
+### 9. Memo: 그림 메모장
 
 `2017-01 ~ 2017-01`
 
@@ -571,9 +609,12 @@ LocalAuthentication를 사용하여 FaceID, TouchID 구현
 
 
 
+<div class="page-break"></div>
+
+
 <br>
 
-### 9. Editor: 이미지 합성 앱
+### 10. Editor: 이미지 합성 앱
 
 `2017-01 ~ 2017-01`
 
@@ -625,6 +666,9 @@ __[이미지 합성(https://itunes.apple.com/kr/app/editeo/id1192981741)](https:
 
 
 
+<div class="page-break"></div>
+
+
 <br>
 
 ### 2. 답정너: 두가지 선택사항을 투표하는 앱
@@ -639,8 +683,6 @@ __[이미지 합성(https://itunes.apple.com/kr/app/editeo/id1192981741)](https:
 
 __[답정너(https://itunes.apple.com/kr/app/답정너/id1379000768)](https://itunes.apple.com/kr/app/답정너/id1379000768)__
 
-
-<div class="page-break"></div>
 
 
 ## Library
@@ -716,7 +758,6 @@ __[답정너(https://itunes.apple.com/kr/app/답정너/id1379000768)](https://it
 `2016` 네트워크관리사 (한국정보통신자격협회)
 
 
-<div class="page-break"></div>
 
 ## Activity
 
