@@ -561,11 +561,11 @@ CoreData를 사용하여 데이터 저장<br>
 
 ● 마크다운을 적을수 있다.<br>
 ● 마크다운을 적기 편하게 키보드 상단에 여러가지 버튼이 있다.<br>
+● 마크다운을 웹뷰를 통해 이미지를 쉽게 보여줄 수 있다.<br>
 ● 마크다운을 적으면서 마크다운 미리보기를 할 수 있다.<br>
-● 마크다운을 저장할 수 있다.<br>
-● 마크다운을 공유할 수 있다.<br>
+● 마크다운을 html 또는 markdown 형식으로 파일을 공유할 수 있다.<br>
 
-__[마크다운(https://itunes.apple.com/us/app/마크다운-개발자를-위한-마크다운-markdown-md/id1195478325)](https://itunes.apple.com/us/app/마크다운-개발자를-위한-마크다운-markdown-md/id1195478325)__
+__[마크다운(https://apps.apple.com/us/app/markdown-md-html-editor/id1195478325)](https://apps.apple.com/us/app/markdown-md-html-editor/id1195478325)__
 
 <br>
 
