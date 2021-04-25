@@ -15,7 +15,7 @@ title: 김관호
 <a href="https://pikachu987.tistory.com/" style="font-weight: bold;">`Blog(pikachu987 Technology Blog)`</a>
 
 
-<div class="profile"><img src="https://pikachu987.github.io/cvdata/resources/profile.png?cv=1"></div>
+<div class="profile"><img src="https://pikachu987.github.io/cvdata/resources/profile.png?cv=2"></div>
 
 
 ## Introduce
@@ -39,11 +39,11 @@ title: 김관호
 
 `2017-02 ~ 현재`
 
-<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/doctalk/appstore/5.png?cv=2" width="15%">
 
 환자와 의사를 이어주는 주치의 메신저 플랫폼 닥톡
 
@@ -81,10 +81,10 @@ s3와 lambda를 활용해 배포된 파일 다운로드 사이트 구현<br>
 
 `2019-01 ~ 2020-01`
 
-<img src="https://pikachu987.github.io/cvdata/resources/employment/walden/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/walden/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/walden/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/walden/appstore/4.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/walden/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/walden/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/walden/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/walden/appstore/4.png?cv=2" width="15%">
 
 내 마음을 치유해보세요, 마음주치의를 연결해드립니다!
 
@@ -108,11 +108,11 @@ s3와 lambda를 활용해 배포된 파일 다운로드 사이트 구현<br>
 
 `2018-07 ~ 2018-10`
 
-<img src="https://pikachu987.github.io/cvdata/resources/employment/hugmom/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/hugmom/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/hugmom/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/hugmom/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/hugmom/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/hugmom/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/hugmom/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/hugmom/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/hugmom/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/hugmom/appstore/5.png?cv=2" width="15%">
 
 전문 상담사와 고민상담을 할 수 있습니다.
 
@@ -133,11 +133,11 @@ s3와 lambda를 활용해 배포된 파일 다운로드 사이트 구현<br>
 
 `2018-02 ~ 2018-06`
 
-<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouse/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouse/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouse/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouse/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouse/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouse/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouse/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouse/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouse/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouse/appstore/5.png?cv=2" width="15%">
 
 실시간 직거래 방구하기
 
@@ -162,11 +162,11 @@ Localizable을 사용하여 다국어 지원<br>
 
 `2018-02 ~ 2018-06`
 
-<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouseAdmin/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouseAdmin/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouseAdmin/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouseAdmin/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouseAdmin/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouseAdmin/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouseAdmin/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouseAdmin/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouseAdmin/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/osharehouseAdmin/appstore/5.png?cv=2" width="15%">
 
 간편하게 입주자를 모집하세요
 
@@ -191,11 +191,11 @@ CoreData를 사용하여 데이터 저장<br>
 
 `2017-04 ~ 2017-07`
 
-<img src="https://pikachu987.github.io/cvdata/resources/employment/backgroundHD/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/backgroundHD/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/backgroundHD/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/backgroundHD/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/backgroundHD/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/backgroundHD/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/backgroundHD/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/backgroundHD/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/backgroundHD/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/backgroundHD/appstore/5.png?cv=2" width="15%">
 
 고화질 배경화‪면‬
 
@@ -219,11 +219,11 @@ Localizable을 사용하여 다국어 지원<br>
 
 `2016-06 ~ 2016-11`
 
-<img src="https://pikachu987.github.io/cvdata/resources/employment/jundan/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/jundan/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/jundan/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/jundan/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/employment/jundan/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/jundan/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/jundan/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/jundan/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/jundan/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/employment/jundan/appstore/5.png?cv=2" width="15%">
 
 전단지를 앱으로 만들어 배포
 
@@ -248,11 +248,11 @@ Horizontal 무한 스크롤 개발<br>
 
 `2016-11 ~ 2016-12`
 
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/et/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/et/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/et/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/et/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/et/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/et/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/et/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/et/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/et/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/et/appstore/5.png?cv=2" width="15%">
 
 WebRTC를 이용해 통역 전문가와 통화
 
@@ -274,11 +274,11 @@ WebRTC를 이용해 통역 전문가와 통화
 
 `2016-12 ~ 2017-01`
 
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/virtualWearing/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/virtualWearing/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/virtualWearing/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/virtualWearing/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/virtualWearing/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/virtualWearing/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/virtualWearing/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/virtualWearing/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/virtualWearing/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/virtualWearing/appstore/5.png?cv=2" width="15%">
 
 가상으로 눈동자 위치와 눈동자 타원에 맞게 콘택트 렌즈를 잘라서 가상으로 써 볼수 있다.
 
@@ -298,11 +298,11 @@ WebRTC를 이용해 통역 전문가와 통화
 
 `2017-01 ~ 2017-02`
 
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/edubag/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/edubag/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/edubag/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/edubag/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/freelancer/edubag/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/edubag/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/edubag/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/edubag/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/edubag/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/freelancer/edubag/appstore/5.png?cv=2" width="15%">
 
 책가방은 방과후학교 운영을 위한 프로그램입니다.
 
@@ -325,11 +325,11 @@ WebRTC를 이용해 통역 전문가와 통화
 
 `2021-04 ~ 2021-04`
 
-<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/qrcode/appstore/5.png?cv=2" width="15%">
 
 ● QR코드를 텍스트로 만들수 있습니다.<br/>
 ● 웹뷰를 이용해 URL로 QR코드를 만들수 있습니다.<br/>
@@ -359,11 +359,11 @@ Share Extension으로 외부 앱에서 공유하기 지원<br>
 
 `2021-03 ~ 2021-03`
 
-<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/videoeditor/appstore/5.png?cv=2" width="15%">
 
 ● 비디오의 시작시간과 종료시간을 선택해 자를 수 있습니다.<br/>
 ● 비디오의 크기 및 없애고 싶은 영역을 자를 수 있습니다.<br/>
@@ -389,11 +389,11 @@ Localizable을 사용하여 다국어 지원<br>
 
 `2019-07 ~ 2019-07`
 
-<img src="https://pikachu987.github.io/cvdata/resources/individual/pattern/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/pattern/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/pattern/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/pattern/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/pattern/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/pattern/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/pattern/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/pattern/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/pattern/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/pattern/appstore/5.png?cv=2" width="15%">
 
 ● 자신에게 맞는 작업으로 하루하루 패턴을 맞게 살아보세요.<br/>
 ● 하루하루 패턴에 맞게 살았는지 통계를 확인해 보세요.<br/>
@@ -424,11 +424,11 @@ Localizable을 사용하여 다국어 지원<br>
 
 `2018-09 ~ 2018-09`
 
-<img src="https://pikachu987.github.io/cvdata/resources/individual/punto/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/punto/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/punto/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/punto/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/punto/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/punto/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/punto/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/punto/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/punto/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/punto/appstore/5.png?cv=2" width="15%">
 
 ● 사진첩에 있는 이미지를 편집할 수 있습니다.<br/>
 ● 캔버스를 편집할 수 있습니다.<br/>
@@ -459,11 +459,11 @@ Localizable을 사용하여 다국어 지원<br>
 
 `2018-01 ~ 2018-01`
 
-<img src="https://pikachu987.github.io/cvdata/resources/individual/makegif/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/makegif/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/makegif/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/makegif/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/makegif/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/makegif/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/makegif/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/makegif/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/makegif/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/makegif/appstore/5.png?cv=2" width="15%">
 
 ● 터치로 쉽게 움짤을 만들수 있습니다.<br/>
 ● 펜 색과 사이즈를 조절할수 있습니다.<br/>
@@ -489,11 +489,11 @@ CoreData를 사용하여 데이터 저장<br>
 
 `2018-01 ~ 2018-01`
 
-<img src="https://pikachu987.github.io/cvdata/resources/individual/fakecall/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/fakecall/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/fakecall/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/fakecall/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/fakecall/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/fakecall/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/fakecall/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/fakecall/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/fakecall/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/fakecall/appstore/5.png?cv=2" width="15%">
 
 ● 기존 휴대폰의 연락처에 있는 사람들에게 가짜로 전화를 걸 수 있습니다.<br/>
 ● 새로운 연락처를 등록해서 가짜로 전화를 걸 수 있습니다.<br/>
@@ -518,11 +518,11 @@ Localizable을 사용하여 다국어 지원<br>
 
 `2017-12 ~ 2017-12`
 
-<img src="https://pikachu987.github.io/cvdata/resources/individual/script/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/script/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/script/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/script/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/script/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/script/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/script/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/script/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/script/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/script/appstore/5.png?cv=2" width="15%">
 
 ● 나에게 맞는 앱 디자인을 선택할 수 있습니다.<br/>
 ● 중요 문장을 추가할수 있습니다.<br/>
@@ -553,9 +553,11 @@ CoreData를 사용하여 데이터 저장<br>
 
 `2017-01 ~ 2017-01`
 
-<img src="https://pikachu987.github.io/cvdata/resources/individual/markdown/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/markdown/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/markdown/appstore/3.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/markdown/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/markdown/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/markdown/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/markdown/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/markdown/appstore/5.png?cv=2" width="15%">
 
 ● 마크다운을 적을수 있다.<br>
 ● 마크다운을 적기 편하게 키보드 상단에 여러가지 버튼이 있다.<br>
@@ -579,11 +581,11 @@ CoreData를 사용하여 데이터 저장<br>
 
 `2017-01 ~ 2017-01`
 
-<img src="https://pikachu987.github.io/cvdata/resources/individual/memo/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/memo/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/memo/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/memo/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/memo/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/memo/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/memo/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/memo/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/memo/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/memo/appstore/5.png?cv=2" width="15%">
 
 ● 메모장에 펜으로 그림을 그릴수 있다.<br>
 ● 펜의 색, 크기를 바꿀수 있다.<br>
@@ -618,11 +620,11 @@ LocalAuthentication를 사용하여 FaceID, TouchID 구현
 
 `2017-01 ~ 2017-01`
 
-<img src="https://pikachu987.github.io/cvdata/resources/individual/editor/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/editor/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/editor/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/editor/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/individual/editor/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/editor/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/editor/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/editor/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/editor/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/individual/editor/appstore/5.png?cv=2" width="15%">
 
 ● 갤러리, 카메라(필터), 웹사이트, 저장된이미지, 지도에서 원하는 영역을 자르고 저장할 수 있다.<br>
 ● 원하는 영역을 타원으로 자를 수 있다.<br>
@@ -654,12 +656,12 @@ __[이미지 합성(https://itunes.apple.com/kr/app/editeo/id1192981741)](https:
 
 `2018-01 ~ 2018-01`
 
-<img src="https://pikachu987.github.io/cvdata/resources/team/common/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/team/common/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/team/common/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/team/common/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/team/common/appstore/5.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/team/common/appstore/6.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/team/common/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/team/common/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/team/common/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/team/common/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/team/common/appstore/5.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/team/common/appstore/6.png?cv=2" width="15%">
 
 <a href="https://www.facebook.com/unithonWithU/">`6회 유니톤(대학 해커톤) 우수상`</a>
 
@@ -675,11 +677,11 @@ __[이미지 합성(https://itunes.apple.com/kr/app/editeo/id1192981741)](https:
 
 `2018-04 ~ 2018-05`
 
-<img src="https://pikachu987.github.io/cvdata/resources/team/vote/appstore/1.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/team/vote/appstore/2.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/team/vote/appstore/3.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/team/vote/appstore/4.png?cv=1" width="15%">
-<img src="https://pikachu987.github.io/cvdata/resources/team/vote/appstore/5.png?cv=1" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/team/vote/appstore/1.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/team/vote/appstore/2.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/team/vote/appstore/3.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/team/vote/appstore/4.png?cv=2" width="15%">
+<img src="https://pikachu987.github.io/cvdata/resources/team/vote/appstore/5.png?cv=2" width="15%">
 
 __[답정너(https://itunes.apple.com/kr/app/답정너/id1379000768)](https://itunes.apple.com/kr/app/답정너/id1379000768)__
 
