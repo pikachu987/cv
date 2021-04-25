@@ -559,7 +559,6 @@ CoreData를 사용하여 데이터 저장<br>
 <img src="https://pikachu987.github.io/cvdata/resources/individual/markdown/appstore/4.png?cv=2" width="15%">
 <img src="https://pikachu987.github.io/cvdata/resources/individual/markdown/appstore/5.png?cv=2" width="15%">
 
-● 마크다운을 적을수 있다.<br>
 ● 마크다운을 적기 편하게 키보드 상단에 여러가지 버튼이 있다.<br>
 ● 마크다운을 웹뷰를 통해 이미지를 쉽게 보여줄 수 있다.<br>
 ● 마크다운을 적으면서 마크다운 미리보기를 할 수 있다.<br>
